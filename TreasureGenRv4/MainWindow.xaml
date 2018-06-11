@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TreasureGenRv4"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Treasure Generator" Height="350" Width="500">
     <Grid>
-        
+        <DataGrid Margin="10,10,10,35"/>
+        <Button Content="Generate!" Margin="191,0,201,10" VerticalAlignment="Bottom"/>
     </Grid>
 </Window>
