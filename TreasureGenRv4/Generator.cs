@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Windows.Controls;
+using TreasureGenRv4.Data;
+using System.Collections.Generic;
 using static TreasureGenRv4.CoinTypeEnum;
-using static TreasureGenRv4.ItemPowerEnum;
-using static TreasureGenRv4.MagicTypeEnum;
 using static TreasureGenRv4.ArmorTypeEnum;
 using static TreasureGenRv4.WeaponTypeEnum;
 
@@ -19,7 +17,7 @@ namespace TreasureGenRv4
             Normal,
             Double,
             Triple,
-            NPC
+            Npc
         }
         public enum ProgressionEnum
         {
@@ -30,14 +28,14 @@ namespace TreasureGenRv4
 
         private readonly Random _random = new Random();
 
-        private Dictionary<decimal, int> _crValue;
-        private Dictionary<decimal, int[]> _valuePerEncounter; // overall CR, [slow, medium, fast]
-        private Dictionary<decimal, int> _npcValue; // basic level, value
+        private readonly Dictionary<decimal, int> _crValue = XpTables.GetCrValue(); // monster CR, XP value
+        private readonly Dictionary<int, int[]> _valuePerEncounter = XpTables.GetValuePerEncounter(); // overall CR, [slow, medium, fast]
+        private readonly Dictionary<int, int> _npcValue = XpTables.GetNpcValue(); // basic level, value
 
         private List<Tuple<char, int, GeneratorSet>> _treasureTable; // type, value, generation set
 
-        private List<Tuple<Range[], int, int>> _potionSpellLevel; // [LMi, GMi, LMe, GMe, LMa, GMa], CL, SL
-        private List<Tuple<Range, bool>> _potionType; // d%, common?
+        private readonly string[][] _potionSpellLevel = PotionTables.GetPotionSpellLevel(); // [LMi, GMi, LMe, GMe, LMa, GMa], CL, SL
+        private readonly string[][] _potionType = PotionTables.GetPotionType(); // d%, common?
         private List<Tuple<Range, Potion>> _potions; // d%, potion
 
         private List<Tuple<Range[], int, int>> _scrollSpellLevel; // [LMi, GMi, LMe, GMe, LMa, GMa], CL, SL
@@ -52,7 +50,7 @@ namespace TreasureGenRv4
         private List<Tuple<Range, Art>> _art; // d%, art
 
         private List<Tuple<Range, Type>> _wondrousType; // d%, type
-        private List<Tuple<Range, Type, Wondrous>> _wondrous; // d%, type, wondrous
+        private List<Tuple<Range, Wondrous>> _wondrous; // d%, wondrous
 
         private List<Tuple<Range, Armor>> _armor; // d%, armor
         private List<Tuple<Range, Weapon>> _weapons; // d%, weapon
@@ -63,13 +61,13 @@ namespace TreasureGenRv4
         private List<Tuple<Range, Armor>> _specificArmor;
         private List<Tuple<Range, Weapon>> _specificWeapon;
 
-        public Tuple<decimal,int> GetCr(List<KeyValuePair<decimal, int>> crList, BudgetTypeEnum multiplier, ProgressionEnum progression)
+        public Tuple<decimal,int> GetCr(List<KeyValuePair<int, int>> crList, BudgetTypeEnum multiplier, ProgressionEnum progression)
         {
             int xp = 0;
-            foreach (KeyValuePair<decimal, int> cr in crList) xp += _crValue[cr.Key] * cr.Value;
-            decimal overallCr = _crValue.OrderByDescending(x => x.Key).FirstOrDefault(x => x.Value < xp).Key;
+            foreach (KeyValuePair<int, int> cr in crList) xp += _crValue[cr.Key] * cr.Value;
+            int overallCr = (int)_crValue.OrderByDescending(x => x.Key).FirstOrDefault(x => x.Value < xp).Key;
 
-            var value = multiplier == BudgetTypeEnum.NPC ? _npcValue[overallCr] : _valuePerEncounter[overallCr][(int) progression];
+            var value = multiplier == BudgetTypeEnum.Npc ? _npcValue[overallCr] : _valuePerEncounter[overallCr][(int) progression];
             switch (multiplier)
             {
                 case BudgetTypeEnum.None:
@@ -90,6 +88,8 @@ namespace TreasureGenRv4
         }
         public List<Item> Generate(char type, int gpValue)
         {
+            GeneratePotion(ItemPowerEnum.GreaterMajor, MagicTypeEnum.Arcane);
+
             List<Item> list = new List<Item>();
             GeneratorSet set = _treasureTable.OrderByDescending(x => x.Item2).FirstOrDefault(x => x.Item1 == type && x.Item2 > gpValue)?.Item3;
             if (set == null) return list;
@@ -190,10 +190,13 @@ namespace TreasureGenRv4
         }
         private Potion GeneratePotion(ItemPowerEnum itemPower, MagicTypeEnum magicType)
         {
-            int level = _potionSpellLevel.First(x => x.Item1[(int)itemPower].InRange(Roll())).Item3; // roll for spell level
-            bool common = _potionType.First(x => x.Item1.InRange(Roll())).Item2; // common or uncommon
+            int roll = Roll();
+            int level = int.Parse(_potionSpellLevel.First(x => new Range(x[(int) itemPower]).InRange(roll))[7]); // roll for spell level
+            roll = Roll();
+            bool common = bool.Parse(_potionType.First(x => new Range(x[0]).InRange(roll))[1]); // roll common or uncommon
+            roll = Roll();
             Potion potion = _potions.First(x =>
-                x.Item1.InRange(Roll()) && // roll for item
+                x.Item1.InRange(roll) && // roll for item
                 x.Item2.MagicType == magicType && // arcane or divine
                 x.Item2.SpellLevel == level &&
                 x.Item2.IsCommon == common).Item2;
@@ -325,7 +328,8 @@ namespace TreasureGenRv4
             Type wondrousType = _wondrousType.First(x => x.Item1.InRange(Roll())).Item2;
             Wondrous wondrous = _wondrous.First(x =>
                 x.Item1.InRange(Roll()) &&
-                x.Item2 == wondrousType).Item3;
+                x.Item2.ItemPower == itemPower &&
+                x.Item2.GetType() == wondrousType).Item2;
 
             return new Wondrous
             {
@@ -337,7 +341,7 @@ namespace TreasureGenRv4
         }
         private Ring GenerateRing(ItemPowerEnum itemPower)
         {
-            Ring ring = _rings.First(x => x.Item1.InRange(Roll())).Item2;
+            Ring ring = _rings.First(x => x.Item1.InRange(Roll()) && x.Item2.ItemPower == itemPower).Item2;
             return new Ring
             {
                 Name = ring.Name,
@@ -357,6 +361,20 @@ namespace TreasureGenRv4
         {
             First = first;
             Last = last;
+        }
+        public Range(string s)
+        {
+            string[] split = s.Split('–');
+            if (split.Length == 2 && int.TryParse(split[0], out int start) && int.TryParse(split[1], out int finish))
+            {
+                First = start;
+                Last = finish;
+            }
+            else
+            {
+                First = -1;
+                Last = -1;
+            }
         }
         public bool InRange(int value) => value >= First && value <= Last;
     }

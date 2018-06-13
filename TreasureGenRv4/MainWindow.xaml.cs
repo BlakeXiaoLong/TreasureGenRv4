@@ -23,6 +23,8 @@ namespace TreasureGenRv4
         public MainWindow()
         {
             InitializeComponent();
+            Generator g = new Generator();
+            g.Generate('a', 10000);
         }
     }
 }
