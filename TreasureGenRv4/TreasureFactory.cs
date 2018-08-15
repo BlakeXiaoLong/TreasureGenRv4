@@ -97,6 +97,7 @@ namespace TreasureGenRv4
         public Treasure CreateNew()
         {
             DataSet data = TreasureData.Instance.ScrollData;
+            data.Tables["ScrollLevel"].AsEnumerable().FirstOrDefault(x => InRange(x.Field<string>(Enum.GetName(typeof(RarityTypeEnum), _rarityType), Generator.Roll(1, 100)));
 
             throw new System.NotImplementedException();
         }

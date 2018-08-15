@@ -65,5 +65,19 @@ namespace TreasureGenRv4
             for (int i = 0; i < x; i++) ret += random.Next(1, y + 1);
             return ret;
         }
+        internal static bool InRange(string range, int value)
+        {
+            try
+            {
+                string[] values = range.Split('–');
+                if (values.Length == 1)
+                    return int.TryParse(values[0], out x) && x == value;
+                else if (values.Length == 2) 
+                    return int.TryParse(values[0], out x) && x <= value
+                        && int.TryParse(values[1], out var y) && y >= value;
+            }
+            catch () { }
+            return false;
+        }
     }
 }
