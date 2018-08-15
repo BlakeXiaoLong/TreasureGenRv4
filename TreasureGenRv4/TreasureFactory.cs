@@ -1,4 +1,7 @@
-﻿namespace TreasureGenRv4
+﻿using System.Data;
+using TreasureGenRv4.Data;
+
+namespace TreasureGenRv4
 {
     internal enum ArmorTypeEnum
     {
@@ -93,6 +96,8 @@
 
         public Treasure CreateNew()
         {
+            DataSet data = TreasureData.Instance.ScrollData;
+
             throw new System.NotImplementedException();
         }
     }

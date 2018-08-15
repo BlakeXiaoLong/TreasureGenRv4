@@ -57,6 +57,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Data\TreasureData.cs" />
     <Compile Include="Treasure.cs" />
     <Compile Include="TreasureFactory.cs" />
     <Page Include="MainWindow.xaml">
@@ -91,6 +92,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="Data\ArmamentData.json" />
+    <None Include="Data\PotionData.json" />
+    <None Include="Data\ScrollData.json" />
+    <None Include="Data\WandData.json" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
