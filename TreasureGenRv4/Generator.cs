@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TreasureGenRv4
 {
-    public static class Generator
+    public class Generator
     {
         public enum ProgressionTypeEnum { Slow = 0, Normal = 1, Fast = 2, NPC = 3 }
         public enum MultiplierTypeEnum { None, Incremental, Normal, Double, Triple }
@@ -31,7 +31,7 @@ namespace TreasureGenRv4
 
         public static int GetOverallCr(IEnumerable<int> crValues)
         {
-
+            throw new NotImplementedException();
         }
         public static int GetBudget(int overallCr, ProgressionTypeEnum progressionType, MultiplierTypeEnum multiplierType)
         {
@@ -48,36 +48,11 @@ namespace TreasureGenRv4
                 List<List<ITreasureFactory>> factories = values.Where(x => x.Key == values[i].Key).Select(x => x.Value).ToList();
                 while (budget > values[i].Key)
                 {
-                    factoryList.AddRange(factories[Roll(1, factories.Count) - 1]);
+                    factoryList.AddRange(factories[Helpers.Roll(1, factories.Count) - 1]);
                     budget -= values[i].Key;
                 }
             }
             return factoryList.Select(x => x.CreateNew()).ToList();
-        }
-
-        internal static int Roll(int x, int y, int m = 1)
-        {
-            if (y == 1) return x;
-            if (x < 1 || m == 0) return 0;
-
-            int ret = 0;
-            Random random = new Random(DateTime.Now.Millisecond);
-            for (int i = 0; i < x; i++) ret += random.Next(1, y + 1);
-            return ret;
-        }
-        internal static bool InRange(string range, int value)
-        {
-            try
-            {
-                string[] values = range.Split('–');
-                if (values.Length == 1)
-                    return int.TryParse(values[0], out x) && x == value;
-                else if (values.Length == 2) 
-                    return int.TryParse(values[0], out x) && x <= value
-                        && int.TryParse(values[1], out var y) && y >= value;
-            }
-            catch () { }
-            return false;
-        }
+        }        
     }
 }

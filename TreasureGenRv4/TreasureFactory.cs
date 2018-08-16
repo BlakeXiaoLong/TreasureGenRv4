@@ -1,4 +1,5 @@
-﻿using System.Data;
+﻿using System;
+using System.Data;
 using TreasureGenRv4.Data;
 
 namespace TreasureGenRv4
@@ -52,8 +53,7 @@ namespace TreasureGenRv4
             {
                 Name = "Sack of Coins",
                 TreasureType = TreasureTypeEnum.Coin,
-                TreasureValue = Generator.Roll(_x, _y, _m),
-                ValueType = _valueType
+                TreasureValue = $"{Helpers.Roll(_x, _y, _m)} {Enum.GetName(typeof(ValueTypeEnum),_valueType)}",
             };
         }
     }
@@ -97,9 +97,19 @@ namespace TreasureGenRv4
         public Treasure CreateNew()
         {
             DataSet data = TreasureData.Instance.ScrollData;
-            data.Tables["ScrollLevel"].AsEnumerable().FirstOrDefault(x => InRange(x.Field<string>(Enum.GetName(typeof(RarityTypeEnum), _rarityType), Generator.Roll(1, 100)));
 
-            throw new System.NotImplementedException();
+            DataRow levelRow = Helpers.GetRow(data, "ScrollLevel", Enum.GetName(typeof(RarityTypeEnum), _rarityType));
+            int casterLevel = Convert.ToInt32(levelRow["CasterLevel"]), scrollLevel = Convert.ToInt32(levelRow["SpellLevel"]);
+            string scrollType = Helpers.GetRow(data, "ScrollType", "d%").Field<string>("type");
+            DataRow spellRow = Helpers.GetRow(data, scrollLevel + scrollType, "d%");
+
+            return new CastableTreasure
+            {
+                Name = spellRow.Field<string>("spell"),
+                TreasureType = TreasureTypeEnum.Scroll,
+                TreasureValue = spellRow.Field<string>("price"),
+                CasterLevel = casterLevel
+            };
         }
     }
     internal class PotionFactory : ITreasureFactory
@@ -113,7 +123,20 @@ namespace TreasureGenRv4
 
         public Treasure CreateNew()
         {
-            throw new System.NotImplementedException();
+            DataSet data = TreasureData.Instance.PotionData;
+
+            DataRow levelRow = Helpers.GetRow(data, "PotionLevel", Enum.GetName(typeof(RarityTypeEnum), _rarityType));
+            int casterLevel = Convert.ToInt32(levelRow["CasterLevel"]), potionLevel = Convert.ToInt32(levelRow["SpellLevel"]);
+            string potionType = Helpers.GetRow(data, "PotionType", "d%").Field<string>("type");
+            DataRow spellRow = Helpers.GetRow(data, potionLevel + potionType, "d%");
+
+            return new CastableTreasure
+            {
+                Name = spellRow.Field<string>("spell"),
+                TreasureType = TreasureTypeEnum.Potion,
+                TreasureValue = spellRow.Field<string>("price"),
+                CasterLevel = casterLevel
+            };
         }
     }
     internal class WandFactory : ITreasureFactory
@@ -127,7 +150,20 @@ namespace TreasureGenRv4
 
         public Treasure CreateNew()
         {
-            throw new System.NotImplementedException();
+            DataSet data = TreasureData.Instance.WandData;
+
+            DataRow levelRow = Helpers.GetRow(data, "WandLevel", Enum.GetName(typeof(RarityTypeEnum), _rarityType));
+            int casterLevel = Convert.ToInt32(levelRow["CasterLevel"]), wandLevel = Convert.ToInt32(levelRow["SpellLevel"]);
+            string wandType = Helpers.GetRow(data, "WandType", "d%").Field<string>("type");
+            DataRow spellRow = Helpers.GetRow(data, wandLevel + wandType, "d%");
+
+            return new CastableTreasure
+            {
+                Name = spellRow.Field<string>("spell"),
+                TreasureType = TreasureTypeEnum.Potion,
+                TreasureValue = spellRow.Field<string>("price"),
+                CasterLevel = casterLevel
+            };
         }
     }
     internal class WeaponFactory : ITreasureFactory

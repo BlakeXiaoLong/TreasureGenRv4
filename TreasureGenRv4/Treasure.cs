@@ -49,8 +49,7 @@ namespace TreasureGenRv4
 
     public class Treasure
     {
-        public int TreasureValue { get; internal set; }
-        public ValueTypeEnum ValueType { get; internal set; }
+        public string TreasureValue { get; internal set; }
         public TreasureTypeEnum TreasureType { get; internal set; }
         public string Name { get; internal set; }
     }

@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 
 namespace TreasureGenRv4
 {
@@ -10,7 +11,12 @@ namespace TreasureGenRv4
         public MainWindow()
         {
             InitializeComponent();
-            Generator g = new Generator();
+            ScrollFactory s = new ScrollFactory(RarityTypeEnum.LesserMajor);
+            PotionFactory p = new PotionFactory(RarityTypeEnum.GreaterMajor);
+            WandFactory w = new WandFactory(RarityTypeEnum.GreaterMinor);
+            Treasure t0 = s.CreateNew();
+            Treasure t1 = p.CreateNew();
+            Treasure t2 = w.CreateNew();
         }
     }
 }

@@ -1,666 +1,666 @@
 {
   "0CommonArcane": [
     {
-      "d%": "01–09",
+      "d%": "01-09",
       "spell": "Acid splash",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "10–17",
+      "d%": "10-17",
       "spell": "Daze",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "18–27",
+      "d%": "18-27",
       "spell": "Detect magic",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "28–35",
+      "d%": "28-35",
       "spell": "Flare",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "36–45",
+      "d%": "36-45",
       "spell": "Light",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "46–55",
+      "d%": "46-55",
       "spell": "Mage hand",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "56–63",
+      "d%": "56-63",
       "spell": "Mending",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "64–72",
+      "d%": "64-72",
       "spell": "Prestidigitation",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "73–81",
+      "d%": "73-81",
       "spell": "Ray of frost",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "82–91",
+      "d%": "82-91",
       "spell": "Read magic",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "92–100",
+      "d%": "92-100",
       "spell": "Touch of fatigue",
       "price": "12 gp 5 sp"
     }
   ],
   "0CommonDivine": [
     {
-      "d%": "01–11",
+      "d%": "01-11",
       "spell": "Bleed",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "12–21",
+      "d%": "12-21",
       "spell": "Create water",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "22–34",
+      "d%": "22-34",
       "spell": "Detect magic",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "35–44",
+      "d%": "35-44",
       "spell": "Know direction",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "45–55",
+      "d%": "45-55",
       "spell": "Light",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "56–65",
+      "d%": "56-65",
       "spell": "Mending",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "66–75",
+      "d%": "66-75",
       "spell": "Purify food and drink",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "76–88",
+      "d%": "76-88",
       "spell": "Read magic",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "89–100",
+      "d%": "89-100",
       "spell": "Stabilize",
       "price": "12 gp 5 sp"
     }
   ],
   "0UncommonArcane": [
     {
-      "d%": "01–07",
+      "d%": "01-07",
       "spell": "Arcane mark",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "08–17",
+      "d%": "08-17",
       "spell": "Bleed",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "18–25",
+      "d%": "18-25",
       "spell": "Dancing lights",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "26–35",
+      "d%": "26-35",
       "spell": "Detect poison",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "36–42",
+      "d%": "36-42",
       "spell": "Disrupt undead",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "43–51",
+      "d%": "43-51",
       "spell": "Ghost sound",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "52–61",
+      "d%": "52-61",
       "spell": "Message",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "62–68",
+      "d%": "62-68",
       "spell": "Open/close",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "69–75",
+      "d%": "69-75",
       "spell": "Resistance",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "76–83",
+      "d%": "76-83",
       "spell": "Sift",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "84–92",
+      "d%": "84-92",
       "spell": "Spark",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "93–100",
+      "d%": "93-100",
       "spell": "Unwitting ally",
       "price": "12 gp 5 sp"
     }
   ],
   "0UncommonDivine": [
     {
-      "d%": "01–15",
+      "d%": "01-15",
       "spell": "Detect poison",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "16–33",
+      "d%": "16-33",
       "spell": "Flare",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "34–50",
+      "d%": "34-50",
       "spell": "Guidance",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "51–68",
+      "d%": "51-68",
       "spell": "Resistance",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "69–85",
+      "d%": "69-85",
       "spell": "Spark",
       "price": "12 gp 5 sp"
     },
     {
-      "d%": "86–100",
+      "d%": "86-100",
       "spell": "Virtue",
       "price": "12 gp 5 sp"
     }
   ],
   "1CommonArcane": [
     {
-      "d%": "01–05",
+      "d%": "01-05",
       "spell": "Burning hands",
       "price": "25 gp"
     },
     {
-      "d%": "06–09",
+      "d%": "06-09",
       "spell": "Cause fear",
       "price": "25 gp"
     },
     {
-      "d%": "10–14",
+      "d%": "10-14",
       "spell": "Charm person",
       "price": "25 gp"
     },
     {
-      "d%": "15–17",
+      "d%": "15-17",
       "spell": "Chill touch",
       "price": "25 gp"
     },
     {
-      "d%": "18–21",
+      "d%": "18-21",
       "spell": "Disguise self",
       "price": "25 gp"
     },
     {
-      "d%": "22–24",
+      "d%": "22-24",
       "spell": "Endure elements",
       "price": "25 gp"
     },
     {
-      "d%": "25–28",
+      "d%": "25-28",
       "spell": "Enlarge person",
       "price": "25 gp"
     },
     {
-      "d%": "29–32",
+      "d%": "29-32",
       "spell": "Expeditious retreat",
       "price": "25 gp"
     },
     {
-      "d%": "33–36",
+      "d%": "33-36",
       "spell": "Grease",
       "price": "25 gp"
     },
     {
-      "d%": "37–39",
+      "d%": "37-39",
       "spell": "Hypnotism",
       "price": "25 gp"
     },
     {
-      "d%": "40–42",
+      "d%": "40-42",
       "spell": "Identify",
       "price": "25 gp"
     },
     {
-      "d%": "43–48",
+      "d%": "43-48",
       "spell": "Mage armor",
       "price": "25 gp"
     },
     {
-      "d%": "49–54",
+      "d%": "49-54",
       "spell": "Magic missile",
       "price": "25 gp"
     },
     {
-      "d%": "55–58",
+      "d%": "55-58",
       "spell": "Magic weapon",
       "price": "25 gp"
     },
     {
-      "d%": "59–62",
+      "d%": "59-62",
       "spell": "Obscuring mist",
       "price": "25 gp"
     },
     {
-      "d%": "63–64",
+      "d%": "63-64",
       "spell": "Protection from chaos",
       "price": "25 gp"
     },
     {
-      "d%": "65–67",
+      "d%": "65-67",
       "spell": "Protection from evil",
       "price": "25 gp"
     },
     {
-      "d%": "68–69",
+      "d%": "68-69",
       "spell": "Protection from good",
       "price": "25 gp"
     },
     {
-      "d%": "70–71",
+      "d%": "70-71",
       "spell": "Protection from law",
       "price": "25 gp"
     },
     {
-      "d%": "72–75",
+      "d%": "72-75",
       "spell": "Ray of enfeeblement",
       "price": "25 gp"
     },
     {
-      "d%": "76–80",
+      "d%": "76-80",
       "spell": "Shield",
       "price": "25 gp"
     },
     {
-      "d%": "81–84",
+      "d%": "81-84",
       "spell": "Shocking grasp",
       "price": "25 gp"
     },
     {
-      "d%": "85–88",
+      "d%": "85-88",
       "spell": "Silent image",
       "price": "25 gp"
     },
     {
-      "d%": "89–93",
+      "d%": "89-93",
       "spell": "Sleep",
       "price": "25 gp"
     },
     {
-      "d%": "94–96",
+      "d%": "94-96",
       "spell": "Summon monster I",
       "price": "25 gp"
     },
     {
-      "d%": "97–100",
+      "d%": "97-100",
       "spell": "True strike",
       "price": "25 gp"
     }
   ],
   "1CommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Bane",
       "price": "25 gp"
     },
     {
-      "d%": "05–10",
+      "d%": "05-10",
       "spell": "Bless",
       "price": "25 gp"
     },
     {
-      "d%": "11–15",
+      "d%": "11-15",
       "spell": "Cause fear",
       "price": "25 gp"
     },
     {
-      "d%": "16–19",
+      "d%": "16-19",
       "spell": "Command",
       "price": "25 gp"
     },
     {
-      "d%": "20–22",
+      "d%": "20-22",
       "spell": "Comprehend languages",
       "price": "25 gp"
     },
     {
-      "d%": "23–28",
+      "d%": "23-28",
       "spell": "Cure light wounds",
       "price": "25 gp"
     },
     {
-      "d%": "29–30",
+      "d%": "29-30",
       "spell": "Detect chaos",
       "price": "25 gp"
     },
     {
-      "d%": "31–32",
+      "d%": "31-32",
       "spell": "Detect evil",
       "price": "25 gp"
     },
     {
-      "d%": "33–34",
+      "d%": "33-34",
       "spell": "Detect good",
       "price": "25 gp"
     },
     {
-      "d%": "35–36",
+      "d%": "35-36",
       "spell": "Detect law",
       "price": "25 gp"
     },
     {
-      "d%": "37–39",
+      "d%": "37-39",
       "spell": "Detect undead",
       "price": "25 gp"
     },
     {
-      "d%": "40–45",
+      "d%": "40-45",
       "spell": "Divine favor",
       "price": "25 gp"
     },
     {
-      "d%": "46–48",
+      "d%": "46-48",
       "spell": "Doom",
       "price": "25 gp"
     },
     {
-      "d%": "49–52",
+      "d%": "49-52",
       "spell": "Entangle",
       "price": "25 gp"
     },
     {
-      "d%": "53–57",
+      "d%": "53-57",
       "spell": "Inflict light wounds",
       "price": "25 gp"
     },
     {
-      "d%": "58–61",
+      "d%": "58-61",
       "spell": "Magic fang",
       "price": "25 gp"
     },
     {
-      "d%": "62–65",
+      "d%": "62-65",
       "spell": "Obscuring mist",
       "price": "25 gp"
     },
     {
-      "d%": "66–68",
+      "d%": "66-68",
       "spell": "Produce flame",
       "price": "25 gp"
     },
     {
-      "d%": "69–71",
+      "d%": "69-71",
       "spell": "Protection from chaos",
       "price": "25 gp"
     },
     {
-      "d%": "72–74",
+      "d%": "72-74",
       "spell": "Protection from evil",
       "price": "25 gp"
     },
     {
-      "d%": "75–77",
+      "d%": "75-77",
       "spell": "Protection from good",
       "price": "25 gp"
     },
     {
-      "d%": "78–80",
+      "d%": "78-80",
       "spell": "Protection from law",
       "price": "25 gp"
     },
     {
-      "d%": "81–84",
+      "d%": "81-84",
       "spell": "Remove fear",
       "price": "25 gp"
     },
     {
-      "d%": "85–88",
+      "d%": "85-88",
       "spell": "Sanctuary",
       "price": "25 gp"
     },
     {
-      "d%": "89–94",
+      "d%": "89-94",
       "spell": "Shield of faith",
       "price": "25 gp"
     },
     {
-      "d%": "95–97",
+      "d%": "95-97",
       "spell": "Summon monster I",
       "price": "25 gp"
     },
     {
-      "d%": "98–100",
+      "d%": "98-100",
       "spell": "Summon nature's ally I",
       "price": "25 gp"
     }
   ],
   "1UncommonArcane": [
     {
-      "d%": "01–02",
+      "d%": "01-02",
       "spell": "Air bubble",
       "price": "25 gp"
     },
     {
-      "d%": "03–06",
+      "d%": "03-06",
       "spell": "Alarm",
       "price": "25 gp"
     },
     {
-      "d%": "07–08",
+      "d%": "07-08",
       "spell": "Animate rope",
       "price": "25 gp"
     },
     {
-      "d%": "09–12",
+      "d%": "09-12",
       "spell": "Ant haul",
       "price": "25 gp"
     },
     {
-      "d%": "13–15",
+      "d%": "13-15",
       "spell": "Blend",
       "price": "25 gp"
     },
     {
-      "d%": "16–18",
+      "d%": "16-18",
       "spell": "Break",
       "price": "25 gp"
     },
     {
-      "d%": "19–23",
+      "d%": "19-23",
       "spell": "Color spray",
       "price": "25 gp"
     },
     {
-      "d%": "24–26",
+      "d%": "24-26",
       "spell": "Comprehend languages",
       "price": "25 gp"
     },
     {
-      "d%": "27–30",
+      "d%": "27-30",
       "spell": "Corrosive touch",
       "price": "25 gp"
     },
     {
-      "d%": "31–33",
+      "d%": "31-33",
       "spell": "Detect secret doors",
       "price": "25 gp"
     },
     {
-      "d%": "34–36",
+      "d%": "34-36",
       "spell": "Detect undead",
       "price": "25 gp"
     },
     {
-      "d%": "37–38",
+      "d%": "37-38",
       "spell": "Erase",
       "price": "25 gp"
     },
     {
-      "d%": "39–40",
+      "d%": "39-40",
       "spell": "Flare burst",
       "price": "25 gp"
     },
     {
-      "d%": "41–43",
+      "d%": "41-43",
       "spell": "Floating disk",
       "price": "25 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Hold portal",
       "price": "25 gp"
     },
     {
-      "d%": "47–48",
+      "d%": "47-48",
       "spell": "Hydraulic push",
       "price": "25 gp"
     },
     {
-      "d%": "49–51",
+      "d%": "49-51",
       "spell": "Icicle dagger",
       "price": "25 gp"
     },
     {
-      "d%": "52–54",
+      "d%": "52-54",
       "spell": "Illusion of calm",
       "price": "25 gp"
     },
     {
-      "d%": "55–58",
+      "d%": "55-58",
       "spell": "Jump",
       "price": "25 gp"
     },
     {
-      "d%": "59–60",
+      "d%": "59-60",
       "spell": "Magic aura",
       "price": "25 gp"
     },
     {
-      "d%": "61–63",
+      "d%": "61-63",
       "spell": "Mirror strike",
       "price": "25 gp"
     },
     {
-      "d%": "64–66",
+      "d%": "64-66",
       "spell": "Mount",
       "price": "25 gp"
     },
     {
-      "d%": "67–69",
+      "d%": "67-69",
       "spell": "Ray of sickening",
       "price": "25 gp"
     },
     {
-      "d%": "70–71",
+      "d%": "70-71",
       "spell": "Reduce person",
       "price": "25 gp"
     },
     {
-      "d%": "72–74",
+      "d%": "72-74",
       "spell": "Shadow weapon",
       "price": "25 gp"
     },
     {
-      "d%": "75–77",
+      "d%": "75-77",
       "spell": "Shock shield",
       "price": "25 gp"
     },
     {
-      "d%": "78–80",
+      "d%": "78-80",
       "spell": "Stone fist",
       "price": "25 gp"
     },
     {
-      "d%": "81–84",
+      "d%": "81-84",
       "spell": "Touch of the sea",
       "price": "25 gp"
     },
     {
-      "d%": "85–88",
+      "d%": "85-88",
       "spell": "Unseen servant",
       "price": "25 gp"
     },
     {
-      "d%": "89–91",
+      "d%": "89-91",
       "spell": "Urban grace",
       "price": "25 gp"
     },
     {
-      "d%": "92–96",
+      "d%": "92-96",
       "spell": "Vanish",
       "price": "25 gp"
     },
     {
-      "d%": "97–98",
+      "d%": "97-98",
       "spell": "Ventriloquism",
       "price": "25 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Voice alteration",
       "price": "25 gp"
     }
   ],
   "1UncommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Ant haul",
       "price": "25 gp"
     },
     {
-      "d%": "05–07",
+      "d%": "05-07",
       "spell": "Aspect of the falcon",
       "price": "25 gp"
     },
     {
-      "d%": "08–09",
+      "d%": "08-09",
       "spell": "Calm animals",
       "price": "25 gp"
     },
     {
-      "d%": "10–12",
+      "d%": "10-12",
       "spell": "Charm animal",
       "price": "25 gp"
     },
     {
-      "d%": "13–15",
+      "d%": "13-15",
       "spell": "Compel hostility",
       "price": "25 gp"
     },
     {
-      "d%": "16–17",
+      "d%": "16-17",
       "spell": "Deathwatch",
       "price": "25 gp"
     },
@@ -670,47 +670,47 @@
       "price": "25 gp"
     },
     {
-      "d%": "19–20",
+      "d%": "19-20",
       "spell": "Detect snares and pits",
       "price": "25 gp"
     },
     {
-      "d%": "21–23",
+      "d%": "21-23",
       "spell": "Diagnose disease",
       "price": "25 gp"
     },
     {
-      "d%": "24–27",
+      "d%": "24-27",
       "spell": "Endure elements",
       "price": "25 gp"
     },
     {
-      "d%": "28–30",
+      "d%": "28-30",
       "spell": "Entropic shield",
       "price": "25 gp"
     },
     {
-      "d%": "31–33",
+      "d%": "31-33",
       "spell": "Faerie fire",
       "price": "25 gp"
     },
     {
-      "d%": "34–36",
+      "d%": "34-36",
       "spell": "Feather step",
       "price": "25 gp"
     },
     {
-      "d%": "37–39",
+      "d%": "37-39",
       "spell": "Forbid action",
       "price": "25 gp"
     },
     {
-      "d%": "40–42",
+      "d%": "40-42",
       "spell": "Frostbite",
       "price": "25 gp"
     },
     {
-      "d%": "43–46",
+      "d%": "43-46",
       "spell": "Goodberry",
       "price": "25 gp"
     },
@@ -720,47 +720,47 @@
       "price": "25 gp"
     },
     {
-      "d%": "48–49",
+      "d%": "48-49",
       "spell": "Hide from undead",
       "price": "25 gp"
     },
     {
-      "d%": "50–52",
+      "d%": "50-52",
       "spell": "Hydraulic push",
       "price": "25 gp"
     },
     {
-      "d%": "53–55",
+      "d%": "53-55",
       "spell": "Jump",
       "price": "25 gp"
     },
     {
-      "d%": "56–59",
+      "d%": "56-59",
       "spell": "Keen senses",
       "price": "25 gp"
     },
     {
-      "d%": "60–62",
+      "d%": "60-62",
       "spell": "Liberating command",
       "price": "25 gp"
     },
     {
-      "d%": "63–65",
+      "d%": "63-65",
       "spell": "Longstrider",
       "price": "25 gp"
     },
     {
-      "d%": "66–68",
+      "d%": "66-68",
       "spell": "Magic stone",
       "price": "25 gp"
     },
     {
-      "d%": "69–72",
+      "d%": "69-72",
       "spell": "Pass without trace",
       "price": "25 gp"
     },
     {
-      "d%": "73–74",
+      "d%": "73-74",
       "spell": "Remove sickness",
       "price": "25 gp"
     },
@@ -770,418 +770,418 @@
       "price": "25 gp"
     },
     {
-      "d%": "76–78",
+      "d%": "76-78",
       "spell": "Shillelagh",
       "price": "25 gp"
     },
     {
-      "d%": "79–81",
+      "d%": "79-81",
       "spell": "Speak with animals",
       "price": "25 gp"
     },
     {
-      "d%": "82–85",
+      "d%": "82-85",
       "spell": "Stone fist",
       "price": "25 gp"
     },
     {
-      "d%": "86–88",
+      "d%": "86-88",
       "spell": "Stone shield",
       "price": "25 gp"
     },
     {
-      "d%": "89–91",
+      "d%": "89-91",
       "spell": "Sun metal",
       "price": "25 gp"
     },
     {
-      "d%": "92–95",
+      "d%": "92-95",
       "spell": "Touch of the sea",
       "price": "25 gp"
     },
     {
-      "d%": "96–98",
+      "d%": "96-98",
       "spell": "Bless water",
       "price": "50 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Curse water",
       "price": "50 gp"
     }
   ],
   "2CommonArcane": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Acid arrow",
       "price": "150 gp"
     },
     {
-      "d%": "05–07",
+      "d%": "05-07",
       "spell": "Alter self",
       "price": "150 gp"
     },
     {
-      "d%": "08–12",
+      "d%": "08-12",
       "spell": "Bear's endurance",
       "price": "150 gp"
     },
     {
-      "d%": "13–15",
+      "d%": "13-15",
       "spell": "Blur",
       "price": "150 gp"
     },
     {
-      "d%": "16–20",
+      "d%": "16-20",
       "spell": "Bull's strength",
       "price": "150 gp"
     },
     {
-      "d%": "21–24",
+      "d%": "21-24",
       "spell": "Cat's grace",
       "price": "150 gp"
     },
     {
-      "d%": "25–27",
+      "d%": "25-27",
       "spell": "Darkness",
       "price": "150 gp"
     },
     {
-      "d%": "28–30",
+      "d%": "28-30",
       "spell": "Darkvision",
       "price": "150 gp"
     },
     {
-      "d%": "31–34",
+      "d%": "31-34",
       "spell": "Eagle's splendor",
       "price": "150 gp"
     },
     {
-      "d%": "35–37",
+      "d%": "35-37",
       "spell": "False life",
       "price": "150 gp"
     },
     {
-      "d%": "38–40",
+      "d%": "38-40",
       "spell": "Flaming sphere",
       "price": "150 gp"
     },
     {
-      "d%": "41–44",
+      "d%": "41-44",
       "spell": "Fox's cunning",
       "price": "150 gp"
     },
     {
-      "d%": "45–47",
+      "d%": "45-47",
       "spell": "Glitterdust",
       "price": "150 gp"
     },
     {
-      "d%": "48–52",
+      "d%": "48-52",
       "spell": "Invisibility",
       "price": "150 gp"
     },
     {
-      "d%": "53–54",
+      "d%": "53-54",
       "spell": "Knock",
       "price": "150 gp"
     },
     {
-      "d%": "55–58",
+      "d%": "55-58",
       "spell": "Levitate",
       "price": "150 gp"
     },
     {
-      "d%": "59–61",
+      "d%": "59-61",
       "spell": "Minor image",
       "price": "150 gp"
     },
     {
-      "d%": "62–65",
+      "d%": "62-65",
       "spell": "Mirror image",
       "price": "150 gp"
     },
     {
-      "d%": "66–69",
+      "d%": "66-69",
       "spell": "Owl's wisdom",
       "price": "150 gp"
     },
     {
-      "d%": "70–73",
+      "d%": "70-73",
       "spell": "Resist energy",
       "price": "150 gp"
     },
     {
-      "d%": "74–75",
+      "d%": "74-75",
       "spell": "Rope trick",
       "price": "150 gp"
     },
     {
-      "d%": "76–80",
+      "d%": "76-80",
       "spell": "Scorching ray",
       "price": "150 gp"
     },
     {
-      "d%": "81–83",
+      "d%": "81-83",
       "spell": "See invisibility",
       "price": "150 gp"
     },
     {
-      "d%": "84–85",
+      "d%": "84-85",
       "spell": "Shatter",
       "price": "150 gp"
     },
     {
-      "d%": "86–88",
+      "d%": "86-88",
       "spell": "Spider climb",
       "price": "150 gp"
     },
     {
-      "d%": "89–91",
+      "d%": "89-91",
       "spell": "Summon monster II",
       "price": "150 gp"
     },
     {
-      "d%": "92–93",
+      "d%": "92-93",
       "spell": "Summon swarm",
       "price": "150 gp"
     },
     {
-      "d%": "94–98",
+      "d%": "94-98",
       "spell": "Web",
       "price": "150 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Whispering wind",
       "price": "150 gp"
     }
   ],
   "2CommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Aid",
       "price": "150 gp"
     },
     {
-      "d%": "05–06",
+      "d%": "05-06",
       "spell": "Align weapon",
       "price": "150 gp"
     },
     {
-      "d%": "07–08",
+      "d%": "07-08",
       "spell": "Animal messenger",
       "price": "150 gp"
     },
     {
-      "d%": "09–13",
+      "d%": "09-13",
       "spell": "Barkskin",
       "price": "150 gp"
     },
     {
-      "d%": "14–16",
+      "d%": "14-16",
       "spell": "Bear's endurance",
       "price": "150 gp"
     },
     {
-      "d%": "17–19",
+      "d%": "17-19",
       "spell": "Bull's strength",
       "price": "150 gp"
     },
     {
-      "d%": "20–22",
+      "d%": "20-22",
       "spell": "Cat's grace",
       "price": "150 gp"
     },
     {
-      "d%": "23–24",
+      "d%": "23-24",
       "spell": "Chill metal",
       "price": "150 gp"
     },
     {
-      "d%": "25–30",
+      "d%": "25-30",
       "spell": "Cure moderate wounds",
       "price": "150 gp"
     },
     {
-      "d%": "31–33",
+      "d%": "31-33",
       "spell": "Darkness",
       "price": "150 gp"
     },
     {
-      "d%": "34–36",
+      "d%": "34-36",
       "spell": "Delay poison",
       "price": "150 gp"
     },
     {
-      "d%": "37–39",
+      "d%": "37-39",
       "spell": "Eagle's splendor",
       "price": "150 gp"
     },
     {
-      "d%": "40–41",
+      "d%": "40-41",
       "spell": "Find traps",
       "price": "150 gp"
     },
     {
-      "d%": "42–44",
+      "d%": "42-44",
       "spell": "Flame blade",
       "price": "150 gp"
     },
     {
-      "d%": "45–46",
+      "d%": "45-46",
       "spell": "Fog cloud",
       "price": "150 gp"
     },
     {
-      "d%": "47–50",
+      "d%": "47-50",
       "spell": "Heat metal",
       "price": "150 gp"
     },
     {
-      "d%": "51–52",
+      "d%": "51-52",
       "spell": "Hold animal",
       "price": "150 gp"
     },
     {
-      "d%": "53–56",
+      "d%": "53-56",
       "spell": "Hold person",
       "price": "150 gp"
     },
     {
-      "d%": "57–60",
+      "d%": "57-60",
       "spell": "Inflict moderate wounds",
       "price": "150 gp"
     },
     {
-      "d%": "61–63",
+      "d%": "61-63",
       "spell": "Owl's wisdom",
       "price": "150 gp"
     },
     {
-      "d%": "64–65",
+      "d%": "64-65",
       "spell": "Remove paralysis",
       "price": "150 gp"
     },
     {
-      "d%": "66–68",
+      "d%": "66-68",
       "spell": "Resist energy",
       "price": "150 gp"
     },
     {
-      "d%": "69–73",
+      "d%": "69-73",
       "spell": "Restoration lesser",
       "price": "150 gp"
     },
     {
-      "d%": "74–77",
+      "d%": "74-77",
       "spell": "Shield other",
       "price": "150 gp"
     },
     {
-      "d%": "78–81",
+      "d%": "78-81",
       "spell": "Silence",
       "price": "150 gp"
     },
     {
-      "d%": "82–85",
+      "d%": "82-85",
       "spell": "Sound burst",
       "price": "150 gp"
     },
     {
-      "d%": "86–89",
+      "d%": "86-89",
       "spell": "Spiritual weapon",
       "price": "150 gp"
     },
     {
-      "d%": "90–91",
+      "d%": "90-91",
       "spell": "Summon monster II",
       "price": "150 gp"
     },
     {
-      "d%": "92–93",
+      "d%": "92-93",
       "spell": "Summon nature's ally II",
       "price": "150 gp"
     },
     {
-      "d%": "94–95",
+      "d%": "94-95",
       "spell": "Summon swarm",
       "price": "150 gp"
     },
     {
-      "d%": "96–97",
+      "d%": "96-97",
       "spell": "Zone of truth",
       "price": "150 gp"
     },
     {
-      "d%": "98–100",
+      "d%": "98-100",
       "spell": "Augury",
       "price": "175 gp"
     }
   ],
   "2UncommonArcane": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Bestow weapon proficiency",
       "price": "150 gp"
     },
     {
-      "d%": "04–06",
+      "d%": "04-06",
       "spell": "Blindness/deafness",
       "price": "150 gp"
     },
     {
-      "d%": "07–09",
+      "d%": "07-09",
       "spell": "Burning gaze",
       "price": "150 gp"
     },
     {
-      "d%": "10–12",
+      "d%": "10-12",
       "spell": "Certain grip",
       "price": "150 gp"
     },
     {
-      "d%": "13–14",
+      "d%": "13-14",
       "spell": "Command undead",
       "price": "150 gp"
     },
     {
-      "d%": "15–16",
+      "d%": "15-16",
       "spell": "Create pit",
       "price": "150 gp"
     },
     {
-      "d%": "17–20",
+      "d%": "17-20",
       "spell": "Daze monster",
       "price": "150 gp"
     },
     {
-      "d%": "21–23",
+      "d%": "21-23",
       "spell": "Detect thoughts",
       "price": "150 gp"
     },
     {
-      "d%": "24–27",
+      "d%": "24-27",
       "spell": "Disguise other",
       "price": "150 gp"
     },
     {
-      "d%": "28–31",
+      "d%": "28-31",
       "spell": "Elemental touch",
       "price": "150 gp"
     },
     {
-      "d%": "32–34",
+      "d%": "32-34",
       "spell": "Fire breath",
       "price": "150 gp"
     },
     {
-      "d%": "35–38",
+      "d%": "35-38",
       "spell": "Fog cloud",
       "price": "150 gp"
     },
     {
-      "d%": "39–40",
+      "d%": "39-40",
       "spell": "Ghoul touch",
       "price": "150 gp"
     },
@@ -1191,37 +1191,37 @@
       "price": "150 gp"
     },
     {
-      "d%": "42–44",
+      "d%": "42-44",
       "spell": "Gust of wind",
       "price": "150 gp"
     },
     {
-      "d%": "45–47",
+      "d%": "45-47",
       "spell": "Haunting mists",
       "price": "150 gp"
     },
     {
-      "d%": "48–51",
+      "d%": "48-51",
       "spell": "Hideous laughter",
       "price": "150 gp"
     },
     {
-      "d%": "52–54",
+      "d%": "52-54",
       "spell": "Hypnotic pattern",
       "price": "150 gp"
     },
     {
-      "d%": "55–57",
+      "d%": "55-57",
       "spell": "Locate object",
       "price": "150 gp"
     },
     {
-      "d%": "58–60",
+      "d%": "58-60",
       "spell": "Make whole",
       "price": "150 gp"
     },
     {
-      "d%": "61–62",
+      "d%": "61-62",
       "spell": "Misdirection",
       "price": "150 gp"
     },
@@ -1231,57 +1231,57 @@
       "price": "150 gp"
     },
     {
-      "d%": "64–65",
+      "d%": "64-65",
       "spell": "Pernicious poison",
       "price": "150 gp"
     },
     {
-      "d%": "66–67",
+      "d%": "66-67",
       "spell": "Protection from arrows",
       "price": "150 gp"
     },
     {
-      "d%": "68–70",
+      "d%": "68-70",
       "spell": "Pyrotechnics",
       "price": "150 gp"
     },
     {
-      "d%": "71–73",
+      "d%": "71-73",
       "spell": "Returning weapon",
       "price": "150 gp"
     },
     {
-      "d%": "74–77",
+      "d%": "74-77",
       "spell": "Scare",
       "price": "150 gp"
     },
     {
-      "d%": "78–80",
+      "d%": "78-80",
       "spell": "Shadow anchor",
       "price": "150 gp"
     },
     {
-      "d%": "81–83",
+      "d%": "81-83",
       "spell": "Share memory",
       "price": "150 gp"
     },
     {
-      "d%": "84–85",
+      "d%": "84-85",
       "spell": "Slipstream",
       "price": "150 gp"
     },
     {
-      "d%": "86–88",
+      "d%": "86-88",
       "spell": "Spectral hand",
       "price": "150 gp"
     },
     {
-      "d%": "89–90",
+      "d%": "89-90",
       "spell": "Spontaneous immolation",
       "price": "150 gp"
     },
     {
-      "d%": "91–93",
+      "d%": "91-93",
       "spell": "Touch of idiocy",
       "price": "150 gp"
     },
@@ -1291,7 +1291,7 @@
       "price": "150 gp"
     },
     {
-      "d%": "95–96",
+      "d%": "95-96",
       "spell": "Magic mouth",
       "price": "160 gp"
     },
@@ -1301,7 +1301,7 @@
       "price": "175 gp"
     },
     {
-      "d%": "98–99",
+      "d%": "98-99",
       "spell": "Continual flame",
       "price": "200 gp"
     },
@@ -1313,147 +1313,147 @@
   ],
   "2UncommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Animal aspect",
       "price": "150 gp"
     },
     {
-      "d%": "05–06",
+      "d%": "05-06",
       "spell": "Animal trance",
       "price": "150 gp"
     },
     {
-      "d%": "07–10",
+      "d%": "07-10",
       "spell": "Animate dead lesser",
       "price": "150 gp"
     },
     {
-      "d%": "11–13",
+      "d%": "11-13",
       "spell": "Arrow of law",
       "price": "150 gp"
     },
     {
-      "d%": "14–17",
+      "d%": "14-17",
       "spell": "Aspect of the bear",
       "price": "150 gp"
     },
     {
-      "d%": "18–20",
+      "d%": "18-20",
       "spell": "Blessing of courage and life",
       "price": "150 gp"
     },
     {
-      "d%": "21–24",
+      "d%": "21-24",
       "spell": "Calm emotions",
       "price": "150 gp"
     },
     {
-      "d%": "25–27",
+      "d%": "25-27",
       "spell": "Death knell",
       "price": "150 gp"
     },
     {
-      "d%": "28–30",
+      "d%": "28-30",
       "spell": "Dread bolt",
       "price": "150 gp"
     },
     {
-      "d%": "31–34",
+      "d%": "31-34",
       "spell": "Effortless armor",
       "price": "150 gp"
     },
     {
-      "d%": "35–37",
+      "d%": "35-37",
       "spell": "Enthrall",
       "price": "150 gp"
     },
     {
-      "d%": "38–41",
+      "d%": "38-41",
       "spell": "Flaming sphere",
       "price": "150 gp"
     },
     {
-      "d%": "42–43",
+      "d%": "42-43",
       "spell": "Gentle repose",
       "price": "150 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Grace",
       "price": "150 gp"
     },
     {
-      "d%": "47–48",
+      "d%": "47-48",
       "spell": "Groundswell",
       "price": "150 gp"
     },
     {
-      "d%": "49–51",
+      "d%": "49-51",
       "spell": "Gust of wind",
       "price": "150 gp"
     },
     {
-      "d%": "52–53",
+      "d%": "52-53",
       "spell": "Instant armor",
       "price": "150 gp"
     },
     {
-      "d%": "54–55",
+      "d%": "54-55",
       "spell": "Instrument of agony",
       "price": "150 gp"
     },
     {
-      "d%": "56–58",
+      "d%": "56-58",
       "spell": "Make whole",
       "price": "150 gp"
     },
     {
-      "d%": "59–60",
+      "d%": "59-60",
       "spell": "Reduce animal",
       "price": "150 gp"
     },
     {
-      "d%": "61–62",
+      "d%": "61-62",
       "spell": "Scent trail",
       "price": "150 gp"
     },
     {
-      "d%": "63–65",
+      "d%": "63-65",
       "spell": "Shard of chaos",
       "price": "150 gp"
     },
     {
-      "d%": "66–68",
+      "d%": "66-68",
       "spell": "Share language",
       "price": "150 gp"
     },
     {
-      "d%": "69–70",
+      "d%": "69-70",
       "spell": "Shatter",
       "price": "150 gp"
     },
     {
-      "d%": "71–73",
+      "d%": "71-73",
       "spell": "Soften earth and stone",
       "price": "150 gp"
     },
     {
-      "d%": "74–76",
+      "d%": "74-76",
       "spell": "Spear of purity",
       "price": "150 gp"
     },
     {
-      "d%": "77–79",
+      "d%": "77-79",
       "spell": "Spider climb",
       "price": "150 gp"
     },
     {
-      "d%": "80–82",
+      "d%": "80-82",
       "spell": "Status",
       "price": "150 gp"
     },
     {
-      "d%": "83–84",
+      "d%": "83-84",
       "spell": "Tree shape",
       "price": "150 gp"
     },
@@ -1463,32 +1463,32 @@
       "price": "150 gp"
     },
     {
-      "d%": "86–88",
+      "d%": "86-88",
       "spell": "Warp wood",
       "price": "150 gp"
     },
     {
-      "d%": "89–91",
+      "d%": "89-91",
       "spell": "Weapon of awe",
       "price": "150 gp"
     },
     {
-      "d%": "92–93",
+      "d%": "92-93",
       "spell": "Wood shape",
       "price": "150 gp"
     },
     {
-      "d%": "94–95",
+      "d%": "94-95",
       "spell": "Consecrate",
       "price": "175 gp"
     },
     {
-      "d%": "96–97",
+      "d%": "96-97",
       "spell": "Desecrate",
       "price": "175 gp"
     },
     {
-      "d%": "98–99",
+      "d%": "98-99",
       "spell": "Fire trap",
       "price": "175 gp"
     },
@@ -1500,294 +1500,294 @@
   ],
   "3CommonArcane": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Beast shape I",
       "price": "375 gp"
     },
     {
-      "d%": "04–07",
+      "d%": "04-07",
       "spell": "Blink",
       "price": "375 gp"
     },
     {
-      "d%": "08–12",
+      "d%": "08-12",
       "spell": "Dispel magic",
       "price": "375 gp"
     },
     {
-      "d%": "13–16",
+      "d%": "13-16",
       "spell": "Displacement",
       "price": "375 gp"
     },
     {
-      "d%": "17–21",
+      "d%": "17-21",
       "spell": "Fireball",
       "price": "375 gp"
     },
     {
-      "d%": "22–24",
+      "d%": "22-24",
       "spell": "Flame arrow",
       "price": "375 gp"
     },
     {
-      "d%": "25–29",
+      "d%": "25-29",
       "spell": "Fly",
       "price": "375 gp"
     },
     {
-      "d%": "30–32",
+      "d%": "30-32",
       "spell": "Gaseous form",
       "price": "375 gp"
     },
     {
-      "d%": "33–37",
+      "d%": "33-37",
       "spell": "Haste",
       "price": "375 gp"
     },
     {
-      "d%": "38–40",
+      "d%": "38-40",
       "spell": "Heroism",
       "price": "375 gp"
     },
     {
-      "d%": "41–43",
+      "d%": "41-43",
       "spell": "Hold person",
       "price": "375 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Invisibility sphere",
       "price": "375 gp"
     },
     {
-      "d%": "47–51",
+      "d%": "47-51",
       "spell": "Lightning bolt",
       "price": "375 gp"
     },
     {
-      "d%": "52–54",
+      "d%": "52-54",
       "spell": "Magic circle against chaos",
       "price": "375 gp"
     },
     {
-      "d%": "55–57",
+      "d%": "55-57",
       "spell": "Magic circle against evil",
       "price": "375 gp"
     },
     {
-      "d%": "58–60",
+      "d%": "58-60",
       "spell": "Magic circle against good",
       "price": "375 gp"
     },
     {
-      "d%": "61–63",
+      "d%": "61-63",
       "spell": "Magic circle against law",
       "price": "375 gp"
     },
     {
-      "d%": "64–66",
+      "d%": "64-66",
       "spell": "Major image",
       "price": "375 gp"
     },
     {
-      "d%": "67–70",
+      "d%": "67-70",
       "spell": "Phantom steed",
       "price": "375 gp"
     },
     {
-      "d%": "71–74",
+      "d%": "71-74",
       "spell": "Protection from energy",
       "price": "375 gp"
     },
     {
-      "d%": "75–78",
+      "d%": "75-78",
       "spell": "Slow",
       "price": "375 gp"
     },
     {
-      "d%": "79–81",
+      "d%": "79-81",
       "spell": "Stinking cloud",
       "price": "375 gp"
     },
     {
-      "d%": "82–84",
+      "d%": "82-84",
       "spell": "Suggestion",
       "price": "375 gp"
     },
     {
-      "d%": "85–87",
+      "d%": "85-87",
       "spell": "Summon monster III",
       "price": "375 gp"
     },
     {
-      "d%": "88–90",
+      "d%": "88-90",
       "spell": "Tiny hut",
       "price": "375 gp"
     },
     {
-      "d%": "91–94",
+      "d%": "91-94",
       "spell": "Tongues",
       "price": "375 gp"
     },
     {
-      "d%": "95–97",
+      "d%": "95-97",
       "spell": "Vampiric touch",
       "price": "375 gp"
     },
     {
-      "d%": "98–100",
+      "d%": "98-100",
       "spell": "Water breathing",
       "price": "375 gp"
     }
   ],
   "3CommonDivine": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Bestow curse",
       "price": "375 gp"
     },
     {
-      "d%": "04–08",
+      "d%": "04-08",
       "spell": "Call lightning",
       "price": "375 gp"
     },
     {
-      "d%": "09–15",
+      "d%": "09-15",
       "spell": "Cure serious wounds",
       "price": "375 gp"
     },
     {
-      "d%": "16–19",
+      "d%": "16-19",
       "spell": "Daylight",
       "price": "375 gp"
     },
     {
-      "d%": "20–23",
+      "d%": "20-23",
       "spell": "Deeper darkness",
       "price": "375 gp"
     },
     {
-      "d%": "24–28",
+      "d%": "24-28",
       "spell": "Dispel magic",
       "price": "375 gp"
     },
     {
-      "d%": "29–33",
+      "d%": "29-33",
       "spell": "Inflict serious wounds",
       "price": "375 gp"
     },
     {
-      "d%": "34–37",
+      "d%": "34-37",
       "spell": "Invisibility purge",
       "price": "375 gp"
     },
     {
-      "d%": "38–40",
+      "d%": "38-40",
       "spell": "Locate object",
       "price": "375 gp"
     },
     {
-      "d%": "41–42",
+      "d%": "41-42",
       "spell": "Magic circle against chaos",
       "price": "375 gp"
     },
     {
-      "d%": "43–44",
+      "d%": "43-44",
       "spell": "Magic circle against evil",
       "price": "375 gp"
     },
     {
-      "d%": "45–46",
+      "d%": "45-46",
       "spell": "Magic circle against good",
       "price": "375 gp"
     },
     {
-      "d%": "47–48",
+      "d%": "47-48",
       "spell": "Magic circle against law",
       "price": "375 gp"
     },
     {
-      "d%": "49–52",
+      "d%": "49-52",
       "spell": "Magic fang greater",
       "price": "375 gp"
     },
     {
-      "d%": "53–57",
+      "d%": "53-57",
       "spell": "Magic vestment",
       "price": "375 gp"
     },
     {
-      "d%": "58–59",
+      "d%": "58-59",
       "spell": "Poison",
       "price": "375 gp"
     },
     {
-      "d%": "60–65",
+      "d%": "60-65",
       "spell": "Prayer",
       "price": "375 gp"
     },
     {
-      "d%": "66–68",
+      "d%": "66-68",
       "spell": "Protection from energy",
       "price": "375 gp"
     },
     {
-      "d%": "69–70",
+      "d%": "69-70",
       "spell": "Remove blindness/deafness",
       "price": "375 gp"
     },
     {
-      "d%": "71–73",
+      "d%": "71-73",
       "spell": "Remove curse",
       "price": "375 gp"
     },
     {
-      "d%": "74–76",
+      "d%": "74-76",
       "spell": "Remove disease",
       "price": "375 gp"
     },
     {
-      "d%": "77–79",
+      "d%": "77-79",
       "spell": "Searing light",
       "price": "375 gp"
     },
     {
-      "d%": "80–81",
+      "d%": "80-81",
       "spell": "Sleet storm",
       "price": "375 gp"
     },
     {
-      "d%": "82–85",
+      "d%": "82-85",
       "spell": "Speak with dead",
       "price": "375 gp"
     },
     {
-      "d%": "86–87",
+      "d%": "86-87",
       "spell": "Stone shape",
       "price": "375 gp"
     },
     {
-      "d%": "88–89",
+      "d%": "88-89",
       "spell": "Summon monster III",
       "price": "375 gp"
     },
     {
-      "d%": "90–91",
+      "d%": "90-91",
       "spell": "Summon nature's ally III",
       "price": "375 gp"
     },
     {
-      "d%": "92–95",
+      "d%": "92-95",
       "spell": "Water breathing",
       "price": "375 gp"
     },
     {
-      "d%": "96–97",
+      "d%": "96-97",
       "spell": "Water walk",
       "price": "375 gp"
     },
     {
-      "d%": "98–100",
+      "d%": "98-100",
       "spell": "Animate dead",
       "price": "625 gp"
     }
@@ -1799,87 +1799,87 @@
       "price": " lesser"
     },
     {
-      "d%": "04–06",
+      "d%": "04-06",
       "spell": "Aqueous orb",
       "price": "375 gp"
     },
     {
-      "d%": "07–08",
+      "d%": "07-08",
       "spell": "Arcane sight",
       "price": "375 gp"
     },
     {
-      "d%": "09–12",
+      "d%": "09-12",
       "spell": "Beast shape",
       "price": "375 gp"
     },
     {
-      "d%": "13–15",
+      "d%": "13-15",
       "spell": "Clairaudience/clairvoyance",
       "price": "375 gp"
     },
     {
-      "d%": "16–17",
+      "d%": "16-17",
       "spell": "Cloak of winds",
       "price": "375 gp"
     },
     {
-      "d%": "18–20",
+      "d%": "18-20",
       "spell": "Daylight",
       "price": "375 gp"
     },
     {
-      "d%": "21–24",
+      "d%": "21-24",
       "spell": "Deep slumber",
       "price": "375 gp"
     },
     {
-      "d%": "25–27",
+      "d%": "25-27",
       "spell": "Distracting cacophony",
       "price": "375 gp"
     },
     {
-      "d%": "28–30",
+      "d%": "28-30",
       "spell": "Draconic reservoir",
       "price": "375 gp"
     },
     {
-      "d%": "31–35",
+      "d%": "31-35",
       "spell": "Elemental aura",
       "price": "375 gp"
     },
     {
-      "d%": "36–38",
+      "d%": "36-38",
       "spell": "Explosive runes",
       "price": "375 gp"
     },
     {
-      "d%": "39–43",
+      "d%": "39-43",
       "spell": "Force punch",
       "price": "375 gp"
     },
     {
-      "d%": "44–45",
+      "d%": "44-45",
       "spell": "Gentle repose",
       "price": "375 gp"
     },
     {
-      "d%": "46–47",
+      "d%": "46-47",
       "spell": "Halt undead",
       "price": "375 gp"
     },
     {
-      "d%": "48–49",
+      "d%": "48-49",
       "spell": "Healing thief",
       "price": "375 gp"
     },
     {
-      "d%": "50–51",
+      "d%": "50-51",
       "spell": "Hydraulic torrent",
       "price": "375 gp"
     },
     {
-      "d%": "52–56",
+      "d%": "52-56",
       "spell": "Keen edge",
       "price": "375 gp"
     },
@@ -1889,22 +1889,22 @@
       "price": " greater"
     },
     {
-      "d%": "62–65",
+      "d%": "62-65",
       "spell": "Monstrous physique I",
       "price": "375 gp"
     },
     {
-      "d%": "66–68",
+      "d%": "66-68",
       "spell": "Rage",
       "price": "375 gp"
     },
     {
-      "d%": "69–70",
+      "d%": "69-70",
       "spell": "Ray of exhaustion",
       "price": "375 gp"
     },
     {
-      "d%": "71–73",
+      "d%": "71-73",
       "spell": "Resinous skin",
       "price": "375 gp"
     },
@@ -1914,37 +1914,37 @@
       "price": " communal"
     },
     {
-      "d%": "76–78",
+      "d%": "76-78",
       "spell": "Secret page",
       "price": "375 gp"
     },
     {
-      "d%": "79–80",
+      "d%": "79-80",
       "spell": "Shrink item",
       "price": "375 gp"
     },
     {
-      "d%": "81–83",
+      "d%": "81-83",
       "spell": "Sleet storm",
       "price": "375 gp"
     },
     {
-      "d%": "84–86",
+      "d%": "84-86",
       "spell": "Spiked pit",
       "price": "375 gp"
     },
     {
-      "d%": "87–90",
+      "d%": "87-90",
       "spell": "Undead anatomy I",
       "price": "375 gp"
     },
     {
-      "d%": "91–92",
+      "d%": "91-92",
       "spell": "Versatile weapon",
       "price": "375 gp"
     },
     {
-      "d%": "93–95",
+      "d%": "93-95",
       "spell": "Wind wall",
       "price": "375 gp"
     },
@@ -1954,7 +1954,7 @@
       "price": "425 gp"
     },
     {
-      "d%": "97–99",
+      "d%": "97-99",
       "spell": "Nondetection",
       "price": "425 gp"
     },
@@ -1966,199 +1966,199 @@
   ],
   "3UncommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Aqueous orb",
       "price": "375 gp"
     },
     {
-      "d%": "05–08",
+      "d%": "05-08",
       "spell": "Archon's aura",
       "price": "375 gp"
     },
     {
-      "d%": "09–12",
+      "d%": "09-12",
       "spell": "Bestow insight",
       "price": "375 gp"
     },
     {
-      "d%": "13–16",
+      "d%": "13-16",
       "spell": "Blindness/deafness",
       "price": "375 gp"
     },
     {
-      "d%": "17–19",
+      "d%": "17-19",
       "spell": "Burst of nettles",
       "price": "375 gp"
     },
     {
-      "d%": "20–22",
+      "d%": "20-22",
       "spell": "Chain of perdition",
       "price": "375 gp"
     },
     {
-      "d%": "23–26",
+      "d%": "23-26",
       "spell": "Contagion",
       "price": "375 gp"
     },
     {
-      "d%": "27–30",
+      "d%": "27-30",
       "spell": "Create food and water",
       "price": "375 gp"
     },
     {
-      "d%": "31–34",
+      "d%": "31-34",
       "spell": "Daybreak arrow",
       "price": "375 gp"
     },
     {
-      "d%": "35–36",
+      "d%": "35-36",
       "spell": "Diminish plants",
       "price": "375 gp"
     },
     {
-      "d%": "37–40",
+      "d%": "37-40",
       "spell": "Discovery torch",
       "price": "375 gp"
     },
     {
-      "d%": "41–45",
+      "d%": "41-45",
       "spell": "Dominate animal",
       "price": "375 gp"
     },
     {
-      "d%": "46–48",
+      "d%": "46-48",
       "spell": "Guiding star",
       "price": "375 gp"
     },
     {
-      "d%": "49–51",
+      "d%": "49-51",
       "spell": "Helping hand",
       "price": "375 gp"
     },
     {
-      "d%": "52–56",
+      "d%": "52-56",
       "spell": "Meld into stone",
       "price": "375 gp"
     },
     {
-      "d%": "57–58",
+      "d%": "57-58",
       "spell": "Obscure object",
       "price": "375 gp"
     },
     {
-      "d%": "59–61",
+      "d%": "59-61",
       "spell": "Plant growth",
       "price": "375 gp"
     },
     {
-      "d%": "62–64",
+      "d%": "62-64",
       "spell": "Quench",
       "price": "375 gp"
     },
     {
-      "d%": "65–67",
+      "d%": "65-67",
       "spell": "Shifting sands",
       "price": "375 gp"
     },
     {
-      "d%": "68–72",
+      "d%": "68-72",
       "spell": "Snare",
       "price": "375 gp"
     },
     {
-      "d%": "73–75",
+      "d%": "73-75",
       "spell": "Speak with plants",
       "price": "375 gp"
     },
     {
-      "d%": "76–80",
+      "d%": "76-80",
       "spell": "Spike growth",
       "price": "375 gp"
     },
     {
-      "d%": "81–83",
+      "d%": "81-83",
       "spell": "Vision of hell",
       "price": "375 gp"
     },
     {
-      "d%": "84–87",
+      "d%": "84-87",
       "spell": "Wind wall",
       "price": "375 gp"
     },
     {
-      "d%": "88–90",
+      "d%": "88-90",
       "spell": "Wrathful mantle",
       "price": "375 gp"
     },
     {
-      "d%": "91–93",
+      "d%": "91-93",
       "spell": "Continual flame",
       "price": "425 gp"
     },
     {
-      "d%": "94–96",
+      "d%": "94-96",
       "spell": "Nap stack",
       "price": "475 gp"
     },
     {
-      "d%": "97–98",
+      "d%": "97-98",
       "spell": "Glyph of warding",
       "price": "575 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Symbol of healing",
       "price": "875 gp"
     }
   ],
   "4CommonArcane": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Beast shape II",
       "price": "700 gp"
     },
     {
-      "d%": "04–05",
+      "d%": "04-05",
       "spell": "Bestow curse",
       "price": "700 gp"
     },
     {
-      "d%": "06–09",
+      "d%": "06-09",
       "spell": "Black tentacles",
       "price": "700 gp"
     },
     {
-      "d%": "10–14",
+      "d%": "10-14",
       "spell": "Charm monster",
       "price": "700 gp"
     },
     {
-      "d%": "15–18",
+      "d%": "15-18",
       "spell": "Confusion",
       "price": "700 gp"
     },
     {
-      "d%": "19–21",
+      "d%": "19-21",
       "spell": "Crushing despair",
       "price": "700 gp"
     },
     {
-      "d%": "22–26",
+      "d%": "22-26",
       "spell": "Dimension door",
       "price": "700 gp"
     },
     {
-      "d%": "27–29",
+      "d%": "27-29",
       "spell": "Dimensional anchor",
       "price": "700 gp"
     },
     {
-      "d%": "30–32",
+      "d%": "30-32",
       "spell": "Elemental body I",
       "price": "700 gp"
     },
     {
-      "d%": "33–36",
+      "d%": "33-36",
       "spell": "Enervation",
       "price": "700 gp"
     },
@@ -2168,12 +2168,12 @@
       "price": " mass"
     },
     {
-      "d%": "39–43",
+      "d%": "39-43",
       "spell": "Fear",
       "price": "700 gp"
     },
     {
-      "d%": "44–47",
+      "d%": "44-47",
       "spell": "Fire shield",
       "price": "700 gp"
     },
@@ -2183,7 +2183,7 @@
       "price": " lesser"
     },
     {
-      "d%": "51–54",
+      "d%": "51-54",
       "spell": "Ice storm",
       "price": "700 gp"
     },
@@ -2193,57 +2193,57 @@
       "price": " greater"
     },
     {
-      "d%": "60–64",
+      "d%": "60-64",
       "spell": "Phantasmal killer",
       "price": "700 gp"
     },
     {
-      "d%": "65–67",
+      "d%": "65-67",
       "spell": "Resilient sphere",
       "price": "700 gp"
     },
     {
-      "d%": "68–71",
+      "d%": "68-71",
       "spell": "Scrying",
       "price": "700 gp"
     },
     {
-      "d%": "72–74",
+      "d%": "72-74",
       "spell": "Shadow conjuration",
       "price": "700 gp"
     },
     {
-      "d%": "75–76",
+      "d%": "75-76",
       "spell": "Shout",
       "price": "700 gp"
     },
     {
-      "d%": "77–78",
+      "d%": "77-78",
       "spell": "Solid fog",
       "price": "700 gp"
     },
     {
-      "d%": "79–80",
+      "d%": "79-80",
       "spell": "Stone shape",
       "price": "700 gp"
     },
     {
-      "d%": "81–83",
+      "d%": "81-83",
       "spell": "Summon monster IV",
       "price": "700 gp"
     },
     {
-      "d%": "84–88",
+      "d%": "84-88",
       "spell": "Wall of fire",
       "price": "700 gp"
     },
     {
-      "d%": "89–92",
+      "d%": "89-92",
       "spell": "Wall of ice",
       "price": "700 gp"
     },
     {
-      "d%": "93–97",
+      "d%": "93-97",
       "spell": "Stoneskin",
       "price": "950 gp"
     },
@@ -2255,149 +2255,149 @@
   ],
   "4CommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Air walk",
       "price": "700 gp"
     },
     {
-      "d%": "05–07",
+      "d%": "05-07",
       "spell": "Chaos hammer",
       "price": "700 gp"
     },
     {
-      "d%": "08–15",
+      "d%": "08-15",
       "spell": "Cure critical wounds",
       "price": "700 gp"
     },
     {
-      "d%": "16–19",
+      "d%": "16-19",
       "spell": "Death ward",
       "price": "700 gp"
     },
     {
-      "d%": "20–22",
+      "d%": "20-22",
       "spell": "Dimensional anchor",
       "price": "700 gp"
     },
     {
-      "d%": "23–25",
+      "d%": "23-25",
       "spell": "Discern lies",
       "price": "700 gp"
     },
     {
-      "d%": "26–28",
+      "d%": "26-28",
       "spell": "Dismissal",
       "price": "700 gp"
     },
     {
-      "d%": "29–33",
+      "d%": "29-33",
       "spell": "Divine power",
       "price": "700 gp"
     },
     {
-      "d%": "34–39",
+      "d%": "34-39",
       "spell": "Flame strike",
       "price": "700 gp"
     },
     {
-      "d%": "40–43",
+      "d%": "40-43",
       "spell": "Freedom of movement",
       "price": "700 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Holy smite",
       "price": "700 gp"
     },
     {
-      "d%": "47–51",
+      "d%": "47-51",
       "spell": "Inflict critical wounds",
       "price": "700 gp"
     },
     {
-      "d%": "52–56",
+      "d%": "52-56",
       "spell": "Magic weapon greater",
       "price": "700 gp"
     },
     {
-      "d%": "57–61",
+      "d%": "57-61",
       "spell": "Neutralize poison",
       "price": "700 gp"
     },
     {
-      "d%": "62–64",
+      "d%": "62-64",
       "spell": "Order's wrath",
       "price": "700 gp"
     },
     {
-      "d%": "65–68",
+      "d%": "65-68",
       "spell": "Poison",
       "price": "700 gp"
     },
     {
-      "d%": "69–73",
+      "d%": "69-73",
       "spell": "Spell immunity",
       "price": "700 gp"
     },
     {
-      "d%": "74–77",
+      "d%": "74-77",
       "spell": "Spike stones",
       "price": "700 gp"
     },
     {
-      "d%": "78–80",
+      "d%": "78-80",
       "spell": "Summon monster IV",
       "price": "700 gp"
     },
     {
-      "d%": "81–83",
+      "d%": "81-83",
       "spell": "Summon nature's ally IV",
       "price": "700 gp"
     },
     {
-      "d%": "84–86",
+      "d%": "84-86",
       "spell": "Tongues",
       "price": "700 gp"
     },
     {
-      "d%": "87–89",
+      "d%": "87-89",
       "spell": "Unholy blight",
       "price": "700 gp"
     },
     {
-      "d%": "90–93",
+      "d%": "90-93",
       "spell": "Divination",
       "price": "725 gp"
     },
     {
-      "d%": "94–96",
+      "d%": "94-96",
       "spell": "Planar ally lesser",
       "price": "1200 gp"
     },
     {
-      "d%": "97–100",
+      "d%": "97-100",
       "spell": "Restoration",
       "price": "1700 gp"
     }
   ],
   "4UncommonArcane": [
     {
-      "d%": "01–02",
+      "d%": "01-02",
       "spell": "Acid pit",
       "price": "700 gp"
     },
     {
-      "d%": "03–06",
+      "d%": "03-06",
       "spell": "Arcane eye",
       "price": "700 gp"
     },
     {
-      "d%": "07–10",
+      "d%": "07-10",
       "spell": "Ball lightning",
       "price": "700 gp"
     },
     {
-      "d%": "11–13",
+      "d%": "11-13",
       "spell": "Contagion",
       "price": "700 gp"
     },
@@ -2407,12 +2407,12 @@
       "price": " greater"
     },
     {
-      "d%": "18–19",
+      "d%": "18-19",
       "spell": "Detect scrying",
       "price": "700 gp"
     },
     {
-      "d%": "20–23",
+      "d%": "20-23",
       "spell": "Dragon's breath",
       "price": "700 gp"
     },
@@ -2422,7 +2422,7 @@
       "price": " greater"
     },
     {
-      "d%": "29–32",
+      "d%": "29-32",
       "spell": "Firefall",
       "price": "700 gp"
     },
@@ -2432,47 +2432,47 @@
       "price": " lesser"
     },
     {
-      "d%": "36–39",
+      "d%": "36-39",
       "spell": "Ghost wolf",
       "price": "700 gp"
     },
     {
-      "d%": "40–41",
+      "d%": "40-41",
       "spell": "Hallucinatory terrain",
       "price": "700 gp"
     },
     {
-      "d%": "42–43",
+      "d%": "42-43",
       "spell": "Illusory wall",
       "price": "700 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Locate creature",
       "price": "700 gp"
     },
     {
-      "d%": "47–50",
+      "d%": "47-50",
       "spell": "Minor creation",
       "price": "700 gp"
     },
     {
-      "d%": "51–54",
+      "d%": "51-54",
       "spell": "Monstrous physique II",
       "price": "700 gp"
     },
     {
-      "d%": "55–57",
+      "d%": "55-57",
       "spell": "Obsidian flow",
       "price": "700 gp"
     },
     {
-      "d%": "58–59",
+      "d%": "58-59",
       "spell": "Phantom chariot",
       "price": "700 gp"
     },
     {
-      "d%": "60–62",
+      "d%": "60-62",
       "spell": "Rainbow pattern",
       "price": "700 gp"
     },
@@ -2482,52 +2482,52 @@
       "price": " mass"
     },
     {
-      "d%": "65–68",
+      "d%": "65-68",
       "spell": "Remove curse",
       "price": "700 gp"
     },
     {
-      "d%": "69–71",
+      "d%": "69-71",
       "spell": "Secure shelter",
       "price": "700 gp"
     },
     {
-      "d%": "72–74",
+      "d%": "72-74",
       "spell": "Shadow projection",
       "price": "700 gp"
     },
     {
-      "d%": "75–79",
+      "d%": "75-79",
       "spell": "Shocking image",
       "price": "700 gp"
     },
     {
-      "d%": "80–83",
+      "d%": "80-83",
       "spell": "Telekinetic charge",
       "price": "700 gp"
     },
     {
-      "d%": "84–85",
+      "d%": "84-85",
       "spell": "True form",
       "price": "700 gp"
     },
     {
-      "d%": "86–89",
+      "d%": "86-89",
       "spell": "Vermin shape I",
       "price": "700 gp"
     },
     {
-      "d%": "90–94",
+      "d%": "90-94",
       "spell": "Volcanic storm",
       "price": "700 gp"
     },
     {
-      "d%": "95–97",
+      "d%": "95-97",
       "spell": "Wandering star motes",
       "price": "700 gp"
     },
     {
-      "d%": "98–99",
+      "d%": "98-99",
       "spell": "Fire trap",
       "price": "725 gp"
     },
@@ -2539,264 +2539,264 @@
   ],
   "4UncommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Absorb toxicity",
       "price": "700 gp"
     },
     {
-      "d%": "05–06",
+      "d%": "05-06",
       "spell": "Antiplant shell",
       "price": "700 gp"
     },
     {
-      "d%": "07–11",
+      "d%": "07-11",
       "spell": "Aspect of the stag",
       "price": "700 gp"
     },
     {
-      "d%": "12–15",
+      "d%": "12-15",
       "spell": "Aura of doom",
       "price": "700 gp"
     },
     {
-      "d%": "16–21",
+      "d%": "16-21",
       "spell": "Ball lightning",
       "price": "700 gp"
     },
     {
-      "d%": "22–25",
+      "d%": "22-25",
       "spell": "Blessing of fervor",
       "price": "700 gp"
     },
     {
-      "d%": "26–28",
+      "d%": "26-28",
       "spell": "Blight",
       "price": "700 gp"
     },
     {
-      "d%": "29–31",
+      "d%": "29-31",
       "spell": "Command plants",
       "price": "700 gp"
     },
     {
-      "d%": "32–35",
+      "d%": "32-35",
       "spell": "Control water",
       "price": "700 gp"
     },
     {
-      "d%": "36–39",
+      "d%": "36-39",
       "spell": "Debilitating portent",
       "price": "700 gp"
     },
     {
-      "d%": "40–43",
+      "d%": "40-43",
       "spell": "Giant vermin",
       "price": "700 gp"
     },
     {
-      "d%": "44–49",
+      "d%": "44-49",
       "spell": "Ice storm",
       "price": "700 gp"
     },
     {
-      "d%": "50–55",
+      "d%": "50-55",
       "spell": "Imbue with spell ability",
       "price": "700 gp"
     },
     {
-      "d%": "56–59",
+      "d%": "56-59",
       "spell": "Plague carrier",
       "price": "700 gp"
     },
     {
-      "d%": "60–63",
+      "d%": "60-63",
       "spell": "Planar adaptation",
       "price": "700 gp"
     },
     {
-      "d%": "64–67",
+      "d%": "64-67",
       "spell": "Protection from energy communal",
       "price": "700 gp"
     },
     {
-      "d%": "68–72",
+      "d%": "68-72",
       "spell": "Reincarnate",
       "price": "700 gp"
     },
     {
-      "d%": "73–75",
+      "d%": "73-75",
       "spell": "Repel vermin",
       "price": "700 gp"
     },
     {
-      "d%": "76–78",
+      "d%": "76-78",
       "spell": "Rusting grasp",
       "price": "700 gp"
     },
     {
-      "d%": "79–83",
+      "d%": "79-83",
       "spell": "Scrying",
       "price": "700 gp"
     },
     {
-      "d%": "84–87",
+      "d%": "84-87",
       "spell": "Sending",
       "price": "700 gp"
     },
     {
-      "d%": "88–90",
+      "d%": "88-90",
       "spell": "Spiritual ally",
       "price": "700 gp"
     },
     {
-      "d%": "91–93",
+      "d%": "91-93",
       "spell": "Thorn body",
       "price": "700 gp"
     },
     {
-      "d%": "94–98",
+      "d%": "94-98",
       "spell": "Volcanic storm",
       "price": "700 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Symbol of slowing",
       "price": "1700 gp"
     }
   ],
   "5CommonArcane": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Baleful polymorph",
       "price": "1125 gp"
     },
     {
-      "d%": "04–07",
+      "d%": "04-07",
       "spell": "Beast shape III",
       "price": "1125 gp"
     },
     {
-      "d%": "08–10",
+      "d%": "08-10",
       "spell": "Break enchantment",
       "price": "1125 gp"
     },
     {
-      "d%": "11–15",
+      "d%": "11-15",
       "spell": "Cloudkill",
       "price": "1125 gp"
     },
     {
-      "d%": "16–21",
+      "d%": "16-21",
       "spell": "Cone of cold",
       "price": "1125 gp"
     },
     {
-      "d%": "22–23",
+      "d%": "22-23",
       "spell": "Contact other plane",
       "price": "1125 gp"
     },
     {
-      "d%": "24–26",
+      "d%": "24-26",
       "spell": "Dismissal",
       "price": "1125 gp"
     },
     {
-      "d%": "27–31",
+      "d%": "27-31",
       "spell": "Dominate person",
       "price": "1125 gp"
     },
     {
-      "d%": "32–35",
+      "d%": "32-35",
       "spell": "Feeblemind",
       "price": "1125 gp"
     },
     {
-      "d%": "36–40",
+      "d%": "36-40",
       "spell": "Hold monster",
       "price": "1125 gp"
     },
     {
-      "d%": "41–43",
+      "d%": "41-43",
       "spell": "Magic jar",
       "price": "1125 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Mind fog",
       "price": "1125 gp"
     },
     {
-      "d%": "47–51",
+      "d%": "47-51",
       "spell": "Overland flight",
       "price": "1125 gp"
     },
     {
-      "d%": "52–54",
+      "d%": "52-54",
       "spell": "Passwall",
       "price": "1125 gp"
     },
     {
-      "d%": "55–56",
+      "d%": "55-56",
       "spell": "Permanency",
       "price": "1125 gp"
     },
     {
-      "d%": "57–58",
+      "d%": "57-58",
       "spell": "Planar binding lesser",
       "price": "1125 gp"
     },
     {
-      "d%": "59–62",
+      "d%": "59-62",
       "spell": "Polymorph",
       "price": "1125 gp"
     },
     {
-      "d%": "63–65",
+      "d%": "63-65",
       "spell": "Sending",
       "price": "1125 gp"
     },
     {
-      "d%": "66–69",
+      "d%": "66-69",
       "spell": "Shadow evocation",
       "price": "1125 gp"
     },
     {
-      "d%": "70–73",
+      "d%": "70-73",
       "spell": "Summon monster V",
       "price": "1125 gp"
     },
     {
-      "d%": "74–76",
+      "d%": "74-76",
       "spell": "Telekinesis",
       "price": "1125 gp"
     },
     {
-      "d%": "77–82",
+      "d%": "77-82",
       "spell": "Teleport",
       "price": "1125 gp"
     },
     {
-      "d%": "83–88",
+      "d%": "83-88",
       "spell": "Wall of force",
       "price": "1125 gp"
     },
     {
-      "d%": "89–92",
+      "d%": "89-92",
       "spell": "Wall of stone",
       "price": "1125 gp"
     },
     {
-      "d%": "93–95",
+      "d%": "93-95",
       "spell": "Waves of fatigue",
       "price": "1125 gp"
     },
     {
-      "d%": "96–97",
+      "d%": "96-97",
       "spell": "Symbol of pain",
       "price": "2125 gp"
     },
     {
-      "d%": "98–100",
+      "d%": "98-100",
       "spell": "Symbol of sleep",
       "price": "2125 gp"
     },
@@ -2804,443 +2804,443 @@
       "d%": ""
     },
     {
-      "d%": "01–02",
+      "d%": "01-02",
       "spell": "Absorb toxicity",
       "price": "1125 gp"
     },
     {
-      "d%": "03–04",
+      "d%": "03-04",
       "spell": "Animal growth",
       "price": "1125 gp"
     },
     {
-      "d%": "05–06",
+      "d%": "05-06",
       "spell": "Blight",
       "price": "1125 gp"
     },
     {
-      "d%": "07–09",
+      "d%": "07-09",
       "spell": "Dream",
       "price": "1125 gp"
     },
     {
-      "d%": "10–13",
+      "d%": "10-13",
       "spell": "Elemental body II",
       "price": "1125 gp"
     },
     {
-      "d%": "14–15",
+      "d%": "14-15",
       "spell": "Fabricate",
       "price": "1125 gp"
     },
     {
-      "d%": "16–19",
+      "d%": "16-19",
       "spell": "Fire snake",
       "price": "1125 gp"
     },
     {
-      "d%": "20–22",
+      "d%": "20-22",
       "spell": "Hostile juxtaposition",
       "price": "1125 gp"
     },
     {
-      "d%": "23–25",
+      "d%": "23-25",
       "spell": "Hungry pit",
       "price": "1125 gp"
     },
     {
-      "d%": "26–29",
+      "d%": "26-29",
       "spell": "Icy prison",
       "price": "1125 gp"
     },
     {
-      "d%": "30–33",
+      "d%": "30-33",
       "spell": "Interposing hand",
       "price": "1125 gp"
     },
     {
-      "d%": "34–36",
+      "d%": "34-36",
       "spell": "Life bubble",
       "price": "1125 gp"
     },
     {
-      "d%": "37–38",
+      "d%": "37-38",
       "spell": "Mage's faithful hound",
       "price": "1125 gp"
     }
   ],
   "5CommonDivine": [
     {
-      "d%": "01–02",
+      "d%": "01-02",
       "spell": "Animal growth",
       "price": "1125 gp"
     },
     {
-      "d%": "03–04",
+      "d%": "03-04",
       "spell": "Atonement",
       "price": "1125 gp"
     },
     {
-      "d%": "05–07",
+      "d%": "05-07",
       "spell": "Baleful polymorph",
       "price": "1125 gp"
     },
     {
-      "d%": "08–11",
+      "d%": "08-11",
       "spell": "Break enchantment",
       "price": "1125 gp"
     },
     {
-      "d%": "12–16",
+      "d%": "12-16",
       "spell": "Breath of life",
       "price": "1125 gp"
     },
     {
-      "d%": "17–21",
+      "d%": "17-21",
       "spell": "Call lightning storm",
       "price": "1125 gp"
     },
     {
-      "d%": "22–25",
+      "d%": "22-25",
       "spell": "Command greater",
       "price": "1125 gp"
     },
     {
-      "d%": "26–30",
+      "d%": "26-30",
       "spell": "Cure light wounds mass",
       "price": "1125 gp"
     },
     {
-      "d%": "31–34",
+      "d%": "31-34",
       "spell": "Death ward",
       "price": "1125 gp"
     },
     {
-      "d%": "35–37",
+      "d%": "35-37",
       "spell": "Disrupting weapon",
       "price": "1125 gp"
     },
     {
-      "d%": "38–42",
+      "d%": "38-42",
       "spell": "Inflict light wounds mass",
       "price": "1125 gp"
     },
     {
-      "d%": "43–47",
+      "d%": "43-47",
       "spell": "Plane shift",
       "price": "1125 gp"
     },
     {
-      "d%": "48–53",
+      "d%": "48-53",
       "spell": "Righteous might",
       "price": "1125 gp"
     },
     {
-      "d%": "54–57",
+      "d%": "54-57",
       "spell": "Scrying",
       "price": "1125 gp"
     },
     {
-      "d%": "58–62",
+      "d%": "58-62",
       "spell": "Slay living",
       "price": "1125 gp"
     },
     {
-      "d%": "63–67",
+      "d%": "63-67",
       "spell": "Spell resistance",
       "price": "1125 gp"
     },
     {
-      "d%": "68–70",
+      "d%": "68-70",
       "spell": "Summon monster V",
       "price": "1125 gp"
     },
     {
-      "d%": "71–73",
+      "d%": "71-73",
       "spell": "Summon nature's ally V",
       "price": "1125 gp"
     },
     {
-      "d%": "74–75",
+      "d%": "74-75",
       "spell": "Tree stride",
       "price": "1125 gp"
     },
     {
-      "d%": "76–77",
+      "d%": "76-77",
       "spell": "Wall of fire",
       "price": "1125 gp"
     },
     {
-      "d%": "78–80",
+      "d%": "78-80",
       "spell": "Wall of stone",
       "price": "1125 gp"
     },
     {
-      "d%": "81–82",
+      "d%": "81-82",
       "spell": "Wall of thorns",
       "price": "1125 gp"
     },
     {
-      "d%": "83–87",
+      "d%": "83-87",
       "spell": "True seeing",
       "price": "1375 gp"
     },
     {
-      "d%": "88–91",
+      "d%": "88-91",
       "spell": "Commune",
       "price": "1625 gp"
     },
     {
-      "d%": "92–94",
+      "d%": "92-94",
       "spell": "Awaken",
       "price": "3125 gp"
     },
     {
-      "d%": "95–100",
+      "d%": "95-100",
       "spell": "Raise dead",
       "price": "6125 gp"
     }
   ],
   "5UncommonArcane": [
     {
-      "d%": "39–40",
+      "d%": "39-40",
       "spell": "Mage's private sanctum",
       "price": "1125 gp"
     },
     {
-      "d%": "41–43",
+      "d%": "41-43",
       "spell": "Major creation",
       "price": "1125 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Mirage arcana",
       "price": "1125 gp"
     },
     {
-      "d%": "47–50",
+      "d%": "47-50",
       "spell": "Monstrous physique III",
       "price": "1125 gp"
     },
     {
-      "d%": "51–54",
+      "d%": "51-54",
       "spell": "Nightmare",
       "price": "1125 gp"
     },
     {
-      "d%": "55–56",
+      "d%": "55-56",
       "spell": "Persistent image",
       "price": "1125 gp"
     },
     {
-      "d%": "57–60",
+      "d%": "57-60",
       "spell": "Planar adaptation",
       "price": "1125 gp"
     },
     {
-      "d%": "61–64",
+      "d%": "61-64",
       "spell": "Plant shape I",
       "price": "1125 gp"
     },
     {
-      "d%": "65–68",
+      "d%": "65-68",
       "spell": "Prying eyes",
       "price": "1125 gp"
     },
     {
-      "d%": "69–70",
+      "d%": "69-70",
       "spell": "Secret chest",
       "price": "1125 gp"
     },
     {
-      "d%": "71–73",
+      "d%": "71-73",
       "spell": "Seeming",
       "price": "1125 gp"
     },
     {
-      "d%": "74–76",
+      "d%": "74-76",
       "spell": "Sonic thrust",
       "price": "1125 gp"
     },
     {
-      "d%": "77–79",
+      "d%": "77-79",
       "spell": "Suffocation",
       "price": "1125 gp"
     },
     {
-      "d%": "80–82",
+      "d%": "80-82",
       "spell": "Telepathic bond",
       "price": "1125 gp"
     },
     {
-      "d%": "83–84",
+      "d%": "83-84",
       "spell": "Transmute mud to rock",
       "price": "1125 gp"
     },
     {
-      "d%": "85–86",
+      "d%": "85-86",
       "spell": "Transmute rock to mud",
       "price": "1125 gp"
     },
     {
-      "d%": "87–90",
+      "d%": "87-90",
       "spell": "Undead anatomy II",
       "price": "1125 gp"
     },
     {
-      "d%": "91–94",
+      "d%": "91-94",
       "spell": "Vermin form II",
       "price": "1125 gp"
     },
     {
-      "d%": "95–98",
+      "d%": "95-98",
       "spell": "Wind blades",
       "price": "1125 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "False vision",
       "price": "1375 gp"
     }
   ],
   "5UncommonDivine": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Air walk communal",
       "price": "1125 gp"
     },
     {
-      "d%": "04–08",
+      "d%": "04-08",
       "spell": "Aspect of the wolf",
       "price": "1125 gp"
     },
     {
-      "d%": "09–11",
+      "d%": "09-11",
       "spell": "Blessing of the salamander",
       "price": "1125 gp"
     },
     {
-      "d%": "12–15",
+      "d%": "12-15",
       "spell": "Cleanse",
       "price": "1125 gp"
     },
     {
-      "d%": "16–21",
+      "d%": "16-21",
       "spell": "Commune with nature",
       "price": "1125 gp"
     },
     {
-      "d%": "22–24",
+      "d%": "22-24",
       "spell": "Contagion greater",
       "price": "1125 gp"
     },
     {
-      "d%": "25–28",
+      "d%": "25-28",
       "spell": "Control winds",
       "price": "1125 gp"
     },
     {
-      "d%": "29–31",
+      "d%": "29-31",
       "spell": "Dispel chaos",
       "price": "1125 gp"
     },
     {
-      "d%": "32–34",
+      "d%": "32-34",
       "spell": "Dispel evil",
       "price": "1125 gp"
     },
     {
-      "d%": "35–37",
+      "d%": "35-37",
       "spell": "Dispel good",
       "price": "1125 gp"
     },
     {
-      "d%": "38–40",
+      "d%": "38-40",
       "spell": "Dispel law",
       "price": "1125 gp"
     },
     {
-      "d%": "41–43",
+      "d%": "41-43",
       "spell": "Fickle winds",
       "price": "1125 gp"
     },
     {
-      "d%": "44–46",
+      "d%": "44-46",
       "spell": "Forbid action greater",
       "price": "1125 gp"
     },
     {
-      "d%": "47–52",
+      "d%": "47-52",
       "spell": "Insect plague",
       "price": "1125 gp"
     },
     {
-      "d%": "53–55",
+      "d%": "53-55",
       "spell": "Life bubble",
       "price": "1125 gp"
     },
     {
-      "d%": "56–58",
+      "d%": "56-58",
       "spell": "Mark of justice",
       "price": "1125 gp"
     },
     {
-      "d%": "59–63",
+      "d%": "59-63",
       "spell": "Pillar of life",
       "price": "1125 gp"
     },
     {
-      "d%": "64–66",
+      "d%": "64-66",
       "spell": "Serenity",
       "price": "1125 gp"
     },
     {
-      "d%": "67–72",
+      "d%": "67-72",
       "spell": "Snake staff",
       "price": "1125 gp"
     },
     {
-      "d%": "73–76",
+      "d%": "73-76",
       "spell": "Spell immunity communal",
       "price": "1125 gp"
     },
     {
-      "d%": "77–79",
+      "d%": "77-79",
       "spell": "Transmute mud to rock",
       "price": "1125 gp"
     },
     {
-      "d%": "80–82",
+      "d%": "80-82",
       "spell": "Transmute rock to mud",
       "price": "1125 gp"
     },
     {
-      "d%": "83–86",
+      "d%": "83-86",
       "spell": "Wind blades",
       "price": "1125 gp"
     },
     {
-      "d%": "87–90",
+      "d%": "87-90",
       "spell": "Stoneskin",
       "price": "1375 gp"
     },
     {
-      "d%": "91–92",
+      "d%": "91-92",
       "spell": "Hallow1",
       "price": "2125 gp"
     },
     {
-      "d%": "93–94",
+      "d%": "93-94",
       "spell": "Symbol of pain",
       "price": "2125 gp"
     },
     {
-      "d%": "95–96",
+      "d%": "95-96",
       "spell": "Symbol of sleep",
       "price": "2125 gp"
     },
     {
-      "d%": "97–98",
+      "d%": "97-98",
       "spell": "Unhallow1",
       "price": "2125 gp"
     },
@@ -3263,1706 +3263,1696 @@
   ],
   "6CommonArcane": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Acid fog",
       "price": "1650 gp"
     },
     {
-      "d%": "04–07",
+      "d%": "04-07",
       "spell": "Antimagic field",
       "price": "1650 gp"
     },
     {
-      "d%": "08–10",
+      "d%": "08-10",
       "spell": "Bear's endurance mass",
       "price": "1650 gp"
     },
     {
-      "d%": "11–13",
+      "d%": "11-13",
       "spell": "Beast shape IV",
       "price": "1650 gp"
     },
     {
-      "d%": "14–16",
+      "d%": "14-16",
       "spell": "Bull's strength mass",
       "price": "1650 gp"
     },
     {
-      "d%": "17–19",
+      "d%": "17-19",
       "spell": "Cat's grace mass",
       "price": "1650 gp"
     },
     {
-      "d%": "20–25",
+      "d%": "20-25",
       "spell": "Chain lightning",
       "price": "1650 gp"
     },
     {
-      "d%": "26–31",
+      "d%": "26-31",
       "spell": "Disintegrate",
       "price": "1650 gp"
     },
     {
-      "d%": "32–37",
+      "d%": "32-37",
       "spell": "Dispel magic greater",
       "price": "1650 gp"
     },
     {
-      "d%": "38–40",
+      "d%": "38-40",
       "spell": "Eagle's splendor mass",
       "price": "1650 gp"
     },
     {
-      "d%": "41–42",
+      "d%": "41-42",
       "spell": "Eyebite",
       "price": "1650 gp"
     },
     {
-      "d%": "43–47",
+      "d%": "43-47",
       "spell": "Flesh to stone",
       "price": "1650 gp"
     },
     {
-      "d%": "48–50",
+      "d%": "48-50",
       "spell": "Form of the dragon I",
       "price": "1650 gp"
     },
     {
-      "d%": "51–53",
+      "d%": "51-53",
       "spell": "Fox's cunning mass",
       "price": "1650 gp"
     },
     {
-      "d%": "54–56",
+      "d%": "54-56",
       "spell": "Globe of invulnerability",
       "price": "1650 gp"
     },
     {
-      "d%": "57–59",
+      "d%": "57-59",
       "spell": "Heroism greater",
       "price": "1650 gp"
     },
     {
-      "d%": "60–62",
+      "d%": "60-62",
       "spell": "Mislead",
       "price": "1650 gp"
     },
     {
-      "d%": "63–65",
+      "d%": "63-65",
       "spell": "Owl's wisdom mass",
       "price": "1650 gp"
     },
     {
-      "d%": "66–67",
+      "d%": "66-67",
       "spell": "Planar binding",
       "price": "1650 gp"
     },
     {
-      "d%": "68–70",
+      "d%": "68-70",
       "spell": "Shadow walk",
       "price": "1650 gp"
     },
     {
-      "d%": "71–72",
+      "d%": "71-72",
       "spell": "Stone to flesh",
       "price": "1650 gp"
     },
     {
-      "d%": "73–76",
+      "d%": "73-76",
       "spell": "Suggestion mass",
       "price": "1650 gp"
     },
     {
-      "d%": "77–79",
+      "d%": "77-79",
       "spell": "Summon monster VI",
       "price": "1650 gp"
     },
     {
-      "d%": "80–82",
+      "d%": "80-82",
       "spell": "Transformation",
       "price": "1650 gp"
     },
     {
-      "d%": "83–84",
+      "d%": "83-84",
       "spell": "Veil",
       "price": "1650 gp"
     },
     {
-      "d%": "85–87",
+      "d%": "85-87",
       "spell": "Wall of iron",
       "price": "1700 gp"
     },
     {
-      "d%": "88–89",
+      "d%": "88-89",
       "spell": "Create undead",
       "price": "1750 gp"
     },
     {
-      "d%": "90–92",
+      "d%": "90-92",
       "spell": "Legend lore",
       "price": "1900 gp"
     },
     {
-      "d%": "93–96",
+      "d%": "93-96",
       "spell": "True seeing",
       "price": "1900 gp"
     },
     {
-      "d%": "97–98",
+      "d%": "97-98",
       "spell": "Circle of death",
       "price": "2150 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Symbol of fear",
       "price": "2650 gp"
     }
   ],
   "6CommonDivine": [
     {
-      "d%": "01–05",
+      "d%": "01-05",
       "spell": "Bear's endurance mass",
       "price": "1650 gp"
     },
     {
-      "d%": "06–11",
+      "d%": "06-11",
       "spell": "Blade barrier",
       "price": "1650 gp"
     },
     {
-      "d%": "12–16",
+      "d%": "12-16",
       "spell": "Bull's strength mass",
       "price": "1650 gp"
     },
     {
-      "d%": "17–21",
+      "d%": "17-21",
       "spell": "Cat's grace mass",
       "price": "1650 gp"
     },
     {
-      "d%": "22–27",
+      "d%": "22-27",
       "spell": "Cure moderate wounds mass",
       "price": "1650 gp"
     },
     {
-      "d%": "28–32",
+      "d%": "28-32",
       "spell": "Dispel magic greater",
       "price": "1650 gp"
     },
     {
-      "d%": "33–37",
+      "d%": "33-37",
       "spell": "Eagle's splendor mass",
       "price": "1650 gp"
     },
     {
-      "d%": "38–43",
+      "d%": "38-43",
       "spell": "Find the path",
       "price": "1650 gp"
     },
     {
-      "d%": "44–47",
+      "d%": "44-47",
       "spell": "Fire seeds",
       "price": "1650 gp"
     },
     {
-      "d%": "48–55",
+      "d%": "48-55",
       "spell": "Harm",
       "price": "1650 gp"
     },
     {
-      "d%": "56–63",
+      "d%": "56-63",
       "spell": "Heal",
       "price": "1650 gp"
     },
     {
-      "d%": "64–69",
+      "d%": "64-69",
       "spell": "Heroes' feast",
       "price": "1650 gp"
     },
     {
-      "d%": "70–74",
+      "d%": "70-74",
       "spell": "Inflict moderate wounds mass",
       "price": "1650 gp"
     },
     {
-      "d%": "75–78",
+      "d%": "75-78",
       "spell": "Liveoak",
       "price": "1650 gp"
     },
     {
-      "d%": "79–83",
+      "d%": "79-83",
       "spell": "Owl's wisdom mass",
       "price": "1650 gp"
     },
     {
-      "d%": "84–87",
+      "d%": "84-87",
       "spell": "Summon monster VI",
       "price": "1650 gp"
     },
     {
-      "d%": "88–91",
+      "d%": "88-91",
       "spell": "Summon nature's ally VI",
       "price": "1650 gp"
     },
     {
-      "d%": "92–96",
+      "d%": "92-96",
       "spell": "Word of recall",
       "price": "1650 gp"
     },
     {
-      "d%": "97–100",
+      "d%": "97-100",
       "spell": "Planar ally",
       "price": "2900 gp"
     }
   ],
   "6UncommonArcane": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Analyze dweomer",
       "price": "1650 gp"
     },
     {
-      "d%": "05–08",
+      "d%": "05-08",
       "spell": "Battlemind link",
       "price": "1650 gp"
     },
     {
-      "d%": "09–12",
+      "d%": "09-12",
       "spell": "Cloak of dreams",
       "price": "1650 gp"
     },
     {
-      "d%": "13–15",
+      "d%": "13-15",
       "spell": "Contagion greater",
       "price": "1650 gp"
     },
     {
-      "d%": "16–20",
+      "d%": "16-20",
       "spell": "Contagious flame",
       "price": "1650 gp"
     },
     {
-      "d%": "21–26",
+      "d%": "21-26",
       "spell": "Contingency",
       "price": "1650 gp"
     },
     {
-      "d%": "27–30",
+      "d%": "27-30",
       "spell": "Control water",
       "price": "1650 gp"
     },
     {
-      "d%": "31–35",
+      "d%": "31-35",
       "spell": "Elemental body III",
       "price": "1650 gp"
     },
     {
-      "d%": "36–39",
+      "d%": "36-39",
       "spell": "Fluid form",
       "price": "1650 gp"
     },
     {
-      "d%": "40–45",
+      "d%": "40-45",
       "spell": "Forceful hand",
       "price": "1650 gp"
     },
     {
-      "d%": "46–48",
+      "d%": "46-48",
       "spell": "Freezing sphere",
       "price": "1650 gp"
     },
     {
-      "d%": "49–53",
+      "d%": "49-53",
       "spell": "Geas/quest",
       "price": "1650 gp"
     },
     {
-      "d%": "54–57",
+      "d%": "54-57",
       "spell": "Getaway",
       "price": "1650 gp"
     },
     {
-      "d%": "58–59",
+      "d%": "58-59",
       "spell": "Guards and wards",
       "price": "1650 gp"
     },
     {
-      "d%": "60–61",
+      "d%": "60-61",
       "spell": "Mage's lucubration",
       "price": "1650 gp"
     },
     {
-      "d%": "62–66",
+      "d%": "62-66",
       "spell": "Monstrous physique IV",
       "price": "1650 gp"
     },
     {
-      "d%": "67–68",
+      "d%": "67-68",
       "spell": "Move earth",
       "price": "1650 gp"
     },
     {
-      "d%": "69–71",
+      "d%": "69-71",
       "spell": "Permanent image",
       "price": "1650 gp"
     },
     {
-      "d%": "72–76",
+      "d%": "72-76",
       "spell": "Plant shape II",
       "price": "1650 gp"
     },
     {
-      "d%": "77–80",
+      "d%": "77-80",
       "spell": "Repulsion",
       "price": "1650 gp"
     },
     {
-      "d%": "81–84",
+      "d%": "81-84",
       "spell": "Sirocco",
       "price": "1650 gp"
     },
     {
-      "d%": "85–87",
+      "d%": "85-87",
       "spell": "Tar pool",
       "price": "1650 gp"
     },
     {
-      "d%": "88–92",
+      "d%": "88-92",
       "spell": "Undead anatomy III",
       "price": "1650 gp"
     },
     {
-      "d%": "93–95",
+      "d%": "93-95",
       "spell": "Programmed image",
       "price": "1675 gp"
     },
     {
-      "d%": "96–98",
+      "d%": "96-98",
       "spell": "Undeath to death",
       "price": "2150 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Symbol of persuasion",
       "price": "6650 gp"
     }
   ],
   "6UncommonDivine": [
     {
-      "d%": "01–05",
+      "d%": "01-05",
       "spell": "Animate objects",
       "price": "1650 gp"
     },
     {
-      "d%": "06–09",
+      "d%": "06-09",
       "spell": "Antilife shell",
       "price": "1650 gp"
     },
     {
-      "d%": "10–15",
+      "d%": "10-15",
       "spell": "Banishment",
       "price": "1650 gp"
     },
     {
-      "d%": "16–19",
+      "d%": "16-19",
       "spell": "Cold ice strike",
       "price": "1650 gp"
     },
     {
-      "d%": "20–23",
+      "d%": "20-23",
       "spell": "Dust form",
       "price": "1650 gp"
     },
     {
-      "d%": "24–29",
+      "d%": "24-29",
       "spell": "Geas/quest",
       "price": "1650 gp"
     },
     {
-      "d%": "30–33",
+      "d%": "30-33",
       "spell": "Ironwood",
       "price": "1650 gp"
     },
     {
-      "d%": "34–37",
+      "d%": "34-37",
       "spell": "Joyful rapture",
       "price": "1650 gp"
     },
     {
-      "d%": "38–42",
+      "d%": "38-42",
       "spell": "Move earth",
       "price": "1650 gp"
     },
     {
-      "d%": "43–46",
+      "d%": "43-46",
       "spell": "Plague storm",
       "price": "1650 gp"
     },
     {
-      "d%": "47–51",
+      "d%": "47-51",
       "spell": "Planar adaptation mass",
       "price": "1650 gp"
     },
     {
-      "d%": "52–54",
+      "d%": "52-54",
       "spell": "Repel wood",
       "price": "1650 gp"
     },
     {
-      "d%": "55–59",
+      "d%": "55-59",
       "spell": "Sirocco",
       "price": "1650 gp"
     },
     {
-      "d%": "60–63",
+      "d%": "60-63",
       "spell": "Spellstaff",
       "price": "1650 gp"
     },
     {
-      "d%": "64–67",
+      "d%": "64-67",
       "spell": "Stone tell",
       "price": "1650 gp"
     },
     {
-      "d%": "68–70",
+      "d%": "68-70",
       "spell": "Swarm skin",
       "price": "1650 gp"
     },
     {
-      "d%": "71–74",
+      "d%": "71-74",
       "spell": "Tar pool",
       "price": "1650 gp"
     },
     {
-      "d%": "75–77",
+      "d%": "75-77",
       "spell": "Transport via plants",
       "price": "1650 gp"
     },
     {
-      "d%": "78–83",
+      "d%": "78-83",
       "spell": "Wind walk",
       "price": "1650 gp"
     },
     {
-      "d%": "84–86",
+      "d%": "84-86",
       "spell": "Create undead",
       "price": "1750 gp"
     },
     {
-      "d%": "87–90",
+      "d%": "87-90",
       "spell": "Glyph of warding greater",
       "price": "2050 gp"
     },
     {
-      "d%": "91–92",
+      "d%": "91-92",
       "spell": "Undeath to death",
       "price": "2150 gp"
     },
     {
-      "d%": "93–95",
+      "d%": "93-95",
       "spell": "Symbol of fear",
       "price": "2650 gp"
     },
     {
-      "d%": "96–98",
+      "d%": "96-98",
       "spell": "Forbiddance",
       "price": "4650 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Symbol of persuasion",
       "price": "6650 gp"
     }
   ],
   "7CommonArcane": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Arcane sight greater",
       "price": "2275 gp"
     },
     {
-      "d%": "05–07",
+      "d%": "05-07",
       "spell": "Banishment",
       "price": "2275 gp"
     },
     {
-      "d%": "08–13",
+      "d%": "08-13",
       "spell": "Delayed blast fireball",
       "price": "2275 gp"
     },
     {
-      "d%": "14–17",
+      "d%": "14-17",
       "spell": "Ethereal jaunt",
       "price": "2275 gp"
     },
     {
-      "d%": "18–22",
+      "d%": "18-22",
       "spell": "Finger of death",
       "price": "2275 gp"
     },
     {
-      "d%": "23–27",
+      "d%": "23-27",
       "spell": "Form of the dragon II",
       "price": "2275 gp"
     },
     {
-      "d%": "28–30",
+      "d%": "28-30",
       "spell": "Hold person mass",
       "price": "2275 gp"
     },
     {
-      "d%": "31–35",
+      "d%": "31-35",
       "spell": "Invisibility mass",
       "price": "2275 gp"
     },
     {
-      "d%": "36–39",
+      "d%": "36-39",
       "spell": "Mage's sword",
       "price": "2275 gp"
     },
     {
-      "d%": "40–42",
+      "d%": "40-42",
       "spell": "Phase door",
       "price": "2275 gp"
     },
     {
-      "d%": "43–48",
+      "d%": "43-48",
       "spell": "Plane shift",
       "price": "2275 gp"
     },
     {
-      "d%": "49–53",
+      "d%": "49-53",
       "spell": "Polymorph greater",
       "price": "2275 gp"
     },
     {
-      "d%": "54–57",
+      "d%": "54-57",
       "spell": "Power word blind",
       "price": "2275 gp"
     },
     {
-      "d%": "58–62",
+      "d%": "58-62",
       "spell": "Prismatic spray",
       "price": "2275 gp"
     },
     {
-      "d%": "63–66",
+      "d%": "63-66",
       "spell": "Reverse gravity",
       "price": "2275 gp"
     },
     {
-      "d%": "67–70",
+      "d%": "67-70",
       "spell": "Scrying greater",
       "price": "2275 gp"
     },
     {
-      "d%": "71–73",
+      "d%": "71-73",
       "spell": "Shadow conjuration greater",
       "price": "2275 gp"
     },
     {
-      "d%": "74–78",
+      "d%": "74-78",
       "spell": "Spell turning",
       "price": "2275 gp"
     },
     {
-      "d%": "79–81",
+      "d%": "79-81",
       "spell": "Summon monster VII",
       "price": "2275 gp"
     },
     {
-      "d%": "82–87",
+      "d%": "82-87",
       "spell": "Teleport greater",
       "price": "2275 gp"
     },
     {
-      "d%": "88–90",
+      "d%": "88-90",
       "spell": "Waves of exhaustion",
       "price": "2275 gp"
     },
     {
-      "d%": "91–93",
+      "d%": "91-93",
       "spell": "Project image",
       "price": "2280 gp"
     },
     {
-      "d%": "94–97",
+      "d%": "94-97",
       "spell": "Forcecage",
       "price": "2775 gp"
     },
     {
-      "d%": "98–100",
+      "d%": "98-100",
       "spell": "Limited wish",
       "price": "3775 gp"
     }
   ],
   "7CommonDivine": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Blasphemy",
       "price": "2275 gp"
     },
     {
-      "d%": "05–10",
+      "d%": "05-10",
       "spell": "Control weather",
       "price": "2275 gp"
     },
     {
-      "d%": "11–17",
+      "d%": "11-17",
       "spell": "Creeping doom",
       "price": "2275 gp"
     },
     {
-      "d%": "18–24",
+      "d%": "18-24",
       "spell": "Cure serious wounds mass",
       "price": "2275 gp"
     },
     {
-      "d%": "25–28",
+      "d%": "25-28",
       "spell": "Dictum",
       "price": "2275 gp"
     },
     {
-      "d%": "29–33",
+      "d%": "29-33",
       "spell": "Ethereal jaunt",
       "price": "2275 gp"
     },
     {
-      "d%": "34–40",
+      "d%": "34-40",
       "spell": "Fire storm",
       "price": "2275 gp"
     },
     {
-      "d%": "41–44",
+      "d%": "41-44",
       "spell": "Holy word",
       "price": "2275 gp"
     },
     {
-      "d%": "45–50",
+      "d%": "45-50",
       "spell": "Inflict serious wounds mass",
       "price": "2275 gp"
     },
     {
-      "d%": "51–55",
+      "d%": "51-55",
       "spell": "Regenerate",
       "price": "2275 gp"
     },
     {
-      "d%": "56–60",
+      "d%": "56-60",
       "spell": "Repulsion",
       "price": "2275 gp"
     },
     {
-      "d%": "61–65",
+      "d%": "61-65",
       "spell": "Scrying greater",
       "price": "2275 gp"
     },
     {
-      "d%": "66–69",
+      "d%": "66-69",
       "spell": "Summon monster VII",
       "price": "2275 gp"
     },
     {
-      "d%": "70–73",
+      "d%": "70-73",
       "spell": "Summon nature's ally VII",
       "price": "2275 gp"
     },
     {
-      "d%": "74–78",
+      "d%": "74-78",
       "spell": "Sunbeam",
       "price": "2275 gp"
     },
     {
-      "d%": "79–82",
+      "d%": "79-82",
       "spell": "Word of chaos",
       "price": "2275 gp"
     },
     {
-      "d%": "83–89",
+      "d%": "83-89",
       "spell": "Destruction",
       "price": "2775 gp"
     },
     {
-      "d%": "90–94",
+      "d%": "90-94",
       "spell": "Restoration greater",
       "price": "7275 gp"
     },
     {
-      "d%": "95–100",
+      "d%": "95-100",
       "spell": "Resurrection",
       "price": "12275 gp"
     }
   ],
   "7UncommonArcane": [
     {
-      "d%": "01–03",
+      "d%": "01-03",
       "spell": "Control undead",
       "price": "2275 gp"
     },
     {
-      "d%": "04–07",
+      "d%": "04-07",
       "spell": "Control weather",
       "price": "2275 gp"
     },
     {
-      "d%": "08–10",
+      "d%": "08-10",
       "spell": "Create demiplane lesser",
       "price": "2275 gp"
     },
     {
-      "d%": "11–14",
+      "d%": "11-14",
       "spell": "Deflection",
       "price": "2275 gp"
     },
     {
-      "d%": "15–19",
+      "d%": "15-19",
       "spell": "Elemental body IV",
       "price": "2275 gp"
     },
     {
-      "d%": "20–23",
+      "d%": "20-23",
       "spell": "Firebrand",
       "price": "2275 gp"
     },
     {
-      "d%": "24–29",
+      "d%": "24-29",
       "spell": "Fly mass",
       "price": "2275 gp"
     },
     {
-      "d%": "30–34",
+      "d%": "30-34",
       "spell": "Giant form I",
       "price": "2275 gp"
     },
     {
-      "d%": "35–40",
+      "d%": "35-40",
       "spell": "Grasping hand",
       "price": "2275 gp"
     },
     {
-      "d%": "41–44",
+      "d%": "41-44",
       "spell": "Hostile juxtaposition greater",
       "price": "2275 gp"
     },
     {
-      "d%": "45–49",
+      "d%": "45-49",
       "spell": "Ice body",
       "price": "2275 gp"
     },
     {
-      "d%": "50–53",
+      "d%": "50-53",
       "spell": "Insanity",
       "price": "2275 gp"
     },
     {
-      "d%": "54–56",
+      "d%": "54-56",
       "spell": "Mage's magnificent mansion",
       "price": "2275 gp"
     },
     {
-      "d%": "57–61",
+      "d%": "57-61",
       "spell": "Phantasmal revenge",
       "price": "2275 gp"
     },
     {
-      "d%": "62–65",
+      "d%": "62-65",
       "spell": "Plague storm",
       "price": "2275 gp"
     },
     {
-      "d%": "66–70",
+      "d%": "66-70",
       "spell": "Plant shape III",
       "price": "2275 gp"
     },
     {
-      "d%": "71–74",
+      "d%": "71-74",
       "spell": "Resonating word",
       "price": "2275 gp"
     },
     {
-      "d%": "75–78",
+      "d%": "75-78",
       "spell": "Sequester",
       "price": "2275 gp"
     },
     {
-      "d%": "79–81",
+      "d%": "79-81",
       "spell": "Statue",
       "price": "2275 gp"
     },
     {
-      "d%": "82–84",
+      "d%": "82-84",
       "spell": "Teleport object",
       "price": "2275 gp"
     },
     {
-      "d%": "85–88",
+      "d%": "85-88",
       "spell": "Walk through space",
       "price": "2275 gp"
     },
     {
-      "d%": "89–91",
+      "d%": "89-91",
       "spell": "Vision",
       "price": "2525 gp"
     },
     {
-      "d%": "92–93",
+      "d%": "92-93",
       "spell": "Instant summons",
       "price": "3275 gp"
     },
     {
-      "d%": "94–96",
+      "d%": "94-96",
       "spell": "Symbol of stunning",
       "price": "7275 gp"
     },
     {
-      "d%": "97–98",
+      "d%": "97-98",
       "spell": "Symbol of weakness",
       "price": "7275 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Simulacrum",
       "price": "8775 gp"
     }
   ],
   "7UncommonDivine": [
     {
-      "d%": "01–08",
+      "d%": "01-08",
       "spell": "Animate plants",
       "price": "2275 gp"
     },
     {
-      "d%": "09–17",
+      "d%": "09-17",
       "spell": "Changestaff",
       "price": "2275 gp"
     },
     {
-      "d%": "18–24",
+      "d%": "18-24",
       "spell": "Circle of clarity",
       "price": "2275 gp"
     },
     {
-      "d%": "25–30",
+      "d%": "25-30",
       "spell": "Create demiplane lesser",
       "price": "2275 gp"
     },
     {
-      "d%": "31–38",
+      "d%": "31-38",
       "spell": "Jolting portent",
       "price": "2275 gp"
     },
     {
-      "d%": "39–45",
+      "d%": "39-45",
       "spell": "Rampart",
       "price": "2275 gp"
     },
     {
-      "d%": "46–53",
+      "d%": "46-53",
       "spell": "Scouring winds",
       "price": "2275 gp"
     },
     {
-      "d%": "54–60",
+      "d%": "54-60",
       "spell": "Siege of trees",
       "price": "2275 gp"
     },
     {
-      "d%": "61–67",
+      "d%": "61-67",
       "spell": "Transmute metal to wood",
       "price": "2275 gp"
     },
     {
-      "d%": "68–76",
+      "d%": "68-76",
       "spell": "Vortex",
       "price": "2275 gp"
     },
     {
-      "d%": "77–83",
+      "d%": "77-83",
       "spell": "Waves of ecstasy",
       "price": "2275 gp"
     },
     {
-      "d%": "84–89",
+      "d%": "84-89",
       "spell": "Refuge",
       "price": "3775 gp"
     },
     {
-      "d%": "90–95",
+      "d%": "90-95",
       "spell": "Symbol of stunning",
       "price": "7275 gp"
     },
     {
-      "d%": "96–100",
+      "d%": "96-100",
       "spell": "Symbol of weakness",
       "price": "7275 gp"
     }
   ],
   "8CommonArcane": [
     {
-      "d%": "01–05",
+      "d%": "01-05",
       "spell": "Charm monster mass",
       "price": "3000 gp"
     },
     {
-      "d%": "06–09",
+      "d%": "06-09",
       "spell": "Demand",
       "price": "3000 gp"
     },
     {
-      "d%": "10–13",
+      "d%": "10-13",
       "spell": "Dimensional lock",
       "price": "3000 gp"
     },
     {
-      "d%": "14–18",
+      "d%": "14-18",
       "spell": "Form of the dragon III",
       "price": "3000 gp"
     },
     {
-      "d%": "19–23",
+      "d%": "19-23",
       "spell": "Horrid wilting",
       "price": "3000 gp"
     },
     {
-      "d%": "24–28",
+      "d%": "24-28",
       "spell": "Incendiary cloud",
       "price": "3000 gp"
     },
     {
-      "d%": "29–33",
+      "d%": "29-33",
       "spell": "Irresistible dance",
       "price": "3000 gp"
     },
     {
-      "d%": "34–40",
+      "d%": "34-40",
       "spell": "Maze",
       "price": "3000 gp"
     },
     {
-      "d%": "41–45",
+      "d%": "41-45",
       "spell": "Mind blank",
       "price": "3000 gp"
     },
     {
-      "d%": "46–49",
+      "d%": "46-49",
       "spell": "Planar binding greater",
       "price": "3000 gp"
     },
     {
-      "d%": "50–55",
+      "d%": "50-55",
       "spell": "Polar ray",
       "price": "3000 gp"
     },
     {
-      "d%": "56–59",
+      "d%": "56-59",
       "spell": "Polymorph any object",
       "price": "3000 gp"
     },
     {
-      "d%": "60–66",
+      "d%": "60-66",
       "spell": "Power word stun",
       "price": "3000 gp"
     },
     {
-      "d%": "67–72",
+      "d%": "67-72",
       "spell": "Prismatic wall",
       "price": "3000 gp"
     },
     {
-      "d%": "73–76",
+      "d%": "73-76",
       "spell": "Scintillating pattern",
       "price": "3000 gp"
     },
     {
-      "d%": "77–80",
+      "d%": "77-80",
       "spell": "Summon monster VIII",
       "price": "3000 gp"
     },
     {
-      "d%": "81–85",
+      "d%": "81-85",
       "spell": "Telekinetic sphere",
       "price": "3000 gp"
     },
     {
-      "d%": "86–90",
+      "d%": "86-90",
       "spell": "Protection from spells",
       "price": "3500 gp"
     },
     {
-      "d%": "91–94",
+      "d%": "91-94",
       "spell": "Symbol of death",
       "price": "8000 gp"
     },
     {
-      "d%": "95–97",
+      "d%": "95-97",
       "spell": "Temporal stasis",
       "price": "8000 gp"
     },
     {
-      "d%": "98–100",
+      "d%": "98-100",
       "spell": "Trap the soul",
       "price": "23000 gp"
     }
   ],
   "8CommonDivine": [
     {
-      "d%": "01–08",
+      "d%": "01-08",
       "spell": "Antimagic field",
       "price": "3000 gp"
     },
     {
-      "d%": "09–14",
+      "d%": "09-14",
       "spell": "Cloak of chaos",
       "price": "3000 gp"
     },
     {
-      "d%": "15–23",
+      "d%": "15-23",
       "spell": "Cure critical wounds mass",
       "price": "3000 gp"
     },
     {
-      "d%": "24–31",
+      "d%": "24-31",
       "spell": "Earthquake",
       "price": "3000 gp"
     },
     {
-      "d%": "32–38",
+      "d%": "32-38",
       "spell": "Finger of death",
       "price": "3000 gp"
     },
     {
-      "d%": "39–44",
+      "d%": "39-44",
       "spell": "Holy aura",
       "price": "3000 gp"
     },
     {
-      "d%": "45–51",
+      "d%": "45-51",
       "spell": "Inflict critical wounds mass",
       "price": "3000 gp"
     },
     {
-      "d%": "52–59",
+      "d%": "52-59",
       "spell": "Reverse gravity",
       "price": "3000 gp"
     },
     {
-      "d%": "60–65",
+      "d%": "60-65",
       "spell": "Shield of law",
       "price": "3000 gp"
     },
     {
-      "d%": "66–73",
+      "d%": "66-73",
       "spell": "Spell immunity greater",
       "price": "3000 gp"
     },
     {
-      "d%": "74–78",
+      "d%": "74-78",
       "spell": "Summon monster VIII",
       "price": "3000 gp"
     },
     {
-      "d%": "79–83",
+      "d%": "79-83",
       "spell": "Summon nature's ally VIII",
       "price": "3000 gp"
     },
     {
-      "d%": "84–89",
+      "d%": "84-89",
       "spell": "Sunburst",
       "price": "3000 gp"
     },
     {
-      "d%": "90–95",
+      "d%": "90-95",
       "spell": "Unholy aura",
       "price": "3000 gp"
     },
     {
-      "d%": "96–100",
+      "d%": "96-100",
       "spell": "Planar ally greater",
       "price": "5500 gp"
     }
   ],
   "8UncommonArcane": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "spell": "Antipathy",
       "price": "3000 gp"
     },
     {
-      "d%": "05–10",
+      "d%": "05-10",
       "spell": "Clenched fist",
       "price": "3000 gp"
     },
     {
-      "d%": "11–12",
+      "d%": "11-12",
       "spell": "Clone",
       "price": "3000 gp"
     },
     {
-      "d%": "13–15",
+      "d%": "13-15",
       "spell": "Create demiplane",
       "price": "3000 gp"
     },
     {
-      "d%": "16–19",
+      "d%": "16-19",
       "spell": "Discern location",
       "price": "3000 gp"
     },
     {
-      "d%": "20–24",
+      "d%": "20-24",
       "spell": "Euphoric tranquility",
       "price": "3000 gp"
     },
     {
-      "d%": "25–29",
+      "d%": "25-29",
       "spell": "Frightful aspect",
       "price": "3000 gp"
     },
     {
-      "d%": "30–34",
+      "d%": "30-34",
       "spell": "Giant form II",
       "price": "3000 gp"
     },
     {
-      "d%": "35–38",
+      "d%": "35-38",
       "spell": "Iron body",
       "price": "3000 gp"
     },
     {
-      "d%": "39–43",
+      "d%": "39-43",
       "spell": "Moment of prescience",
       "price": "3000 gp"
     },
     {
-      "d%": "44–47",
+      "d%": "44-47",
       "spell": "Orb of the void",
       "price": "3000 gp"
     },
     {
-      "d%": "48–52",
+      "d%": "48-52",
       "spell": "Pyrying eyes greater",
       "price": "3000 gp"
     },
     {
-      "d%": "53–56",
+      "d%": "53-56",
       "spell": "Screen",
       "price": "3000 gp"
     },
     {
-      "d%": "57–62",
+      "d%": "57-62",
       "spell": "Shadow evocation greater",
       "price": "3000 gp"
     },
     {
-      "d%": "63–66",
+      "d%": "63-66",
       "spell": "Shout greater",
       "price": "3000 gp"
     },
     {
-      "d%": "67–72",
+      "d%": "67-72",
       "spell": "Stormbolts",
       "price": "3000 gp"
     },
     {
-      "d%": "73–76",
+      "d%": "73-76",
       "spell": "Sunburst",
       "price": "3000 gp"
     },
     {
-      "d%": "77–81",
+      "d%": "77-81",
       "spell": "Undead anatomy IV",
       "price": "3000 gp"
     },
     {
-      "d%": "82–87",
+      "d%": "82-87",
       "spell": "Wall of lava",
       "price": "3000 gp"
     },
     {
-      "d%": "88–91",
+      "d%": "88-91",
       "spell": "Create greater undead",
       "price": "3150 gp"
     },
     {
-      "d%": "92–95",
+      "d%": "92-95",
       "spell": "Sympathy",
       "price": "4500 gp"
     },
     {
-      "d%": "96–98",
+      "d%": "96-98",
       "spell": "Symbol of insanity",
       "price": "8000 gp"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "spell": "Binding (chaining)",
       "price": "13000 gp"
     }
   ],
   "8UncommonDivine": [
     {
-      "d%": "01–07",
+      "d%": "01-07",
       "spell": "Animal shapes",
       "price": "3000 gp"
     },
     {
-      "d%": "08–13",
+      "d%": "08-13",
       "spell": "Blood mist",
       "price": "3000 gp"
     },
     {
-      "d%": "14–18",
+      "d%": "14-18",
       "spell": "Control plants",
       "price": "3000 gp"
     },
     {
-      "d%": "19–24",
+      "d%": "19-24",
       "spell": "Create demiplane",
       "price": "3000 gp"
     },
     {
-      "d%": "25–31",
+      "d%": "25-31",
       "spell": "Dimensional lock",
       "price": "3000 gp"
     },
     {
-      "d%": "32–37",
+      "d%": "32-37",
       "spell": "Discern location",
       "price": "3000 gp"
     },
     {
-      "d%": "38–42",
+      "d%": "38-42",
       "spell": "Euphoric tranquility",
       "price": "3000 gp"
     },
     {
-      "d%": "43–49",
+      "d%": "43-49",
       "spell": "Frightful aspect",
       "price": "3000 gp"
     },
     {
-      "d%": "50–56",
+      "d%": "50-56",
       "spell": "Orb of the void",
       "price": "3000 gp"
     },
     {
-      "d%": "57–61",
+      "d%": "57-61",
       "spell": "Repel metal or stone",
       "price": "3000 gp"
     },
     {
-      "d%": "62–68",
+      "d%": "62-68",
       "spell": "Seamantle",
       "price": "3000 gp"
     },
     {
-      "d%": "69–75",
+      "d%": "69-75",
       "spell": "Storm bolts",
       "price": "3000 gp"
     },
     {
-      "d%": "76–83",
+      "d%": "76-83",
       "spell": "Whirlwind",
       "price": "3000 gp"
     },
     {
-      "d%": "84–88",
+      "d%": "84-88",
       "spell": "Create greater undead",
       "price": "3150 gp"
     },
     {
-      "d%": "89–95",
+      "d%": "89-95",
       "spell": "Symbol of death",
       "price": "8000 gp"
     },
     {
-      "d%": "96–100",
+      "d%": "96-100",
       "spell": "Symbol of insanity",
       "price": "8000 gp"
     }
   ],
   "9CommonArcane": [
     {
-      "d%": "01–06",
+      "d%": "01-06",
       "spell": "Dominate monster",
       "price": "3825 gp"
     },
     {
-      "d%": "07–11",
+      "d%": "07-11",
       "spell": "Energy drain",
       "price": "3825 gp"
     },
     {
-      "d%": "12–16",
+      "d%": "12-16",
       "spell": "Freedom",
       "price": "3825 gp"
     },
     {
-      "d%": "17–23",
+      "d%": "17-23",
       "spell": "Gate",
       "price": "3825 gp"
     },
     {
-      "d%": "24–28",
+      "d%": "24-28",
       "spell": "Hold monster mass",
       "price": "3825 gp"
     },
     {
-      "d%": "29–33",
+      "d%": "29-33",
       "spell": "Imprisonment",
       "price": "3825 gp"
     },
     {
-      "d%": "34–39",
+      "d%": "34-39",
       "spell": "Mage's disjunction",
       "price": "3825 gp"
     },
     {
-      "d%": "40–47",
+      "d%": "40-47",
       "spell": "Meteor swarm",
       "price": "3825 gp"
     },
     {
-      "d%": "48–55",
+      "d%": "48-55",
       "spell": "Power word kill",
       "price": "3825 gp"
     },
     {
-      "d%": "56–61",
+      "d%": "56-61",
       "spell": "Prismatic sphere",
       "price": "3825 gp"
     },
     {
-      "d%": "62–66",
+      "d%": "62-66",
       "spell": "Shapechange",
       "price": "3825 gp"
     },
     {
-      "d%": "67–71",
+      "d%": "67-71",
       "spell": "Summon monster IX",
       "price": "3825 gp"
     },
     {
-      "d%": "72–79",
+      "d%": "72-79",
       "spell": "Time stop",
       "price": "3825 gp"
     },
     {
-      "d%": "80–85",
+      "d%": "80-85",
       "spell": "Weird",
       "price": "3825 gp"
     },
     {
-      "d%": "86–90",
+      "d%": "86-90",
       "spell": "Astral projection",
       "price": "4825 gp"
     },
     {
-      "d%": "91–96",
+      "d%": "91-96",
       "spell": "Teleportation circle",
       "price": "4825 gp"
     },
     {
-      "d%": "97–100",
+      "d%": "97-100",
       "spell": "Wish",
       "price": "28825 gp"
     }
   ],
   "9CommonDivine": [
     {
-      "d%": "01–07",
+      "d%": "01-07",
       "spell": "Elemental swarm",
       "price": "3825 gp"
     },
     {
-      "d%": "08–15",
+      "d%": "08-15",
       "spell": "Energy drain",
       "price": "3825 gp"
     },
     {
-      "d%": "16–22",
+      "d%": "16-22",
       "spell": "Etherealness",
       "price": "3825 gp"
     },
     {
-      "d%": "23–30",
+      "d%": "23-30",
       "spell": "Gate",
       "price": "3825 gp"
     },
     {
-      "d%": "31–40",
+      "d%": "31-40",
       "spell": "Heal mass",
       "price": "3825 gp"
     },
     {
-      "d%": "41–48",
+      "d%": "41-48",
       "spell": "Implosion",
       "price": "3825 gp"
     },
     {
-      "d%": "49–58",
+      "d%": "49-58",
       "spell": "Miracle",
       "price": "3825 gp"
     },
     {
-      "d%": "59–65",
+      "d%": "59-65",
       "spell": "Shambler",
       "price": "3825 gp"
     },
     {
-      "d%": "66–73",
+      "d%": "66-73",
       "spell": "Shapechange",
       "price": "3825 gp"
     },
     {
-      "d%": "74–81",
+      "d%": "74-81",
       "spell": "Storm of vengeance",
       "price": "3825 gp"
     },
     {
-      "d%": "82–87",
+      "d%": "82-87",
       "spell": "Summon monster IX",
       "price": "3825 gp"
     },
     {
-      "d%": "88–93",
+      "d%": "88-93",
       "spell": "Summon nature's ally IX",
       "price": "3825 gp"
     },
     {
-      "d%": "94–100",
+      "d%": "94-100",
       "spell": "True resurrection",
       "price": "28825 gp"
     }
   ],
   "9UncommonArcane": [
     {
-      "d%": "01–06",
+      "d%": "01-06",
       "spell": "Create demiplane greater",
       "price": "3825 gp"
     },
     {
-      "d%": "07–15",
+      "d%": "07-15",
       "spell": "Crushing hand",
       "price": "3825 gp"
     },
     {
-      "d%": "16–23",
+      "d%": "16-23",
       "spell": "Etherealness",
       "price": "3825 gp"
     },
     {
-      "d%": "24–31",
+      "d%": "24-31",
       "spell": "Fiery body",
       "price": "3825 gp"
     },
     {
-      "d%": "32–38",
+      "d%": "32-38",
       "spell": "Foresight",
       "price": "3825 gp"
     },
     {
-      "d%": "39–44",
+      "d%": "39-44",
       "spell": "Heroic invocation",
       "price": "3825 gp"
     },
     {
-      "d%": "45–50",
+      "d%": "45-50",
       "spell": "Icy prison mass",
       "price": "3825 gp"
     },
     {
-      "d%": "51–57",
+      "d%": "51-57",
       "spell": "Ride the lightning",
       "price": "3825 gp"
     },
     {
-      "d%": "58–65",
+      "d%": "58-65",
       "spell": "Shades",
       "price": "3825 gp"
     },
     {
-      "d%": "66–72",
+      "d%": "66-72",
       "spell": "Soul bind",
       "price": "3825 gp"
     },
     {
-      "d%": "73–79",
+      "d%": "73-79",
       "spell": "Tsunami",
       "price": "3825 gp"
     },
     {
-      "d%": "80–88",
+      "d%": "80-88",
       "spell": "Wail of the banshee",
       "price": "3825 gp"
     },
     {
-      "d%": "89–95",
+      "d%": "89-95",
       "spell": "Winds of vengeance",
       "price": "3825 gp"
     },
     {
-      "d%": "96–100",
+      "d%": "96-100",
       "spell": "Refuge",
       "price": "4325 gp"
     }
   ],
   "9UncommonDivine": [
     {
-      "d%": "01–08",
+      "d%": "01-08",
       "spell": "Antipathy",
       "price": "3825 gp"
     },
     {
-      "d%": "09–15",
+      "d%": "09-15",
       "spell": "Clashing rocks",
       "price": "3825 gp"
     },
     {
-      "d%": "16–22",
+      "d%": "16-22",
       "spell": "Create demiplane greater",
       "price": "3825 gp"
     },
     {
-      "d%": "23–31",
+      "d%": "23-31",
       "spell": "Foresight",
       "price": "3825 gp"
     },
     {
-      "d%": "32–39",
+      "d%": "32-39",
       "spell": "Overwhelming presence",
       "price": "3825 gp"
     },
     {
-      "d%": "40–47",
+      "d%": "40-47",
       "spell": "Polar midnight",
       "price": "3825 gp"
     },
     {
-      "d%": "48–56",
+      "d%": "48-56",
       "spell": "Soul bind",
       "price": "3825 gp"
     },
     {
-      "d%": "57–64",
+      "d%": "57-64",
       "spell": "Spell immunity greater",
       "price": "3825 gp"
     },
     {
-      "d%": "65–71",
+      "d%": "65-71",
       "spell": "Summon froghemoth",
       "price": "3825 gp"
     },
     {
-      "d%": "72–80",
+      "d%": "72-80",
       "spell": "Winds of vengeance",
       "price": "3825 gp"
     },
     {
-      "d%": "81–87",
+      "d%": "81-87",
       "spell": "World wave",
       "price": "3825 gp"
     },
     {
-      "d%": "88–94",
+      "d%": "88-94",
       "spell": "Astral projection",
       "price": "4825 gp"
     },
     {
-      "d%": "95–100",
+      "d%": "95-100",
       "spell": "Sympathy",
       "price": "5325 gp"
     }
   ],
   "ScrollLevel": [
     {
-      "LesserMinor": "01–15",
-      "GreaterMinor": "01–05",
+      "LesserMinor": "01-15",
+      "GreaterMinor": "01-05",
       "LesserMedium": "—",
       "GreaterMedium": "—",
       "LesserMajor": "—",
       "GreaterMajor": "—",
       "SpellLevel": "0",
-      "CasterLevel": "1st"
+      "CasterLevel": "1"
     },
     {
-      "LesserMinor": "16–95",
-      "GreaterMinor": "06–35",
+      "LesserMinor": "16-95",
+      "GreaterMinor": "06-35",
       "LesserMedium": "—",
       "GreaterMedium": "—",
       "LesserMajor": "—",
       "GreaterMajor": "—",
-      "SpellLevel": "1st",
-      "CasterLevel": "1st"
+      "SpellLevel": "1",
+      "CasterLevel": "1"
     },
     {
-      "LesserMinor": "96–100",
-      "GreaterMinor": "36–90",
-      "LesserMedium": "01–10",
+      "LesserMinor": "96-100",
+      "GreaterMinor": "36-90",
+      "LesserMedium": "01-10",
       "GreaterMedium": "—",
       "LesserMajor": "—",
       "GreaterMajor": "—",
-      "SpellLevel": "2nd",
-      "CasterLevel": "3rd"
+      "SpellLevel": "2",
+      "CasterLevel": "3"
     },
     {
       "LesserMinor": "—",
-      "GreaterMinor": "91–100",
-      "LesserMedium": "11–55",
-      "GreaterMedium": "01–20",
+      "GreaterMinor": "91-100",
+      "LesserMedium": "11-55",
+      "GreaterMedium": "01-20",
       "LesserMajor": "—",
       "GreaterMajor": "—",
-      "SpellLevel": "3rd",
-      "CasterLevel": "5th"
+      "SpellLevel": "3",
+      "CasterLevel": "5"
     },
     {
       "LesserMinor": "—",
       "GreaterMinor": "—",
-      "LesserMedium": "56–100",
-      "GreaterMedium": "21–60",
-      "LesserMajor": "01–30",
+      "LesserMedium": "56-100",
+      "GreaterMedium": "21-60",
+      "LesserMajor": "01-30",
       "GreaterMajor": "—",
-      "SpellLevel": "4th",
-      "CasterLevel": "7th"
+      "SpellLevel": "4",
+      "CasterLevel": "7"
     },
     {
       "LesserMinor": "—",
       "GreaterMinor": "—",
       "LesserMedium": "—",
-      "GreaterMedium": "61–100",
-      "LesserMajor": "31–65",
+      "GreaterMedium": "61-100",
+      "LesserMajor": "31-65",
       "GreaterMajor": "—",
-      "SpellLevel": "5th",
-      "CasterLevel": "9th"
+      "SpellLevel": "5",
+      "CasterLevel": "9"
     },
     {
       "LesserMinor": "—",
       "GreaterMinor": "—",
       "LesserMedium": "—",
       "GreaterMedium": "—",
-      "LesserMajor": "66–90",
-      "GreaterMajor": "01–05",
-      "SpellLevel": "6th",
-      "CasterLevel": "11th"
+      "LesserMajor": "66-90",
+      "GreaterMajor": "01-05",
+      "SpellLevel": "6",
+      "CasterLevel": "11"
     },
     {
       "LesserMinor": "—",
       "GreaterMinor": "—",
       "LesserMedium": "—",
       "GreaterMedium": "—",
-      "LesserMajor": "91–100",
-      "GreaterMajor": "06–35",
-      "SpellLevel": "7th",
-      "CasterLevel": "13th"
-    },
-    {
-      "LesserMinor": "—",
-      "GreaterMinor": "—",
-      "LesserMedium": "—",
-      "GreaterMedium": "—",
-      "LesserMajor": "—",
-      "GreaterMajor": "36–70",
-      "SpellLevel": "8th",
-      "CasterLevel": "15th"
+      "LesserMajor": "91-100",
+      "GreaterMajor": "06-35",
+      "SpellLevel": "7",
+      "CasterLevel": "13"
     },
     {
       "LesserMinor": "—",
@@ -4970,26 +4960,36 @@
       "LesserMedium": "—",
       "GreaterMedium": "—",
       "LesserMajor": "—",
-      "GreaterMajor": "71–100",
-      "SpellLevel": "9th",
-      "CasterLevel": "17th"
+      "GreaterMajor": "36-70",
+      "SpellLevel": "8",
+      "CasterLevel": "15"
+    },
+    {
+      "LesserMinor": "—",
+      "GreaterMinor": "—",
+      "LesserMedium": "—",
+      "GreaterMedium": "—",
+      "LesserMajor": "—",
+      "GreaterMajor": "71-100",
+      "SpellLevel": "9",
+      "CasterLevel": "17"
     }
   ],
   "ScrollType": [
     {
-      "d%": "01–45",
+      "d%": "01-45",
       "type": "CommonArcane"
     },
     {
-      "d%": "46–60",
+      "d%": "46-60",
       "type": "UncommonArcane"
     },
     {
-      "d%": "61–90",
+      "d%": "61-90",
       "type": "CommonDivine"
     },
     {
-      "d%": "91–100",
+      "d%": "91-100",
       "type": "UncommonDivine"
     }
   ]

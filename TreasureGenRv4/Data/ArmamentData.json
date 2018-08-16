@@ -1,91 +1,91 @@
 {
   "ArmorData": [
     {
-      "d%": "01–04",
+      "d%": "01-04",
       "type": "Banded mail"
     },
     {
-      "d%": "05–11",
+      "d%": "05-11",
       "type": "Breastplate"
     },
     {
-      "d%": "12–14",
+      "d%": "12-14",
       "type": "Buckler"
     },
     {
-      "d%": "15–21",
+      "d%": "15-21",
       "type": "Chain shirt"
     },
     {
-      "d%": "22–27",
+      "d%": "22-27",
       "type": "Chainmail"
     },
     {
-      "d%": "28–34",
+      "d%": "28-34",
       "type": "Full plate"
     },
     {
-      "d%": "35–39",
+      "d%": "35-39",
       "type": "Half-plate"
     },
     {
-      "d%": "40–45",
+      "d%": "40-45",
       "type": "Heavy steel shield"
     },
     {
-      "d%": "46–51",
+      "d%": "46-51",
       "type": "Heavy wooden shield"
     },
     {
-      "d%": "52–55",
+      "d%": "52-55",
       "type": "Hide"
     },
     {
-      "d%": "56–61",
+      "d%": "56-61",
       "type": "Leather armor"
     },
     {
-      "d%": "62–65",
+      "d%": "62-65",
       "type": "Light steel shield"
     },
     {
-      "d%": "66–69",
+      "d%": "66-69",
       "type": "Light wooden shield"
     },
     {
-      "d%": "70–72",
+      "d%": "70-72",
       "type": "Padded armor"
     },
     {
-      "d%": "73–77",
+      "d%": "73-77",
       "type": "Scale mail"
     },
     {
-      "d%": "78–81",
+      "d%": "78-81",
       "type": "Splint mail"
     },
     {
-      "d%": "82–87",
+      "d%": "82-87",
       "type": "Studded leather armor"
     },
     {
-      "d%": "88–90",
+      "d%": "88-90",
       "type": "Tower shield"
     },
     {
-      "d%": "91–93",
+      "d%": "91-93",
       "type": "Other light armor*"
     },
     {
-      "d%": "94–95",
+      "d%": "94-95",
       "type": "Other medium armor*"
     },
     {
-      "d%": "96–98",
+      "d%": "96-98",
       "type": "Other heavy armor*"
     },
     {
-      "d%": "99–100",
+      "d%": "99-100",
       "type": "Other shield*"
     },
     {
@@ -95,167 +95,167 @@
   "WeaponData": [
     {
       "d%": "01",
-      "type of weapon": "Bastard sword"
+      "type": "Bastard sword"
     },
     {
-      "d%": "02–05",
-      "type of weapon": "Battleaxe"
+      "d%": "02-05",
+      "type": "Battleaxe"
     },
     {
       "d%": "06",
-      "type of weapon": "Bolas"
+      "type": "Bolas"
     },
     {
-      "d%": "07–08",
-      "type of weapon": "Club"
+      "d%": "07-08",
+      "type": "Club"
     },
     {
-      "d%": "09–10",
-      "type of weapon": "Composite longbow"
+      "d%": "09-10",
+      "type": "Composite longbow"
     },
     {
-      "d%": "11–12",
-      "type of weapon": "Composite shortbow"
+      "d%": "11-12",
+      "type": "Composite shortbow"
     },
     {
-      "d%": "13–16",
-      "type of weapon": "Dagger"
+      "d%": "13-16",
+      "type": "Dagger"
     },
     {
       "d%": "17",
-      "type of weapon": "Dart"
+      "type": "Dart"
     },
     {
       "d%": "18",
-      "type of weapon": "Dwarven waraxe"
+      "type": "Dwarven waraxe"
     },
     {
       "d%": "19",
-      "type of weapon": "Falchion"
+      "type": "Falchion"
     },
     {
       "d%": "20",
-      "type of weapon": "Gauntlet"
+      "type": "Gauntlet"
     },
     {
       "d%": "21",
-      "type of weapon": "Glaive"
+      "type": "Glaive"
     },
     {
-      "d%": "22–24",
-      "type of weapon": "Greataxe"
+      "d%": "22-24",
+      "type": "Greataxe"
     },
     {
       "d%": "25",
-      "type of weapon": "Greatclub"
+      "type": "Greatclub"
     },
     {
-      "d%": "26–28",
-      "type of weapon": "Greatsword"
+      "d%": "26-28",
+      "type": "Greatsword"
     },
     {
       "d%": "29",
-      "type of weapon": "Halberd"
+      "type": "Halberd"
     },
     {
       "d%": "30",
-      "type of weapon": "Handaxe"
+      "type": "Handaxe"
     },
     {
-      "d%": "31–33",
-      "type of weapon": "Heavy crossbow"
+      "d%": "31-33",
+      "type": "Heavy crossbow"
     },
     {
       "d%": "34",
-      "type of weapon": "Heavy flail"
+      "type": "Heavy flail"
     },
     {
       "d%": "35",
-      "type of weapon": "Heavy mace"
+      "type": "Heavy mace"
     },
     {
-      "d%": "36–37",
-      "type of weapon": "Lance"
+      "d%": "36-37",
+      "type": "Lance"
     },
     {
-      "d%": "38–40",
-      "type of weapon": "Light crossbow"
+      "d%": "38-40",
+      "type": "Light crossbow"
     },
     {
       "d%": "41",
-      "type of weapon": "Light flail"
+      "type": "Light flail"
     },
     {
       "d%": "42",
-      "type of weapon": "Light hammer"
+      "type": "Light hammer"
     },
     {
-      "d%": "43–44",
-      "type of weapon": "Light mace"
+      "d%": "43-44",
+      "type": "Light mace"
     },
     {
       "d%": "45",
-      "type of weapon": "Light pick"
+      "type": "Light pick"
     },
     {
-      "d%": "46–49",
-      "type of weapon": "Longbow"
+      "d%": "46-49",
+      "type": "Longbow"
     },
     {
-      "d%": "50–51",
-      "type of weapon": "Longspear"
+      "d%": "50-51",
+      "type": "Longspear"
     },
     {
-      "d%": "52–58",
-      "type of weapon": "Longsword"
+      "d%": "52-58",
+      "type": "Longsword"
     },
     {
-      "d%": "59–60",
-      "type of weapon": "Morningstar"
+      "d%": "59-60",
+      "type": "Morningstar"
     },
     {
       "d%": "61",
-      "type of weapon": "Nunchaku"
+      "type": "Nunchaku"
     },
     {
-      "d%": "62–63",
-      "type of weapon": "Quarterstaff"
+      "d%": "62-63",
+      "type": "Quarterstaff"
     },
     {
-      "d%": "64–65",
-      "type of weapon": "Rapier"
+      "d%": "64-65",
+      "type": "Rapier"
     },
     {
-      "d%": "85–87",
-      "type of weapon": "Spear"
+      "d%": "85-87",
+      "type": "Spear"
     },
     {
       "d%": "88",
-      "type of weapon": "Trident"
+      "type": "Trident"
     },
     {
-      "d%": "89–91",
-      "type of weapon": "Warhammer"
+      "d%": "89-91",
+      "type": "Warhammer"
     },
     {
       "d%": "92",
-      "type of weapon": "Whip"
+      "type": "Whip"
     },
     {
-      "d%": "93–94",
-      "type of weapon": "Other light melee weapon*"
+      "d%": "93-94",
+      "type": "Other light melee weapon*"
     },
     {
-      "d%": "95–96",
-      "type of weapon": "Other one-handed melee weapon*"
+      "d%": "95-96",
+      "type": "Other one-handed melee weapon*"
     },
     {
-      "d%": "97–98",
-      "type of weapon": "Other two-handed melee weapon*"
+      "d%": "97-98",
+      "type": "Other two-handed melee weapon*"
     },
     {
-      "d%": "99–100",
-      "type of weapon": "Other ranged weapon*"
+      "d%": "99-100",
+      "type": "Other ranged weapon*"
     },
     {
       "d%": "*GM's choice of weapon."
