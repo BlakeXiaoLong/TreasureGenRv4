@@ -303,28 +303,28 @@
     },
     {
       "d%": "300 gp",
-      "spell": "Resist energy",
-      "price": " acid"
+      "spell": "Resist energy (acid)",
+      "price": "300 gp"
     },
     {
       "d%": "300 gp",
-      "spell": "Resist energy",
-      "price": " cold"
+      "spell": "Resist energy (cold)",
+      "price": "300 gp"
     },
     {
       "d%": "300 gp",
-      "spell": "Resist energy",
-      "price": " electricity"
+      "spell": "Resist energy (electricity)",
+      "price": "300 gp"
     },
     {
       "d%": "300 gp",
-      "spell": "Resist energy",
-      "price": " fire"
+      "spell": "Resist energy (fire)",
+      "price": "300 gp"
     },
     {
       "d%": "300 gp",
-      "spell": "Resist energy",
-      "price": " sonic"
+      "spell": "Resist energy (sonic)",
+      "price": "300 gp"
     },
     {
       "d%": "95-98",
@@ -471,9 +471,9 @@
       "price": "750 gp"
     },
     {
-      "d%": "750 gp",
-      "spell": "Magic fang",
-      "price": " greater"
+      "d%": "45-48",
+      "spell": "Greater magic fang",
+      "price": "750gp"
     },
     {
       "d%": "49-52",
@@ -487,28 +487,28 @@
     },
     {
       "d%": "750 gp",
-      "spell": "Protection from energy",
-      "price": " acid"
+      "spell": "Protection from energy (acid)",
+      "price": "750 gp"
     },
     {
       "d%": "750 gp",
-      "spell": "Protection from energy",
-      "price": " cold"
+      "spell": "Protection from energy (cold)",
+      "price": "750 gp"
     },
     {
       "d%": "750 gp",
-      "spell": "Protection from energy",
-      "price": " electricity"
+      "spell": "Protection from energy (electricity)",
+      "price": "750 gp"
     },
     {
       "d%": "750 gp",
-      "spell": "Protection from energy",
-      "price": " fire"
+      "spell": "Protection from energy (fire)",
+      "price": "750 gp",
     },
     {
       "d%": "750 gp",
-      "spell": "Protection from energy",
-      "price": " sonic"
+      "spell": "Protection from energy (sonic)",
+      "price": "750 gp"
     },
     {
       "d%": "72-74",

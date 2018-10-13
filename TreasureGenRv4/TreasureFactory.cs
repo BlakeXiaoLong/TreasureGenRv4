@@ -4,15 +4,17 @@ using TreasureGenRv4.Data;
 
 namespace TreasureGenRv4
 {
+    internal enum ArmorWeightEnum
+    {
+        Light,
+        Medium,
+        Heavy,
+        Any
+    }
     internal enum ArmorTypeEnum
     {
-        LightArmor,
-        MediumArmor,
-        HeavyArmor,
-        AnyArmor,
-        LightShield,
-        HeavyShield,
-        AnyShield
+        Armor,
+        Shield
     }
     internal enum RarityTypeEnum
     {
@@ -24,22 +26,45 @@ namespace TreasureGenRv4
         LesserMajor,
         GreaterMajor
     }
+    internal enum WeaponWeightEnum
+    {
+        Unarmed,
+        Light,
+        OneHanded,
+        TwoHanded,
+        AnyMelee,
+        Ranged
+    }
     internal enum WeaponTypeEnum
     {
+        Slashing,
+        Piercing,
+        Bludgeoning,
 
+        BowNonComposite,
+        BowComposite,
+        Crossbow,
+        Firearm,
+        Thrown,
+
+        AnyMelee,
+        Bow,
+        BowCrossbow,
+        NotFirearm,
+        AnyRanged
     }
 
-    internal interface ITreasureFactory
+    internal interface ITreasureBuilder
     {
-        Treasure CreateNew();
+        Treasure GetResult();
     }
-    internal class CoinFactory : ITreasureFactory
+    internal class CoinBuilder : ITreasureBuilder
     {
         private readonly int _x, _y, _m;
         private readonly ValueTypeEnum _valueType;
 
-        public CoinFactory(int x, int y, ValueTypeEnum valueType) : this(x, y, 1, valueType) { }
-        public CoinFactory(int x, int y, int m, ValueTypeEnum valueType)
+        public CoinBuilder(int x, int y, ValueTypeEnum valueType) : this(x, y, 1, valueType) { }
+        public CoinBuilder(int x, int y, int m, ValueTypeEnum valueType)
         {
             _x = x;
             _y = y;
@@ -47,7 +72,7 @@ namespace TreasureGenRv4
             _valueType = valueType;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
             return new Treasure
             {
@@ -57,51 +82,45 @@ namespace TreasureGenRv4
             };
         }
     }
-    internal class GemFactory : ITreasureFactory
+    internal class GemBuilder : ITreasureBuilder
     {
         private readonly int _grade;
 
-        public GemFactory(int grade)
+        public GemBuilder(int grade)
         {
             _grade = grade;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
-    internal class ArtFactory : ITreasureFactory
+    internal class ArtBuilder : ITreasureBuilder
     {
         private readonly int _grade;
 
-        public ArtFactory(int grade)
+        public ArtBuilder(int grade)
         {
             _grade = grade;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
-    internal class ScrollFactory : ITreasureFactory
+    internal class ScrollBuilder : ITreasureBuilder
     {
-        private readonly RarityTypeEnum _rarityType;
+        public RarityTypeEnum RarityType { get; set; }
+        private readonly DataSet _data = TreasureData.Instance.ScrollData;
 
-        public ScrollFactory(RarityTypeEnum rarityType)
+        public Treasure GetResult()
         {
-            _rarityType = rarityType;
-        }
-
-        public Treasure CreateNew()
-        {
-            DataSet data = TreasureData.Instance.ScrollData;
-
-            DataRow levelRow = Helpers.GetRow(data, "ScrollLevel", Enum.GetName(typeof(RarityTypeEnum), _rarityType));
+            DataRow levelRow = Helpers.GetRow(_data, "ScrollLevel", Enum.GetName(typeof(RarityTypeEnum), RarityType));
             int casterLevel = Convert.ToInt32(levelRow["CasterLevel"]), scrollLevel = Convert.ToInt32(levelRow["SpellLevel"]);
-            string scrollType = Helpers.GetRow(data, "ScrollType", "d%").Field<string>("type");
-            DataRow spellRow = Helpers.GetRow(data, scrollLevel + scrollType, "d%");
+            string scrollType = Helpers.GetRow(_data, "ScrollType", "d%").Field<string>("type");
+            DataRow spellRow = Helpers.GetRow(_data, scrollLevel + scrollType, "d%");
 
             return new CastableTreasure
             {
@@ -112,23 +131,17 @@ namespace TreasureGenRv4
             };
         }
     }
-    internal class PotionFactory : ITreasureFactory
+    internal class PotionBuilder : ITreasureBuilder
     {
-        private readonly RarityTypeEnum _rarityType;
+        public RarityTypeEnum RarityType { get; set; }
+        private readonly DataSet _data = TreasureData.Instance.PotionData;
 
-        public PotionFactory(RarityTypeEnum rarityType)
+        public Treasure GetResult()
         {
-            _rarityType = rarityType;
-        }
-
-        public Treasure CreateNew()
-        {
-            DataSet data = TreasureData.Instance.PotionData;
-
-            DataRow levelRow = Helpers.GetRow(data, "PotionLevel", Enum.GetName(typeof(RarityTypeEnum), _rarityType));
+            DataRow levelRow = Helpers.GetRow(_data, "PotionLevel", Enum.GetName(typeof(RarityTypeEnum), RarityType));
             int casterLevel = Convert.ToInt32(levelRow["CasterLevel"]), potionLevel = Convert.ToInt32(levelRow["SpellLevel"]);
-            string potionType = Helpers.GetRow(data, "PotionType", "d%").Field<string>("type");
-            DataRow spellRow = Helpers.GetRow(data, potionLevel + potionType, "d%");
+            string potionType = Helpers.GetRow(_data, "PotionType", "d%").Field<string>("type");
+            DataRow spellRow = Helpers.GetRow(_data, potionLevel + potionType, "d%");
 
             return new CastableTreasure
             {
@@ -139,23 +152,17 @@ namespace TreasureGenRv4
             };
         }
     }
-    internal class WandFactory : ITreasureFactory
+    internal class WandBuilder : ITreasureBuilder
     {
-        readonly RarityTypeEnum _rarityType;
+        private RarityTypeEnum RarityType { get; set; }
+        private readonly DataSet _data = TreasureData.Instance.WandData;
 
-        public WandFactory(RarityTypeEnum rarityType)
+        public Treasure GetResult()
         {
-            _rarityType = rarityType;
-        }
-
-        public Treasure CreateNew()
-        {
-            DataSet data = TreasureData.Instance.WandData;
-
-            DataRow levelRow = Helpers.GetRow(data, "WandLevel", Enum.GetName(typeof(RarityTypeEnum), _rarityType));
+            DataRow levelRow = Helpers.GetRow(_data, "WandLevel", Enum.GetName(typeof(RarityTypeEnum), RarityType));
             int casterLevel = Convert.ToInt32(levelRow["CasterLevel"]), wandLevel = Convert.ToInt32(levelRow["SpellLevel"]);
-            string wandType = Helpers.GetRow(data, "WandType", "d%").Field<string>("type");
-            DataRow spellRow = Helpers.GetRow(data, wandLevel + wandType, "d%");
+            string wandType = Helpers.GetRow(_data, "WandType", "d%").Field<string>("type");
+            DataRow spellRow = Helpers.GetRow(_data, wandLevel + wandType, "d%");
 
             return new CastableTreasure
             {
@@ -166,78 +173,106 @@ namespace TreasureGenRv4
             };
         }
     }
-    internal class WeaponFactory : ITreasureFactory
+    internal class WeaponEnchantmentBuilder : ITreasureBuilder
+    {
+        public Treasure GetResult()
+        {
+            throw new NotImplementedException();
+        }
+    }
+    internal class UniqueWeaponBuilder : ITreasureBuilder
+    {
+        public Treasure GetResult()
+        {
+            throw new NotImplementedException();
+        }
+    }
+    internal class WeaponBuilder : ITreasureBuilder
     {
         WeaponTypeEnum _weaponType;
         RarityTypeEnum _rarityType;
 
-        public WeaponFactory(WeaponTypeEnum weaponType, RarityTypeEnum rarityType)
+        public WeaponBuilder(WeaponTypeEnum weaponType, RarityTypeEnum rarityType)
         {
             _weaponType = weaponType;
             _rarityType = rarityType;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
-    internal class ArmorFactory : ITreasureFactory
+    internal class ArmorEnchantmentBuilder : ITreasureBuilder
+    {
+        public Treasure GetResult()
+        {
+            throw new NotImplementedException();
+        }
+    }
+    internal class UniqueArmorBuilder : ITreasureBuilder
+    {
+        public Treasure GetResult()
+        {
+            throw new NotImplementedException();
+        }
+    }
+    internal class ArmorBuilder : ITreasureBuilder
     {
         ArmorTypeEnum _armorType;
         RarityTypeEnum _rarityType;
 
-        public ArmorFactory(ArmorTypeEnum armorType, RarityTypeEnum rarityType)
+        public ArmorBuilder(ArmorTypeEnum armorType, RarityTypeEnum rarityType)
         {
             _armorType = armorType;
             _rarityType = rarityType;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
-    internal class RingFactory : ITreasureFactory
+    internal class RingBuilder : ITreasureBuilder
     {
         RarityTypeEnum _rarityType;
 
-        public RingFactory(RarityTypeEnum rarityType)
+        public RingBuilder(RarityTypeEnum rarityType)
         {
             _rarityType = rarityType;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
-    internal class WondrousFactory : ITreasureFactory
+    internal class WondrousBuilder : ITreasureBuilder
     {
         RarityTypeEnum _rarityType;
 
-        public WondrousFactory(RarityTypeEnum rarityType)
+        public WondrousBuilder(RarityTypeEnum rarityType)
         {
             _rarityType = rarityType;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
-    internal class RodFactory : ITreasureFactory
+    internal class RodBuilder : ITreasureBuilder
     {
         RarityTypeEnum _rarityType;
 
-        public RodFactory(RarityTypeEnum rarityType)
+        public RodBuilder(RarityTypeEnum rarityType)
         {
             _rarityType = rarityType;
         }
 
-        public Treasure CreateNew()
+        public Treasure GetResult()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
 }

@@ -16,7 +16,7 @@ namespace TreasureGenRv4
             new[]{400,800,1200,1700,2300,3000,3900,5000,6400,8200,10500,13500,17500,22000,29000,38000,48000,62000,79000,100000 }, // fast progression
             new[]{260,390,780,1650,2400,3450,4650,6000,7800,10050,12750,16350,21000,27000,34800,45000,58500,75000,96000,123000,159000 } // NPC Gear
         };
-        internal static KeyValuePair<int, List<ITreasureFactory>>[][] TreasureValues = new KeyValuePair<int, List<ITreasureFactory>>[][]
+        internal static KeyValuePair<int, List<ITreasureBuilder>>[][] TreasureValues = new KeyValuePair<int, List<ITreasureBuilder>>[][]
         {
             //new[]{1,5,10,25,50,100,200,500,1000,5000,10000,50000},
             //new[]{10,15,25,50,50,75,100,100,150,200,250,500,500,750,1000,1000,2500,5000,5000,10000,20000,50000},
@@ -41,18 +41,18 @@ namespace TreasureGenRv4
         }
         public static List<Treasure> Run(int budget, TreasureTypeEnum treasureType)
         {
-            List<ITreasureFactory> factoryList = new List<ITreasureFactory>();
-            KeyValuePair<int, List<ITreasureFactory>>[] values = TreasureValues[(int)treasureType];
+            List<ITreasureBuilder> factoryList = new List<ITreasureBuilder>();
+            KeyValuePair<int, List<ITreasureBuilder>>[] values = TreasureValues[(int)treasureType];
             for (int i = values.Length - 1; i >= 0; i--)
             {
-                List<List<ITreasureFactory>> factories = values.Where(x => x.Key == values[i].Key).Select(x => x.Value).ToList();
+                List<List<ITreasureBuilder>> factories = values.Where(x => x.Key == values[i].Key).Select(x => x.Value).ToList();
                 while (budget > values[i].Key)
                 {
                     factoryList.AddRange(factories[Helpers.Roll(1, factories.Count) - 1]);
                     budget -= values[i].Key;
                 }
             }
-            return factoryList.Select(x => x.CreateNew()).ToList();
+            return factoryList.Select(x => x.GetResult()).ToList();
         }        
     }
 }

@@ -1,0 +1,1047 @@
+{
+  "LesserMinor": [
+    {
+      "d%": "01-80",
+      "enhancement": 1,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "GreaterMinor": [
+    {
+      "d%": "01-26",
+      "enhancement": 1,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "27-53",
+      "enhancement": 2,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "54-80",
+      "enhancement": 1,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "LesserMedium": [
+    {
+      "d%": "01-10",
+      "enhancement": 1,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-20",
+      "enhancement": 2,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "21-32",
+      "enhancement": 3,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "33-44",
+      "enhancement": 1,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "45-56",
+      "enhancement": 1,
+      "ability": [ 1, 1 ],
+      "specific": false
+    },
+    {
+      "d%": "57-68",
+      "enhancement": 1,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "69-80",
+      "enhancement": 2,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "GreaterMedium": [
+    {
+      "d%": "01-10",
+      "enhancement": 2,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-22",
+      "enhancement": 3,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "23-32",
+      "enhancement": 1,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "33-44",
+      "enhancement": 1,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "45-56",
+      "enhancement": 2,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "57-68",
+      "enhancement": 2,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "69-80",
+      "enhancement": 3,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "LesserMajor": [
+    {
+      "d%": "01-10",
+      "enhancement": 3,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-22",
+      "enhancement": 4,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "23-32",
+      "enhancement": 1,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "33-44",
+      "enhancement": 1,
+      "ability": [ 3 ],
+      "specific": false
+    },
+    {
+      "d%": "45-56",
+      "enhancement": 2,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "57-68",
+      "enhancement": 3,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "69-80",
+      "enhancement": 4,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "GreaterMajor": [
+    {
+      "d%": "01-10",
+      "enhancement": 4,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-20",
+      "enhancement": 5,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "21-30",
+      "enhancement": 4,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "31-38",
+      "enhancement": 4,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "39-46",
+      "enhancement": 4,
+      "ability": [ 3 ],
+      "specific": false
+    },
+    {
+      "d%": "47-51",
+      "enhancement": 4,
+      "ability": [ 4 ],
+      "specific": false
+    },
+    {
+      "d%": "52-59",
+      "enhancement": 5,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "60-67",
+      "enhancement": 5,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "68-71",
+      "enhancement": 5,
+      "ability": [ 3 ],
+      "specific": false
+    },
+    {
+      "d%": "72-74",
+      "enhancement": 5,
+      "ability": [ 2, 2 ],
+      "specific": false
+    },
+    {
+      "d%": "75-77",
+      "enhancement": 5,
+      "ability": [ 4 ],
+      "specific": false
+    },
+    {
+      "d%": "78-80",
+      "enhancement": 5,
+      "ability": [ 5 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+
+  "1Armor": [
+    {
+      "d%": "01–06",
+      "name": "Benevolent",
+      "price": "2,000"
+    },
+    {
+      "d%": "07–12",
+      "name": "Poison-resistant",
+      "price": "2,250"
+    },
+    {
+      "d%": "13–18",
+      "name": "Balanced",
+      "price": "+1"
+    },
+    {
+      "d%": "19–24",
+      "name": "Bitter",
+      "price": "+1"
+    },
+    {
+      "d%": "25–30",
+      "name": "Bolstering",
+      "price": "+1"
+    },
+    {
+      "d%": "31–36",
+      "name": "Brawling",
+      "price": "+1"
+    },
+    {
+      "d%": "37–42",
+      "name": "Champion",
+      "price": "+1"
+    },
+    {
+      "d%": "43–48",
+      "name": "Dastard",
+      "price": "+1"
+    },
+    {
+      "d%": "49–54",
+      "name": "Deathless",
+      "price": "+1"
+    },
+    {
+      "d%": "55–60",
+      "name": "Defiant",
+      "price": "+1"
+    },
+    {
+      "d%": "61–66",
+      "name": "Fortification (light)",
+      "price": "+1"
+    },
+    {
+      "d%": "67–71",
+      "name": "Grinding",
+      "price": "+1"
+    },
+    {
+      "d%": "72–76",
+      "name": "Impervious",
+      "price": "+1"
+    },
+    {
+      "d%": "77–82",
+      "name": "Mirrored",
+      "price": "+1"
+    },
+    {
+      "d%": "83–88",
+      "name": "Spell storing",
+      "price": "+1"
+    },
+    {
+      "d%": "89–94",
+      "name": "Stanching",
+      "price": "+1"
+    },
+    {
+      "d%": "95–100",
+      "name": "Warding",
+      "price": "+1"
+    }
+  ],
+  "2Armor": [
+    {
+      "d%": "01–12",
+      "name": "Glamered",
+      "price": "2,700"
+    },
+    {
+      "d%": "13–24",
+      "name": "Jousting",
+      "price": "3,750"
+    },
+    {
+      "d%": "25–38",
+      "name": "Shadow",
+      "price": "3,750"
+    },
+    {
+      "d%": "39–52",
+      "name": "Slick",
+      "price": "3,750"
+    },
+    {
+      "d%": "53–64",
+      "name": "Expeditious",
+      "price": "4,000"
+    },
+    {
+      "d%": "65–76",
+      "name": "Creeping",
+      "price": "5,000"
+    },
+    {
+      "d%": "77–88",
+      "name": "Rallying",
+      "price": "5,000"
+    },
+    {
+      "d%": "89–100",
+      "name": "Spell resistance (13)",
+      "price": "+2"
+    }
+  ],
+  "3Armor": [
+    {
+      "d%": "01–08",
+      "name": "Adhesive",
+      "price": "7,000"
+    },
+    {
+      "d%": "09–17",
+      "name": "Hosteling",
+      "price": "7,500"
+    },
+    {
+      "d%": "18–26",
+      "name": "Radiant",
+      "price": "7,500"
+    },
+    {
+      "d%": "27–36",
+      "name": "Delving",
+      "price": "10,000"
+    },
+    {
+      "d%": "37–45",
+      "name": "Putrid",
+      "price": "10,000"
+    },
+    {
+      "d%": "46–55",
+      "name": "Fortification (moderate)",
+      "price": "+3"
+    },
+    {
+      "d%": "56–65",
+      "name": "Ghost touch",
+      "price": "+3"
+    },
+    {
+      "d%": "66–74",
+      "name": "Invulnerability",
+      "price": "+3"
+    },
+    {
+      "d%": "75–84",
+      "name": "Spell resistance (15)",
+      "price": "+3"
+    },
+    {
+      "d%": "85–92",
+      "name": "Titanic",
+      "price": "+3"
+    },
+    {
+      "d%": "93–100",
+      "name": "Wild",
+      "price": "+3"
+    }
+  ],
+  "4Armor": [
+    {
+      "d%": "01–16",
+      "name": "Harmonizing",
+      "price": "15,000"
+    },
+    {
+      "d%": "17–33",
+      "name": "Shadow, improved",
+      "price": "15,000"
+    },
+    {
+      "d%": "34–50",
+      "name": "Slick, improved",
+      "price": "15,000"
+    },
+    {
+      "d%": "51–67",
+      "name": "Energy resistance",
+      "price": "18,000"
+    },
+    {
+      "d%": "68–83",
+      "name": "Martyring",
+      "price": "18,000"
+    },
+    {
+      "d%": "84–100",
+      "name": "Spell resistance (17)",
+      "price": "+4"
+    }
+  ],
+  "5Armor": [
+    {
+      "d%": "01–08",
+      "name": "Righteous",
+      "price": "27,000"
+    },
+    {
+      "d%": "09–15",
+      "name": "Unbound",
+      "price": "27,000"
+    },
+    {
+      "d%": "16–23",
+      "name": "Unrighteous",
+      "price": "27,000"
+    },
+    {
+      "d%": "24–30",
+      "name": "Vigilant",
+      "price": "27,000"
+    },
+    {
+      "d%": "31–37",
+      "name": "Determination",
+      "price": "30,000"
+    },
+    {
+      "d%": "38–45",
+      "name": "Shadow, greater",
+      "price": "33,750"
+    },
+    {
+      "d%": "46–53",
+      "name": "Slick, greater",
+      "price": "33,750"
+    },
+    {
+      "d%": "54–61",
+      "name": "Energy resistance, improved",
+      "price": "42,000"
+    },
+    {
+      "d%": "62–69",
+      "name": "Etherealness",
+      "price": "49,000"
+    },
+    {
+      "d%": "70–76",
+      "name": "Undead controlling",
+      "price": "49,000"
+    },
+    {
+      "d%": "77–84",
+      "name": "Energy resistance, greater",
+      "price": "66,000"
+    },
+    {
+      "d%": "85–92",
+      "name": "Fortification (heavy)",
+      "price": "+5"
+    },
+    {
+      "d%": "93–100",
+      "name": "Spell resistance (19)",
+      "price": "+5"
+    }
+  ],
+  "1Shield": [
+    {
+      "d%": "01–10",
+      "name": "Poison-resistant",
+      "price": "2,250"
+    },
+    {
+      "d%": "11–19",
+      "name": "Arrow catching",
+      "price": "+1"
+    },
+    {
+      "d%": "20–28",
+      "name": "Bashing",
+      "price": "+1"
+    },
+    {
+      "d%": "29–37",
+      "name": "Blinding",
+      "price": "+1"
+    },
+    {
+      "d%": "38–46",
+      "name": "Clangorous",
+      "price": "+1"
+    },
+    {
+      "d%": "47–55",
+      "name": "Defiant",
+      "price": "+1"
+    },
+    {
+      "d%": "56–64",
+      "name": "Fortification (light)",
+      "price": "+1"
+    },
+    {
+      "d%": "65–73",
+      "name": "Grinding",
+      "price": "+1"
+    },
+    {
+      "d%": "74–82",
+      "name": "Impervious",
+      "price": "+1"
+    },
+    {
+      "d%": "83–91",
+      "name": "Mirrored",
+      "price": "+1"
+    },
+    {
+      "d%": "92–100",
+      "name": "Ramming",
+      "price": "+1"
+    }
+  ],
+  "2Shield": [
+    {
+      "d%": "01–15",
+      "name": "Rallying",
+      "price": "5,000"
+    },
+    {
+      "d%": "16–30",
+      "name": "Wyrmsbreath",
+      "price": "5,000"
+    },
+    {
+      "d%": "31–50",
+      "name": "Animated",
+      "price": "+2"
+    },
+    {
+      "d%": "51–67",
+      "name": "Arrow deflection",
+      "price": "+2"
+    },
+    {
+      "d%": "68–82",
+      "name": "Merging",
+      "price": "+2"
+    },
+    {
+      "d%": "83–100",
+      "name": "Spell resistance (13)",
+      "price": "+2"
+    }
+  ],
+  "3Shield": [
+    {
+      "d%": "01–15",
+      "name": "Hosteling",
+      "price": "7,500"
+    },
+    {
+      "d%": "16–32",
+      "name": "Radiant",
+      "price": "7,500"
+    },
+    {
+      "d%": "33–49",
+      "name": "Fortification (moderate)",
+      "price": "+3"
+    },
+    {
+      "d%": "50–66",
+      "name": "Ghost touch",
+      "price": "+3"
+    },
+    {
+      "d%": "67–83",
+      "name": "Spell resistance (15)",
+      "price": "+3"
+    },
+    {
+      "d%": "84–98",
+      "name": "Wild",
+      "price": "+3"
+    }
+  ],
+  "4Shield": [
+    {
+      "d%": "01–50",
+      "name": "Energy resistance",
+      "price": "18,000"
+    },
+    {
+      "d%": "51–100",
+      "name": "Spell resistance (17)",
+      "price": "+4"
+    }
+  ],
+  "5Shield": [
+    {
+      "d%": "1–11",
+      "name": "Determination",
+      "price": "30,000"
+    },
+    {
+      "d%": "12–27",
+      "name": "Energy resistance, improved",
+      "price": "42,000"
+    },
+    {
+      "d%": "28–38",
+      "name": "Undead controlling",
+      "price": "49,000"
+    },
+    {
+      "d%": "39–55",
+      "name": "Energy resistance, greater",
+      "price": "66,000"
+    },
+    {
+      "d%": "56–70",
+      "name": "Fortification (heavy)",
+      "price": "+5"
+    },
+    {
+      "d%": "71–85",
+      "name": "Reflecting",
+      "price": "+5"
+    },
+    {
+      "d%": "86–100",
+      "name": "Spell resistance (19)",
+      "price": "+5"
+    }
+  ],
+
+  "LesserMinorSpecific": [
+    {
+      "d%": "01–50",
+      "Lesser Minor Armor": "Mithral shirt",
+      "Price": "1,100 gp"
+    }
+  ],
+  "GreaterMinorSpecific": [
+    {
+      "d%": "01–33",
+      "Lesser Minor Armor": "Mistmail",
+      "Price": "2,250 gp"
+    },
+    {
+      "d%": "34–66",
+      "Lesser Minor Armor": "Otyugh hide",
+      "Price": "2,565 gp"
+    },
+    {
+      "d%": "67–100",
+      "Lesser Minor Armor": "Dragonhide plate",
+      "Price": "3,300 gp"
+    }
+  ],
+  "LesserMediumSpecific": [
+    {
+      "d%": "01–33",
+      "Lesser Minor Armor": "Elven chain",
+      "Price": "5,150 gp"
+    },
+    {
+      "d%": "34–66",
+      "Lesser Minor Armor": "Rhino hide",
+      "Price": "5,165 gp"
+    },
+    {
+      "d%": "67–100",
+      "Lesser Minor Armor": "Morlock hide",
+      "Price": "8,910 gp"
+    }
+  ],
+  "GreaterMediumSpecific": [
+    {
+      "d%": "01–15",
+      "Lesser Minor Armor": "Adamantine breastplate",
+      "Price": "10,200 gp"
+    },
+    {
+      "d%": "16–25",
+      "Lesser Minor Armor": "Soothsayer's raiment",
+      "Price": "10,300 gp"
+    },
+    {
+      "d%": "26–38",
+      "Lesser Minor Armor": "Equestrian plate",
+      "Price": "10,650 gp"
+    },
+    {
+      "d%": "39–50",
+      "Lesser Minor Armor": "Enchanted eelskin",
+      "Price": "11,160 gp"
+    },
+    {
+      "d%": "51–62",
+      "Lesser Minor Armor": "Boneless leather",
+      "Price": "12,160 gp"
+    },
+    {
+      "d%": "63–72",
+      "Lesser Minor Armor": "Murderer's blackcloth",
+      "Price": "12,405 gp"
+    },
+    {
+      "d%": "73–86",
+      "Lesser Minor Armor": "Folding plate",
+      "Price": "12,650 gp"
+    },
+    {
+      "d%": "87–100",
+      "Lesser Minor Armor": "Breastplate of vanishing",
+      "Price": "15,200 gp"
+    }
+  ],
+  "LesserMajorSpecific": [
+    {
+      "d%": "01–13",
+      "Lesser Minor Armor": "Armor of insults",
+      "Price": "16,175 gp"
+    },
+    {
+      "d%": "14–29",
+      "Lesser Minor Armor": "Dwarven plate",
+      "Price": "16,500 gp"
+    },
+    {
+      "d%": "30–45",
+      "Lesser Minor Armor": "Banded mail of luck",
+      "Price": "18,900 gp"
+    },
+    {
+      "d%": "46–58",
+      "Lesser Minor Armor": "Catskin leather",
+      "Price": "18,910 gp"
+    },
+    {
+      "d%": "59–71",
+      "Lesser Minor Armor": "Celestial armor",
+      "Price": "22,400 gp"
+    },
+    {
+      "d%": "72–84",
+      "Lesser Minor Armor": "Buccaneer's breastplate",
+      "Price": "23,850 gp"
+    },
+    {
+      "d%": "85–100",
+      "Lesser Minor Armor": "Plate armor of the deep",
+      "Price": "24,650 gp"
+    }
+  ],
+  "GreaterMajorSpecific": [
+    {
+      "d%": "01–10",
+      "Lesser Minor Armor": "Breastplate of command",
+      "Price": "25,400 gp"
+    },
+    {
+      "d%": "11–14",
+      "Lesser Minor Armor": "Forsaken banded mail",
+      "Price": "25,400 gp"
+    },
+    {
+      "d%": "15–24",
+      "Lesser Minor Armor": "Mithral full plate of speed",
+      "Price": "26,500 gp"
+    },
+    {
+      "d%": "25–28",
+      "Lesser Minor Armor": "Warden of the woods",
+      "Price": "29,350 gp"
+    },
+    {
+      "d%": "29–32",
+      "Lesser Minor Armor": "Scarab breastplate",
+      "Price": "32,350 gp"
+    },
+    {
+      "d%": "33–38",
+      "Lesser Minor Armor": "Giant-hide armor (ogre)",
+      "Price": "39,165 gp"
+    },
+    {
+      "d%": "39–42",
+      "Lesser Minor Armor": "Hamatula hide",
+      "Price": "44,215 gp"
+    },
+    {
+      "d%": "43–48",
+      "Lesser Minor Armor": "Giant-hide armor (hill giant)",
+      "Price": "46,665 gp"
+    },
+    {
+      "d%": "49–52",
+      "Lesser Minor Armor": "Demon armor",
+      "Price": "52,260 gp"
+    },
+    {
+      "d%": "53–58",
+      "Lesser Minor Armor": "Giant-hide armor (stone, fire, or frost giant)",
+      "Price": "54,165 gp"
+    },
+    {
+      "d%": "59–64",
+      "Lesser Minor Armor": "Giant-hide armor (troll)",
+      "Price": "59,165 gp"
+    },
+    {
+      "d%": "65–70",
+      "Lesser Minor Armor": "Mail of malevolence",
+      "Price": "61,300 gp"
+    },
+    {
+      "d%": "71–76",
+      "Lesser Minor Armor": "Giant-hide armor (cloud giant)",
+      "Price": "69,165 gp"
+    },
+    {
+      "d%": "77–82",
+      "Lesser Minor Armor": "Giant-hide armor (storm giant)",
+      "Price": "76,665 gp"
+    },
+    {
+      "d%": "83–88",
+      "Lesser Minor Armor": "Daystar half-plate",
+      "Price": "81,250 gp"
+    },
+    {
+      "d%": "89–96",
+      "Lesser Minor Armor": "Invincible armor",
+      "Price": "137,650 gp"
+    },
+    {
+      "d%": "97–100",
+      "Lesser Minor Armor": "Prismatic plate",
+      "Price": "160,650 gp"
+    }
+  ],
+
+  "ArmorData": [
+    {
+      "d%": "01-04",
+      "name": "Banded mail",
+      "type": "Armor",
+      "weight": "Heavy"
+    },
+    {
+      "d%": "05-11",
+      "name": "Breastplate",
+      "type": "Armor",
+      "weight": "Medium"
+    },
+    {
+      "d%": "12-14",
+      "name": "Buckler",
+      "type": "Shield",
+      "weight": "Any"
+    },
+    {
+      "d%": "15-21",
+      "name": "Chain shirt",
+      "type": "Armor",
+      "weight": "Medium"
+    },
+    {
+      "d%": "22-27",
+      "name": "Chainmail",
+      "type": "Armor",
+      "weight": "Medium"
+    },
+    {
+      "d%": "28-34",
+      "name": "Full plate",
+      "type": "Armor",
+      "weight": "Heavy"
+    },
+    {
+      "d%": "35-39",
+      "name": "Half-plate",
+      "type": "Armor",
+      "weight": "Heavy"
+    },
+    {
+      "d%": "40-45",
+      "name": "Heavy steel shield",
+      "type": "Shield",
+      "weight": "Any"
+    },
+    {
+      "d%": "46-51",
+      "name": "Heavy wooden shield",
+      "type": "Shield",
+      "weight": "Any"
+    },
+    {
+      "d%": "52-55",
+      "name": "Hide",
+      "type": "Armor",
+      "weight": "Medium"
+    },
+    {
+      "d%": "56-61",
+      "name": "Leather armor",
+      "type": "Armor",
+      "weight": "Light"
+    },
+    {
+      "d%": "62-65",
+      "name": "Light steel shield",
+      "type": "Shield",
+      "weight": "Any"
+    },
+    {
+      "d%": "66-69",
+      "name": "Light wooden shield",
+      "type": "Shield",
+      "weight": "Any"
+    },
+    {
+      "d%": "70-72",
+      "name": "Padded armor",
+      "type": "Armor",
+      "weight": "Light"
+    },
+    {
+      "d%": "73-77",
+      "name": "Scale mail",
+      "type": "Armor",
+      "weight": "Medium"
+    },
+    {
+      "d%": "78-81",
+      "name": "Splint mail",
+      "type": "Armor",
+      "weight": "Heavy"
+    },
+    {
+      "d%": "82-87",
+      "name": "Studded leather armor",
+      "type": "Armor",
+      "weight": "Light"
+    },
+    {
+      "d%": "88-90",
+      "name": "Tower shield",
+      "type": "Shield",
+      "weight": "Any"
+    }
+  ]
+}

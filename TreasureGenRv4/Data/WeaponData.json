@@ -1,0 +1,1984 @@
+{
+  "LesserMinor": [
+    {
+      "d%": "01-80",
+      "enhancement": 1,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "GreaterMinor": [
+    {
+      "d%": "01-26",
+      "enhancement": 1,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "27-53",
+      "enhancement": 2,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "54-80",
+      "enhancement": 1,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "LesserMedium": [
+    {
+      "d%": "01-10",
+      "enhancement": 1,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-20",
+      "enhancement": 2,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "21-32",
+      "enhancement": 3,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "33-44",
+      "enhancement": 1,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "45-56",
+      "enhancement": 1,
+      "ability": [ 1, 1 ],
+      "specific": false
+    },
+    {
+      "d%": "57-68",
+      "enhancement": 1,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "69-80",
+      "enhancement": 2,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "GreaterMedium": [
+    {
+      "d%": "01-10",
+      "enhancement": 2,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-22",
+      "enhancement": 3,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "23-32",
+      "enhancement": 1,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "33-44",
+      "enhancement": 1,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "45-56",
+      "enhancement": 2,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "57-68",
+      "enhancement": 2,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "69-80",
+      "enhancement": 3,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "LesserMajor": [
+    {
+      "d%": "01-10",
+      "enhancement": 3,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-22",
+      "enhancement": 4,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "23-32",
+      "enhancement": 1,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "33-44",
+      "enhancement": 1,
+      "ability": [ 3 ],
+      "specific": false
+    },
+    {
+      "d%": "45-56",
+      "enhancement": 2,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "57-68",
+      "enhancement": 3,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "69-80",
+      "enhancement": 4,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+  "GreaterMajor": [
+    {
+      "d%": "01-10",
+      "enhancement": 4,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "11-20",
+      "enhancement": 5,
+      "ability": null,
+      "specific": false
+    },
+    {
+      "d%": "21-30",
+      "enhancement": 4,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "31-38",
+      "enhancement": 4,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "39-46",
+      "enhancement": 4,
+      "ability": [ 3 ],
+      "specific": false
+    },
+    {
+      "d%": "47-51",
+      "enhancement": 4,
+      "ability": [ 4 ],
+      "specific": false
+    },
+    {
+      "d%": "52-59",
+      "enhancement": 5,
+      "ability": [ 1 ],
+      "specific": false
+    },
+    {
+      "d%": "60-67",
+      "enhancement": 5,
+      "ability": [ 2 ],
+      "specific": false
+    },
+    {
+      "d%": "68-71",
+      "enhancement": 5,
+      "ability": [ 3 ],
+      "specific": false
+    },
+    {
+      "d%": "72-74",
+      "enhancement": 5,
+      "ability": [ 2, 2 ],
+      "specific": false
+    },
+    {
+      "d%": "75-77",
+      "enhancement": 5,
+      "ability": [ 4 ],
+      "specific": false
+    },
+    {
+      "d%": "78-80",
+      "enhancement": 5,
+      "ability": [ 5 ],
+      "specific": false
+    },
+    {
+      "d%": "81-100",
+      "enhancement": 0,
+      "ability": null,
+      "specific": true
+    }
+  ],
+
+  "1Melee": [
+    {
+      "d%": "01",
+      "name": "Impervious",
+      "price": "3,000",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "02",
+      "name": "Glamered",
+      "price": "4,000",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "03",
+      "name": "Allying",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "04–08",
+      "name": "Bane",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "09",
+      "name": "Benevolent",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "10",
+      "name": "Called",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "11–12",
+      "name": "Conductive",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "13–16",
+      "name": "Corrosive",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "17",
+      "name": "Countering",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "18",
+      "name": "Courageous",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "19",
+      "name": "Cruel",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "20–21",
+      "name": "Cunning",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "22",
+      "name": "Deadly",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "23–26",
+      "name": "Defending",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "27",
+      "name": "Dispelling",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "28–33",
+      "name": "Flaming",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "34–39",
+      "name": "Frost",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "40–41",
+      "name": "Furious",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "42–45",
+      "name": "Ghost touch",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "46–47",
+      "name": "Grayflame",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "48",
+      "name": "Grounding",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "49",
+      "name": "Guardian",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "50",
+      "name": "Heartseeker",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "51–52",
+      "name": "Huntsman",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "53–54",
+      "name": "Jurist",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "55–59",
+      "name": "Keen",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "Piercing", "Slashing" ]
+    },
+    {
+      "d%": "60–61",
+      "name": "Ki focus",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "62",
+      "name": "Limning",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "63–64",
+      "name": "Menacing",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "65",
+      "name": "Merciful",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "66–68",
+      "name": "Mighty cleaving",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "69",
+      "name": "Mimetic",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "70",
+      "name": "Neutralizing",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "71",
+      "name": "Ominous",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "72",
+      "name": "Planar",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "73",
+      "name": "Quenching",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "74",
+      "name": "Seaborne",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "75–80",
+      "name": "Shock",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "81–85",
+      "name": "Spell storing",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "86",
+      "name": "Thawing",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "87–91",
+      "name": "Throwing",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "92–96",
+      "name": "Thundering",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "97",
+      "name": "Valiant",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "98–100",
+      "name": "Vicious",
+      "price": "+1",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    }
+  ],
+  "2Melee": [
+    {
+      "d%": "01",
+      "name": "Advancing",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "02–10",
+      "name": "Anarchic",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "11–19",
+      "name": "Anchoring",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "20",
+      "name": "Axiomatic",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "21–27",
+      "name": "Corrosive burst",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "28",
+      "name": "Defiant",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "29",
+      "name": "Dispelling burst",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "30–38",
+      "name": "Disruption",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "Bludgeoning" ]
+    },
+    {
+      "d%": "39–47",
+      "name": "Flaming burst",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "48",
+      "name": "Furyborn",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "49",
+      "name": "Glorious",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "50–58",
+      "name": "Holy",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "59–67",
+      "name": "Icy burst",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "68",
+      "name": "Igniting",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "69",
+      "name": "Impact",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "Piercing", "Slashing" ]
+    },
+    {
+      "d%": "70",
+      "name": "Invigorating",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "71",
+      "name": "Ki intensifying",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "72",
+      "name": "Lifesurge",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "73",
+      "name": "Negating",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "74",
+      "name": "Phase locking",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "75–83",
+      "name": "Shocking burst",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "84",
+      "name": "Stalking",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "85–91",
+      "name": "Unholy",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "92–100",
+      "name": "Wounding",
+      "price": "+2",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    }
+  ],
+  "3Melee": [
+    {
+      "d%": "01–20",
+      "name": "Nullifying",
+      "price": "+3",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "21–40",
+      "name": "Repositioning",
+      "price": "+3",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "41–80",
+      "name": "Speed",
+      "price": "+3",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "81–100",
+      "name": "Spellstealing",
+      "price": "+3",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    }
+  ],
+  "4Melee": [
+    {
+      "d%": "01–40",
+      "name": "Brilliant energy",
+      "price": "+4",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "41–80",
+      "name": "Dancing",
+      "price": "+4",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "81–90",
+      "name": "Vorpal",
+      "price": "+5",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "Slashing" ]
+    },
+    {
+      "d%": "91–95",
+      "name": "Transformative",
+      "price": "10,000",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "96–100",
+      "name": "Dueling",
+      "price": "14,000",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    }
+  ],
+  "5Melee": [
+    {
+      "d%": "01–40",
+      "name": "Brilliant energy",
+      "price": "+4",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "41–80",
+      "name": "Dancing",
+      "price": "+4",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "AnyMelee" ]
+    },
+    {
+      "d%": "81–90",
+      "name": "Vorpal",
+      "price": "+5",
+      "requiredweight": [ "AnyMelee" ],
+      "requiredtype": [ "Slashing" ]
+    },
+    {
+      "d%": "91–95",
+      "name": "Transformative",
+      "price": "10,000"
+    },
+    {
+      "d%": "96–100",
+      "name": "Dueling",
+      "price": "14,000"
+    }
+  ],
+  "1Ranged": [
+    {
+      "d%": "01",
+      "name": "Adaptive",
+      "price": "1,000",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Composite" ]
+    },
+    {
+      "d%": "02",
+      "name": "Impervious",
+      "price": "3,000",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "03",
+      "name": "Glamered",
+      "price": "4,000",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "04–06",
+      "name": "Allying",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "07–15",
+      "name": "Bane",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "16",
+      "name": "Called",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "17–19",
+      "name": "Conductive",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "20",
+      "name": "Conserving",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "NonFirearm" ]
+    },
+    {
+      "d%": "21–24",
+      "name": "Corrosive",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "25",
+      "name": "Cruel",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "26–28",
+      "name": "Cunning",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "29–36",
+      "name": "Distance",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "37–45",
+      "name": "Flaming",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "46–54",
+      "name": "Frost",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "55–58",
+      "name": "Huntsman",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "59–62",
+      "name": "Jurist",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "63",
+      "name": "Limning",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "64",
+      "name": "Lucky",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Firearm" ]
+    },
+    {
+      "d%": "65–66",
+      "name": "Merciful",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "67",
+      "name": "Planar",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "68",
+      "name": "Reliable",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Firearm" ]
+    },
+    {
+      "d%": "69–76",
+      "name": "Returning",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Thrown" ]
+    },
+    {
+      "d%": "77–84",
+      "name": "Seeking",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "85–92",
+      "name": "Shock",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "93–100",
+      "name": "Thundering",
+      "price": "+1",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    }
+  ],
+  "2Ranged": [
+    {
+      "d%": "01–10",
+      "name": "Anarchic",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "11–13",
+      "name": "Anchoring",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Thrown" ]
+    },
+    {
+      "d%": "14–23",
+      "name": "Axiomatic",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "24–31",
+      "name": "Corrosive burst",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "32–34",
+      "name": "Designating, lesser",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "35–37",
+      "name": "Endless ammunition",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "BowCrossbow" ]
+    },
+    {
+      "d%": "38–48",
+      "name": "Flaming burst",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "49–58",
+      "name": "Holy",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "59–69",
+      "name": "Icy burst",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "70–73",
+      "name": "Igniting",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "74–76",
+      "name": "Phase locking",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "77–86",
+      "name": "Shocking burst",
+      "price": "+2"
+    },
+    {
+      "d%": "87–90",
+      "name": "Stalking",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "91–100",
+      "name": "Unholy",
+      "price": "+2",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    }
+  ],
+  "3Ranged": [
+    {
+      "d%": "01–25",
+      "name": "Lucky, greater",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Firearm" ]
+    },
+    {
+      "d%": "26–45",
+      "name": "Reliable, greater",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Firearm" ]
+    },
+    {
+      "d%": "46–85",
+      "name": "Speed",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "86–94",
+      "name": "Brilliant energy",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "95–96",
+      "name": "Designating, greater",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "97–98",
+      "name": "Nimble shot",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "99–100",
+      "name": "Second chance",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    }
+  ],
+  "4Ranged": [
+    {
+      "d%": "01–25",
+      "name": "Lucky, greater",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Firearm" ]
+    },
+    {
+      "d%": "26–45",
+      "name": "Reliable, greater",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "46–85",
+      "name": "Speed",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "86–94",
+      "name": "Brilliant energy",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "95–96",
+      "name": "Designating, greater",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "97–98",
+      "name": "Nimble shot",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "99–100",
+      "name": "Second chance",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    }
+  ],
+  "5Ranged": [
+    {
+      "d%": "01–25",
+      "name": "Lucky, greater",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Firearm" ]
+    },
+    {
+      "d%": "26–45",
+      "name": "Reliable, greater",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "Firearm" ]
+    },
+    {
+      "d%": "46–85",
+      "name": "Speed",
+      "price": "+3",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "86–94",
+      "name": "Brilliant energy",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "95–96",
+      "name": "Designating, greater",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "97–98",
+      "name": "Nimble shot",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    },
+    {
+      "d%": "99–100",
+      "name": "Second chance",
+      "price": "+4",
+      "requiredweight": [ "Ranged" ],
+      "requiredtype": [ "AnyRanged" ]
+    }
+  ],
+
+  "LesserMinorSpecific": [
+    {
+      "d%": "01–02",
+      "Lesser Minor Specific Weapons": "Tracer bullet",
+      "Price": "100 gp"
+    },
+    {
+      "d%": "03–08",
+      "Lesser Minor Specific Weapons": "Sleep arrow",
+      "Price": "132 gp"
+    },
+    {
+      "d%": "09–10",
+      "Lesser Minor Specific Weapons": "Dustburst bullet",
+      "Price": "196 gp"
+    },
+    {
+      "d%": "11–16",
+      "Lesser Minor Specific Weapons": "Tangle bolt",
+      "Price": "226 gp"
+    },
+    {
+      "d%": "17–22",
+      "Lesser Minor Specific Weapons": "Screaming bolt",
+      "Price": "267 gp"
+    },
+    {
+      "d%": "23–32",
+      "Lesser Minor Specific Weapons": "Masterwork silver dagger",
+      "Price": "322 gp"
+    },
+    {
+      "d%": "33–34",
+      "Lesser Minor Specific Weapons": "Alchemist's bullet",
+      "Price": "330 gp"
+    },
+    {
+      "d%": "35–44",
+      "Lesser Minor Specific Weapons": "Cold iron masterwork longsword",
+      "Price": "330 gp"
+    },
+    {
+      "d%": "45–50",
+      "Lesser Minor Specific Weapons": "Hushing arrow",
+      "Price": "547 gp"
+    },
+    {
+      "d%": "51–56",
+      "Lesser Minor Specific Weapons": "Hushing arrow, greater",
+      "Price": "1,047 gp"
+    },
+    {
+      "d%": "57–66",
+      "Lesser Minor Specific Weapons": "Javelin of lightning",
+      "Price": "1,500 gp"
+    },
+    {
+      "d%": "67–74",
+      "Lesser Minor Specific Weapons": "Searing arrow",
+      "Price": "1,516 gp"
+    },
+    {
+      "d%": "75–82",
+      "Lesser Minor Specific Weapons": "Sizzling arrow",
+      "Price": "1,516 gp"
+    },
+    {
+      "d%": "83–84",
+      "Lesser Minor Specific Weapons": "Burrowing bullet, lesser",
+      "Price": "1,722 gp"
+    },
+    {
+      "d%": "85–92",
+      "Lesser Minor Specific Weapons": "Dust bolt",
+      "Price": "1,730 gp"
+    },
+    {
+      "d%": "93–100",
+      "Lesser Minor Specific Weapons": "Slaying arrow",
+      "Price": "2,282 gp"
+    }
+  ],
+  "GreaterMinorSpecific": [
+    {
+      "d%": "01–20",
+      "Lesser Minor Specific Weapons": "Adamantine dagger",
+      "Price": "3,002 gp"
+    },
+    {
+      "d%": "21–40",
+      "Lesser Minor Specific Weapons": "Adamantine battleaxe",
+      "Price": "3,010 gp"
+    },
+    {
+      "d%": "41–50",
+      "Lesser Minor Specific Weapons": "Burrowing bullet, greater",
+      "Price": "3,447 gp"
+    },
+    {
+      "d%": "51–70",
+      "Lesser Minor Specific Weapons": "Slaying arrow, greater",
+      "Price": "4,057 gp"
+    },
+    {
+      "d%": "71–80",
+      "Lesser Minor Specific Weapons": "Lance of jousting",
+      "Price": "4,310 gp"
+    },
+    {
+      "d%": "81–100",
+      "Lesser Minor Specific Weapons": "Shatterspike",
+      "Price": "4,315 gp"
+    }
+  ],
+  "LesserMediumSpecific": [
+    {
+      "d%": "01–03",
+      "Lesser Minor Specific Weapons": "Bloodletting kukri",
+      "Price": "6,308 gp"
+    },
+    {
+      "d%": "04–09",
+      "Lesser Minor Specific Weapons": "Boulderhead mace",
+      "Price": "6,812 gp"
+    },
+    {
+      "d%": "10–14",
+      "Lesser Minor Specific Weapons": "Beaststrike club",
+      "Price": "7,300 gp"
+    },
+    {
+      "d%": "15–20",
+      "Lesser Minor Specific Weapons": "Fighter's fork",
+      "Price": "7,315 gp"
+    },
+    {
+      "d%": "21–23",
+      "Lesser Minor Specific Weapons": "Everflowing aspergillum",
+      "Price": "7,805 gp"
+    },
+    {
+      "d%": "24–28",
+      "Lesser Minor Specific Weapons": "Hurricane quarterstaff",
+      "Price": "7,840 gp"
+    },
+    {
+      "d%": "29–34",
+      "Lesser Minor Specific Weapons": "Dagger of venom",
+      "Price": "8,302 gp"
+    },
+    {
+      "d%": "35–39",
+      "Lesser Minor Specific Weapons": "Gloom blade",
+      "Price": "8,810 gp"
+    },
+    {
+      "d%": "40–44",
+      "Lesser Minor Specific Weapons": "Frostbite sling",
+      "Price": "9,380 gp"
+    },
+    {
+      "d%": "45–49",
+      "Lesser Minor Specific Weapons": "Trident of stability",
+      "Price": "9,815 gp"
+    },
+    {
+      "d%": "50–54",
+      "Lesser Minor Specific Weapons": "Trident of warning",
+      "Price": "10,115 gp"
+    },
+    {
+      "d%": "55–60",
+      "Lesser Minor Specific Weapons": "Assassin's dagger",
+      "Price": "10,302 gp"
+    },
+    {
+      "d%": "61–66",
+      "Lesser Minor Specific Weapons": "Dagger of doubling",
+      "Price": "10,302 gp"
+    },
+    {
+      "d%": "67–71",
+      "Lesser Minor Specific Weapons": "Earthenflail",
+      "Price": "11,315 gp"
+    },
+    {
+      "d%": "72–79",
+      "Lesser Minor Specific Weapons": "Swift obsidian greataxe",
+      "Price": "11,320 gp"
+    },
+    {
+      "d%": "80–85",
+      "Lesser Minor Specific Weapons": "Polarity hammer",
+      "Price": "12,310 gp"
+    },
+    {
+      "d%": "86–93",
+      "Lesser Minor Specific Weapons": "Blade of binding",
+      "Price": "12,350 gp"
+    },
+    {
+      "d%": "94–100",
+      "Lesser Minor Specific Weapons": "Shifter's sorrow",
+      "Price": "12,780 gp"
+    }
+  ],
+  "GreaterMediumSpecific": [
+    {
+      "d%": "01–07",
+      "Lesser Minor Specific Weapons": "Dragoncatch guisarme",
+      "Price": "13,308 gp"
+    },
+    {
+      "d%": "08–15",
+      "Lesser Minor Specific Weapons": "Ten-ring sword",
+      "Price": "14,315 gp"
+    },
+    {
+      "d%": "16–21",
+      "Lesser Minor Specific Weapons": "Triton's trident",
+      "Price": "15,065 gp"
+    },
+    {
+      "d%": "22–29",
+      "Lesser Minor Specific Weapons": "Mace of smiting, lesser",
+      "Price": "16,012 gp"
+    },
+    {
+      "d%": "30–37",
+      "Lesser Minor Specific Weapons": "Disarming blade",
+      "Price": "17,820 gp"
+    },
+    {
+      "d%": "38–42",
+      "Lesser Minor Specific Weapons": "Lash of the howler",
+      "Price": "18,305 gp"
+    },
+    {
+      "d%": "43–47",
+      "Lesser Minor Specific Weapons": "Shieldsplitter lance",
+      "Price": "18,310 gp"
+    },
+    {
+      "d%": "48–53",
+      "Lesser Minor Specific Weapons": "Trident of fish command",
+      "Price": "18,650 gp"
+    },
+    {
+      "d%": "54–59",
+      "Lesser Minor Specific Weapons": "Quarterstaff of vaulting",
+      "Price": "19,100 gp"
+    },
+    {
+      "d%": "60–65",
+      "Lesser Minor Specific Weapons": "Firedrake pistol",
+      "Price": "20,300 gp"
+    },
+    {
+      "d%": "66–71",
+      "Lesser Minor Specific Weapons": "Ricochet hammer",
+      "Price": "20,301 gp"
+    },
+    {
+      "d%": "72–77",
+      "Lesser Minor Specific Weapons": "Flame tongue",
+      "Price": "20,715 gp"
+    },
+    {
+      "d%": "78–85",
+      "Lesser Minor Specific Weapons": "Sparkwake starknife",
+      "Price": "21,324 gp"
+    },
+    {
+      "d%": "86–90",
+      "Lesser Minor Specific Weapons": "Luck blade (0 wishes)",
+      "Price": "22,060 gp"
+    },
+    {
+      "d%": "91–95",
+      "Lesser Minor Specific Weapons": "Sword of subtlety",
+      "Price": "22,310 gp"
+    },
+    {
+      "d%": "96–100",
+      "Lesser Minor Specific Weapons": "Sword of the planes",
+      "Price": "22,315 gp"
+    }
+  ],
+  "LesserMajorSpecific": [
+    {
+      "d%": "01–12",
+      "Lesser Minor Specific Weapons": "Nine lives stealer",
+      "Price": "23,057 gp"
+    },
+    {
+      "d%": "13–26",
+      "Lesser Minor Specific Weapons": "Undercutting axe",
+      "Price": "23,310 gp"
+    },
+    {
+      "d%": "27–40",
+      "Lesser Minor Specific Weapons": "Spirit caller",
+      "Price": "25,302 gp"
+    },
+    {
+      "d%": "41–55",
+      "Lesser Minor Specific Weapons": "Dwarfbond hammer",
+      "Price": "25,312 gp"
+    },
+    {
+      "d%": "56–70",
+      "Lesser Minor Specific Weapons": "Oathbow",
+      "Price": "25,600 gp"
+    },
+    {
+      "d%": "71–85",
+      "Lesser Minor Specific Weapons": "Sword of life stealing",
+      "Price": "25,715 gp"
+    },
+    {
+      "d%": "86–100",
+      "Lesser Minor Specific Weapons": "Cutthroat's apprentice",
+      "Price": "33,910 gp"
+    }
+  ],
+  "GreaterMajorSpecific": [
+    {
+      "d%": "01–02",
+      "Lesser Minor Specific Weapons": "Ghoul's lament",
+      "Price": "35,312 gp"
+    },
+    {
+      "d%": "03–05",
+      "Lesser Minor Specific Weapons": "Mace of terror",
+      "Price": "38,552 gp"
+    },
+    {
+      "d%": "06–07",
+      "Lesser Minor Specific Weapons": "Hellscourge",
+      "Price": "39,305 gp"
+    },
+    {
+      "d%": "08–09",
+      "Lesser Minor Specific Weapons": "Dragon's doom",
+      "Price": "40,310 gp"
+    },
+    {
+      "d%": "10–13",
+      "Lesser Minor Specific Weapons": "Life-drinker",
+      "Price": "40,320 gp"
+    },
+    {
+      "d%": "14–16",
+      "Lesser Minor Specific Weapons": "Valor's minion",
+      "Price": "41,335 gp"
+    },
+    {
+      "d%": "17–18",
+      "Lesser Minor Specific Weapons": "Summoner's sorrow",
+      "Price": "42,816 gp"
+    },
+    {
+      "d%": "19–21",
+      "Lesser Minor Specific Weapons": "Sylvan scimitar",
+      "Price": "47,315 gp"
+    },
+    {
+      "d%": "22–23",
+      "Lesser Minor Specific Weapons": "Spirit blade",
+      "Price": "48,502 gp"
+    },
+    {
+      "d%": "24–26",
+      "Lesser Minor Specific Weapons": "Heartswood spear",
+      "Price": "50,302 gp"
+    },
+    {
+      "d%": "27–29",
+      "Lesser Minor Specific Weapons": "Rapier of puncturing",
+      "Price": "50,320 gp"
+    },
+    {
+      "d%": "30–32",
+      "Lesser Minor Specific Weapons": "Sun blade",
+      "Price": "50,335 gp"
+    },
+    {
+      "d%": "33–37",
+      "Lesser Minor Specific Weapons": "Blade of the rising sun",
+      "Price": "51,850 gp"
+    },
+    {
+      "d%": "38–40",
+      "Lesser Minor Specific Weapons": "Frost brand",
+      "Price": "54,475 gp"
+    },
+    {
+      "d%": "41–45",
+      "Lesser Minor Specific Weapons": "Dwarven thrower",
+      "Price": "60,312 gp"
+    },
+    {
+      "d%": "46–50",
+      "Lesser Minor Specific Weapons": "Bloodthirst dagger",
+      "Price": "60,802 gp"
+    },
+    {
+      "d%": "51–53",
+      "Lesser Minor Specific Weapons": "Warbringer",
+      "Price": "61,375 gp"
+    },
+    {
+      "d%": "54–57",
+      "Lesser Minor Specific Weapons": "Luck blade (1 wish)",
+      "Price": "62,360 gp"
+    },
+    {
+      "d%": "58–61",
+      "Lesser Minor Specific Weapons": "Guarding blade",
+      "Price": "65,310 gp"
+    },
+    {
+      "d%": "62–64",
+      "Lesser Minor Specific Weapons": "Pistol of the infinite sky",
+      "Price": "73,300 gp"
+    },
+    {
+      "d%": "65–69",
+      "Lesser Minor Specific Weapons": "Mace of smiting",
+      "Price": "75,312 gp"
+    },
+    {
+      "d%": "70–73",
+      "Lesser Minor Specific Weapons": "Blade of the sword-saint",
+      "Price": "75,350 gp"
+    },
+    {
+      "d%": "74–76",
+      "Lesser Minor Specific Weapons": "Scimitar of the spellthief",
+      "Price": "75,815 gp"
+    },
+    {
+      "d%": "77–79",
+      "Lesser Minor Specific Weapons": "Spider's fang",
+      "Price": "79,102 gp"
+    },
+    {
+      "d%": "80–82",
+      "Lesser Minor Specific Weapons": "Demonsorrow curve blade",
+      "Price": "90,469 gp"
+    },
+    {
+      "d%": "83–85",
+      "Lesser Minor Specific Weapons": "Void scythe",
+      "Price": "95,318 gp"
+    },
+    {
+      "d%": "86–89",
+      "Lesser Minor Specific Weapons": "Luck blade (2 wishes)",
+      "Price": "102,660 gp"
+    },
+    {
+      "d%": "90–92",
+      "Lesser Minor Specific Weapons": "Holy avenger",
+      "Price": "120,630 gp"
+    },
+    {
+      "d%": "93–96",
+      "Lesser Minor Specific Weapons": "Bastard's sting",
+      "Price": "123,035 gp"
+    },
+    {
+      "d%": "97–100",
+      "Lesser Minor Specific Weapons": "Luck blade (3 wishes)",
+      "Price": "142,960 gp"
+    }
+  ],
+
+  "WeaponData": [
+    {
+      "d%": "01",
+      "name": "Bastard sword",
+      "type": [ "Slashing" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "02-05",
+      "name": "Battleaxe",
+      "type": [ "Slashing" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "06",
+      "name": "Bolas",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "Thrown" ]
+    },
+    {
+      "d%": "07-08",
+      "name": "Club",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "09-10",
+      "name": "Composite longbow",
+      "type": [ "Piercing" ],
+      "weight": [ "Composite" ]
+    },
+    {
+      "d%": "11-12",
+      "name": "Composite shortbow",
+      "type": [ "Piercing" ],
+      "weight": [ "Composite" ]
+    },
+    {
+      "d%": "13-16",
+      "name": "Dagger",
+      "type": [ "Piercing", "Slashing" ],
+      "weight": [ "Light", "Thrown" ]
+    },
+    {
+      "d%": "17",
+      "name": "Dart",
+      "type": [ "Piercing" ],
+      "weight": [ "Thrown" ]
+    },
+    {
+      "d%": "18",
+      "name": "Dwarven waraxe",
+      "type": [ "Slashing" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "19",
+      "name": "Falchion",
+      "type": [ "Slashing" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "20",
+      "name": "Gauntlet",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "Unarmed" ]
+    },
+    {
+      "d%": "21",
+      "name": "Glaive",
+      "type": [ "Piercing" ],
+      "weight": [ "Thrown" ]
+    },
+    {
+      "d%": "22-24",
+      "name": "Greataxe",
+      "type": [ "Slashing" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "25",
+      "name": "Greatclub",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "26-28",
+      "name": "Greatsword",
+      "type": [ "Slashing" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "29",
+      "name": "Halberd",
+      "type": [ "Piercing", "Slashing" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "30",
+      "name": "Handaxe",
+      "type": [ "Slashing" ],
+      "weight": [ "Light" ]
+    },
+    {
+      "d%": "31-33",
+      "name": "Heavy crossbow",
+      "type": [ "Piercing" ],
+      "weight": [ "Crossbow" ]
+    },
+    {
+      "d%": "34",
+      "name": "Heavy flail",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "35",
+      "name": "Heavy mace",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "36-37",
+      "name": "Lance",
+      "type": [ "Piercing" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "38-40",
+      "name": "Light crossbow",
+      "type": [ "Piercing" ],
+      "weight": [ "Crossbow" ]
+    },
+    {
+      "d%": "41",
+      "name": "Light flail",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "42",
+      "name": "Light hammer",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "Light" ]
+    },
+    {
+      "d%": "43-44",
+      "name": "Light mace",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "Light" ]
+    },
+    {
+      "d%": "45",
+      "name": "Light pick",
+      "type": [ "Piercing" ],
+      "weight": [ "Light" ]
+    },
+    {
+      "d%": "46-49",
+      "name": "Longbow",
+      "type": [ "Piercing" ],
+      "weight": [ "BowNonComposite" ]
+    },
+    {
+      "d%": "50-51",
+      "name": "Longspear",
+      "type": [ "Piercing" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "52-58",
+      "name": "Longsword",
+      "type": [ "Slashing" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "59-60",
+      "name": "Morningstar",
+      "type": [ "Piercing", "Bludgeoning" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "61",
+      "name": "Nunchaku",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "Light" ]
+    },
+    {
+      "d%": "62-63",
+      "name": "Quarterstaff",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "64-65",
+      "name": "Rapier",
+      "type": [ "Piercing" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "85-87",
+      "name": "Spear",
+      "type": [ "Piercing" ],
+      "weight": [ "TwoHanded" ]
+    },
+    {
+      "d%": "88",
+      "name": "Trident",
+      "type": [ "Piercing" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "89-91",
+      "name": "Warhammer",
+      "type": [ "Bludgeoning" ],
+      "weight": [ "OneHanded" ]
+    },
+    {
+      "d%": "92",
+      "name": "Whip",
+      "type": [ "Slashing" ],
+      "weight": [ "OneHanded" ]
+    }
+  ]
+}

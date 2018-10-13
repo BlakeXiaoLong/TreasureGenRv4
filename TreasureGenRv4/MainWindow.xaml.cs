@@ -14,9 +14,9 @@ namespace TreasureGenRv4
             ScrollFactory s = new ScrollFactory(RarityTypeEnum.LesserMajor);
             PotionFactory p = new PotionFactory(RarityTypeEnum.GreaterMajor);
             WandFactory w = new WandFactory(RarityTypeEnum.GreaterMinor);
-            Treasure t0 = s.CreateNew();
-            Treasure t1 = p.CreateNew();
-            Treasure t2 = w.CreateNew();
+            Treasure t0 = s.GetResult();
+            Treasure t1 = p.GetResult();
+            Treasure t2 = w.GetResult();
         }
     }
 }

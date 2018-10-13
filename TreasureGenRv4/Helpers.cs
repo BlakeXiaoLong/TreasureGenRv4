@@ -34,7 +34,8 @@ namespace TreasureGenRv4
         internal static DataRow GetRow(DataSet ds, string tableName, string colName)
         {
             int roll = Roll(1, 100);
-            return ds.Tables[tableName].AsEnumerable().FirstOrDefault(x => InRange(x.Field<string>(colName), roll));
+            return ds.Tables[tableName].AsEnumerable().FirstOrDefault(x => InRange(x.Field<string>(colName), roll)) ?? GetRow(ds, tableName, colName);
+
         }
     }
 }
