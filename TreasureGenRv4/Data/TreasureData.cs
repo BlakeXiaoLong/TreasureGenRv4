@@ -10,7 +10,8 @@ namespace TreasureGenRv4.Data
         public DataSet WandData { get; private set; }
         public DataSet PotionData { get; private set; }
         public DataSet ScrollData { get; private set; }
-        public DataSet ArmamentData { get; private set; }
+        public DataSet WeaponData { get; private set; }
+        public DataSet ArmorData { get; private set; }
 
         private static readonly Lazy<TreasureData> lazy = new Lazy<TreasureData>(() => new TreasureData());
         public static TreasureData Instance { get { return lazy.Value; } }
@@ -19,7 +20,8 @@ namespace TreasureGenRv4.Data
             WandData = JsonConvert.DeserializeObject<DataSet>(File.ReadAllText("Data\\WandData.json"));
             PotionData = JsonConvert.DeserializeObject<DataSet>(File.ReadAllText("Data\\PotionData.json"));
             ScrollData = JsonConvert.DeserializeObject<DataSet>(File.ReadAllText("Data\\ScrollData.json"));
-            ArmamentData = JsonConvert.DeserializeObject<DataSet>(File.ReadAllText("Data\\ArmamentData.json"));
+            WeaponData = JsonConvert.DeserializeObject<DataSet>(File.ReadAllText("Data\\WeaponData.json"));
+            ArmorData = JsonConvert.DeserializeObject<DataSet>(File.ReadAllText("Data\\ArmorData.json"));
         }
     }
 }

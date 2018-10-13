@@ -11,9 +11,9 @@ namespace TreasureGenRv4
         public MainWindow()
         {
             InitializeComponent();
-            ScrollFactory s = new ScrollFactory(RarityTypeEnum.LesserMajor);
-            PotionFactory p = new PotionFactory(RarityTypeEnum.GreaterMajor);
-            WandFactory w = new WandFactory(RarityTypeEnum.GreaterMinor);
+            ScrollBuilder s = new ScrollBuilder();
+            PotionBuilder p = new PotionBuilder();
+            WandBuilder w = new WandBuilder();
             Treasure t0 = s.GetResult();
             Treasure t1 = p.GetResult();
             Treasure t2 = w.GetResult();

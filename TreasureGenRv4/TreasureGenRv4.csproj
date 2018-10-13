@@ -59,7 +59,7 @@
     </ApplicationDefinition>
     <Compile Include="Data\TreasureData.cs" />
     <Compile Include="Treasure.cs" />
-    <Compile Include="TreasureFactory.cs" />
+    <Compile Include="TreasureBuilder.cs" />
     <Compile Include="Helpers.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

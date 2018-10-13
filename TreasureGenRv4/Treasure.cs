@@ -46,6 +46,16 @@ namespace TreasureGenRv4
         Wrists,
         Slotless
     }
+    public enum RarityTypeEnum
+    {
+        Masterwork,
+        LesserMinor,
+        GreaterMinor,
+        LesserMedium,
+        GreaterMedium,
+        LesserMajor,
+        GreaterMajor
+    }
 
     public class Treasure
     {
@@ -68,13 +78,21 @@ namespace TreasureGenRv4
     }
     public class EnchantableTreasure : CharacterizedTreasure
     {
-        private List<string> _enchantments;
+        private List<Enchantment> _enchantments;
 
         public int Enhancement { get; internal set; }
-        public IEnumerable<string> Enchantments
+        public IEnumerable<Enchantment> Enchantments
         {
             get => _enchantments.AsReadOnly();
             internal set => _enchantments = value.ToList();
         }
+    }
+
+    public class Enchantment
+    {
+        public string Name { get; set; }
+        public string Price { get; set; }
+        public string Weight { get; set; }
+        public string[] Type { get; set; }
     }
 }
